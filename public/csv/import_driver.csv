@@ -1,0 +1,3 @@
+name,countryCode,mobileNumber,email,address,password,account_number,account_name,bank_name,routing_number
+Priyesh,91,9876543210,abcd@gmail.com,Delhi,123456,123456,abc,sbi,xyz
+Priyesh,91,9876543210,priyeshk43@gmail.com,Delhi,123456,123456,abc,sbi,xyz

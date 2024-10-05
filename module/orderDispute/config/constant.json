@@ -1,0 +1,13 @@
+{
+    "disputeWith": [
+        "driver",
+        "vendor",
+        "serviceProvider"
+    ],
+    "replyBy": [
+        "USER",
+        "ADMIN",
+        "VENDOR",
+        "DRIVER"
+    ]
+}

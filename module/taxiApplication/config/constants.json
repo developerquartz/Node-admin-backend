@@ -1,0 +1,59 @@
+{
+    "ACCESS_TYPE": [
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/nearby",
+			"method": "POST",
+			"type": "trip"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/vehicletypes",
+			"method": "POST",
+			"type": "trip"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/create",
+			"method": "POST",
+			"type": "trip"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/cancelTrip",
+			"method": "POST",
+			"type": "trip"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/emergencyContact/add",
+			"method": "POST",
+			"type": "trip"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/emergencyContact/getContactById",
+			"method": "POST",
+			"type": "trip"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/emergencyContact/update",
+			"method": "POST",
+			"type": "trip"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/emergencyContact/remove",
+			"method": "POST",
+			"type": "trip"
+		},
+		{
+			"action": "GET",
+			"apiUrl": "/authenticationservice/api/v1/trip/user/emergencyContact/getAll",
+			"method": "GET",
+			"type": "trip"
+		}],
+	"ACCESS_TYPE_DEFAULT_STORE": [
+		]
+}

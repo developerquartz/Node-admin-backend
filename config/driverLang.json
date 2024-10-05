@@ -1,0 +1,805 @@
+{
+    "langJSON_arr": [
+        {
+            "constant": "noPaymentTemplates",
+            "value": "Please Ask Admin To Create Templates",
+            "label": "Please Ask Admin To Create Templates"
+        },
+        {
+            "constant": "loginToContinueText",
+            "value": "Please! login to continue",
+            "label": "Please! login to continue"
+        },
+        {
+            "constant": "addPaymentText",
+            "value": "Add Payment Details",
+            "label": "Add Payment Details"
+        },
+        {
+            "constant": "updatePaymentText",
+            "value": "Update Payment Details",
+            "label": "Update Payment Details"
+        },
+        {
+            "constant": "thankYouText",
+            "value": "Thank You",
+            "label": "Thank You"
+        },
+        {
+            "constant": "pleaseRateCustomer",
+            "value": "Please Rate Customer",
+            "label": "Please Rate Customer"
+        },
+        {
+            "constant": "registrationSuccessText",
+            "value": "Your Registration is Successfull.",
+            "label": "Your Registration is Successfull."
+        },
+        {
+            "constant": "waitingAdminApprovalText",
+            "value": "Waiting Admin's Approval.",
+            "label": "Waiting Admin's Approval."
+        },
+        {
+            "constant": "goToLoginText",
+            "value": "Go To Login",
+            "label": "Go To Login"
+        },
+        {
+            "constant": "enterCodeVerificationText",
+            "value": "Enter the 4-digit code sent to you at",
+            "label": "Enter the 4-digit code sent to you at"
+        },
+        {
+            "constant": "isForgotPassword",
+            "value": "Forgot Password ?",
+            "label": "Forgot Password ?"
+        },
+        {
+            "constant": "alreadyHaveAccount",
+            "value": "Already have an account? ",
+            "label": "Already have an account? "
+        },
+        {
+            "constant": "paymentAlreadyExist",
+            "value": "Payment details already exists",
+            "label": "Payment details already exists"
+        },
+        {
+            "constant": "signUpText",
+            "value": "Sign Up",
+            "label": "Sign Up"
+        },
+        {
+            "constant": "changePassword",
+            "value": "Change Password",
+            "label": "Change Password"
+        },
+        {
+            "constant": "editProfile",
+            "value": "Edit Profile",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "dontHaveAccountText",
+            "value": "Don't have an Account? ",
+            "label": "Don't have an Account? "
+        },
+        {
+            "constant": "passwordSuccessToast",
+            "value": "Password reset successfully!!",
+            "label": "Password reset successfully!!"
+        },
+        {
+            "constant": "paymentsDetailsHeader",
+            "value": "Payment Details",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "signInText",
+            "value": "Sign In",
+            "label": "Sign In"
+        },
+        {
+            "constant": "oldPassword",
+            "value": "Old Password",
+            "label": "Old Password"
+        },
+        {
+            "constant": "tapToRefresh",
+            "value": "Tap to Refresh",
+            "label": "Tap to Refresh"
+        },
+        {
+            "constant": "customerName",
+            "value": "Customer Name",
+            "label": "Customer Name"
+        },
+        {
+            "constant": "arrivedText",
+            "value": "Arrived",
+            "label": "Arrived"
+        },
+        {
+            "constant": "completeText",
+            "value": "Complete",
+            "label": "Complete"
+        },
+        {
+            "constant": "orderSummaryText",
+            "value": "Order Summary",
+            "label": "Order Summary"
+        },
+        {
+            "constant": "orderNoText",
+            "value": "Order No",
+            "label": "Order No"
+        },
+        {
+            "constant": "orderStatusText",
+            "value": "Order Status",
+            "label": "Order Status"
+        },
+        {
+            "constant": "paidText",
+            "value": "Paid",
+            "label": "Paid"
+        },
+        {
+            "constant": "describeExperienceText",
+            "value": "Describe your experience",
+            "label": "Describe your experience"
+        },
+        {
+            "constant": "submitText",
+            "value": "Submit",
+            "label": "Submit"
+        },
+        {
+            "constant": "locationText",
+            "value": "Location",
+            "label": "Location"
+        },
+        {
+            "constant": "noDocumentsText",
+            "value": "No Documents Added",
+            "label": "No Documents Added"
+        },
+        {
+            "constant": "storeIdText",
+            "value": "Store Id",
+            "label": "Store Id"
+        },
+        {
+            "constant": "totalBalanceText",
+            "value": "Total Balance",
+            "label": "Total Balance"
+        },
+        {
+            "constant": "addMoneyText",
+            "value": "Add Money",
+            "label": "Add Money"
+        },
+        {
+            "constant": "nameEmptyValid",
+            "value": "Please enter name!!",
+            "label": "Please enter name!!"
+        },
+        {
+            "constant": "emailEmptyValid",
+            "value": "Please enter email!!",
+            "label": "Please enter email!!"
+        },
+        {
+            "constant": "emailValid",
+            "value": "Please enter valid email!!",
+            "label": "Please enter valid email!!"
+        },
+        {
+            "constant": "passwordEmptyValid",
+            "value": "Please Enter password!!",
+            "label": "Please Enter password!!"
+        },
+        {
+            "constant": "confirmPasswordEmptyValid",
+            "value": "Please Enter Confirm password!!",
+            "label": "Please Enter Confirm password!!"
+        },
+        {
+            "constant": "mobileNumberEmptyValid",
+            "value": "Enter your mobile number!!",
+            "label": "Enter your mobile number!!"
+        },
+        {
+            "constant": "addressEmptyValid",
+            "value": "Please enter address!!",
+            "label": "Please enter address!!"
+        },
+        {
+            "constant": "paymentDetailsValid",
+            "value": "Please add payment details",
+            "label": "Please add payment details"
+        },
+        {
+            "constant": "reviewCustomerValid",
+            "value": "Please Share Customer's Review",
+            "label": "Please Share Customer's Review"
+        },
+        {
+            "constant": "passwordMismatchValid",
+            "value": "New and Confirm Password doesn't match",
+            "label": "New and Confirm Password doesn't match"
+        },
+        {
+            "constant": "currentPasswordEmptyValid",
+            "value": "Please enter current password!!",
+            "label": "Please enter current password!!"
+        },
+        {
+            "constant": "newPasswordEmptyValid",
+            "value": "Please enter new password!!",
+            "label": "Please enter new password!!"
+        },
+        {
+            "constant": "confirmPasswordValid",
+            "value": "Enter confirm password",
+            "label": "Enter confirm password"
+        },
+        {
+            "constant": "oldAndNewPasswordSameValid",
+            "value": "Old password and new password cannot be same!!",
+            "label": "Old password and new password cannot be same!!"
+        },
+        {
+            "constant": "storeIdEmptyValid",
+            "value": "Please enter Store Id",
+            "label": "Please enter Store Id"
+        },
+        {
+            "constant": "homeDrawer",
+            "value": "Home",
+            "label": "Home"
+        },
+        {
+            "constant": "documentDrawer",
+            "value": "Documents",
+            "label": "Documents"
+        },
+        {
+            "constant": "earningDrawer",
+            "value": "Earning",
+            "label": "Earning"
+        },
+        {
+            "constant": "paymentDrawer",
+            "value": "Payment Details",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "profileDrawer",
+            "value": "Profile",
+            "label": "Profile"
+        },
+        {
+            "constant": "contactUsDrawer",
+            "value": "Contact Us",
+            "label": "Contact Us"
+        },
+        {
+            "constant": "logoutDrawer",
+            "value": "Logout",
+            "label": "Logout"
+        },
+        {
+            "constant": "walletDrawer",
+            "value": "Wallet",
+            "label": "Wallet"
+        },
+        {
+            "constant": "homeHeader",
+            "value": "Home",
+            "label": "Home"
+        },
+        {
+            "constant": "updateDocumentHeader",
+            "value": "Update Documents",
+            "label": "Update Documents"
+        },
+        {
+            "constant": "uploadDocumentHeader",
+            "value": "Upload Documents",
+            "label": "Upload Documents"
+        },
+        {
+            "constant": "earningHeader",
+            "value": "Earning",
+            "label": "Earning"
+        },
+        {
+            "constant": "paymentHeader",
+            "value": "Payment Details",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "profileHeader",
+            "value": "Profile",
+            "label": "Profile"
+        },
+        {
+            "constant": "editProfileHeader",
+            "value": "Edit Profile",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "contactUsHeader",
+            "value": "Contact Us",
+            "label": "Contact Us"
+        },
+        {
+            "constant": "logoutHeader",
+            "value": "Logout",
+            "label": "Logout"
+        },
+        {
+            "constant": "changePasswordHeader",
+            "value": "Change Password",
+            "label": "Change Password"
+        },
+        {
+            "constant": "forgotPasswordHeader",
+            "value": "Forgot Password",
+            "label": "Forgot Password"
+        },
+        {
+            "constant": "orderDetailsHeader",
+            "value": "Order Details",
+            "label": "Order Details"
+        },
+        {
+            "constant": "updateDetailsHeader",
+            "value": "Update Details",
+            "label": "Update Details"
+        },
+        {
+            "constant": "uploadDetailsHeader",
+            "value": "Upload Details",
+            "label": "Upload Details"
+        },
+        {
+            "constant": "walletHeader",
+            "value": "Wallet",
+            "label": "Wallet"
+        },
+        {
+            "constant": "namePlaceholder",
+            "value": "Name",
+            "label": "Name"
+        },
+        {
+            "constant": "emailPlaceholder",
+            "value": "Email",
+            "label": "Email"
+        },
+        {
+            "constant": "addressPlaceholder",
+            "value": "Address",
+            "label": "Address"
+        },
+        {
+            "constant": "passwordPlaceholder",
+            "value": "Password",
+            "label": "Password"
+        },
+        {
+            "constant": "accountNumberPlaceholder",
+            "value": "Account Number*",
+            "label": "Account Number*"
+        },
+        {
+            "constant": "routingNumberPlaceholder",
+            "value": "Routing Number*",
+            "label": "Routing Number*"
+        },
+        {
+            "constant": "accountHolderNamePlaceholder",
+            "value": "Account Holder Name*",
+            "label": "Account Holder Name*"
+        },
+        {
+            "constant": "bankNamePlaceholder",
+            "value": "Bank Name*",
+            "label": "Bank Name*"
+        },
+        {
+            "constant": "newPasswordPlaceholder",
+            "value": "New Password",
+            "label": "New Password"
+        },
+        {
+            "constant": "confirmPasswordPlaceholder",
+            "value": "Confirm Password",
+            "label": "Confirm Password"
+        },
+        {
+            "constant": "mobilePlaceholderText",
+            "value": "Mobile number",
+            "label": "Mobile number"
+        },
+        {
+            "constant": "addressSearchPlaceholder",
+            "value": "Search..",
+            "label": "Search.."
+        },
+        {
+            "constant": "paymentAddSuccessToast",
+            "value": "Payment detail has been added successfully",
+            "label": "Payment detail has been added successfully"
+        },
+        {
+            "constant": "paymentUpdateSuccessToast",
+            "value": "Payment detail has been updated successfully",
+            "label": "Payment detail has been updated successfully"
+        },
+        {
+            "constant": "passwordResetSuccessToast",
+            "value": "Password has been reset successfully",
+            "label": "Password has been reset successfully"
+        },
+        {
+            "constant": "connectStripeHeader",
+            "value": "Connect Stripe",
+            "label": "Connect Stripe"
+        },
+        {
+            "constant": "connectStripeText",
+            "value": "Connect Stripe",
+            "label": "Connect Stripe"
+        },
+        {
+            "constant": "connectedStripeText",
+            "value": "Connected",
+            "label": "Connected"
+        },
+        {
+            "constant": "stripeLinkedText",
+            "value": "Stripe Connect Linked",
+            "label": "Stripe Connect Linked"
+        },
+        {
+            "constant": "stripeNotLinkedText",
+            "value": "Stripe Connect Not Linked",
+            "label": "Stripe Connect Not Linked"
+        },
+        {
+            "constant": "loginHeader",
+            "value": "Login",
+            "label": "Login"
+        },
+        {
+            "constant": "pleaseEnterEmail",
+            "value": "Please enter your email",
+            "label": "Please enter your email"
+        },
+        {
+            "constant": "verifyCodeHeader",
+            "value": "Verify Code",
+            "label": "Verify Code"
+        },
+        {
+            "constant": "resendCode",
+            "value": "Resend code",
+            "label": "Resend code"
+        },
+        {
+            "constant": "resetPasswordHeader",
+            "value": "Reset Password",
+            "label": "Reset Password"
+        },
+        {
+            "constant": "pleaseEnterNewPassword",
+            "value": "'Please enter your new password",
+            "label": "'Please enter your new password"
+        },
+        {
+            "constant": "passwordMustContain",
+            "value": "Your Password must contain: ",
+            "label": "Your Password must contain: "
+        },
+        {
+            "constant": "atLeastSixChars",
+            "value": "At least 6 characters",
+            "label": "At least 6 characters"
+        },
+        {
+            "constant": "containNumber",
+            "value": "Contains a number",
+            "label": "Contains a number"
+        }
+    ],
+    "Insert_JSON_arr": [
+        {
+            "constant": "thankContactUsText",
+            "value": "Thanks for choosing Meal here.",
+            "label": "Thanks for choosing Meal here."
+        },
+        {
+            "constant": "querryContactUsText",
+            "value": "For any query, please contact us on the below details",
+            "label": "For any query, please contact us on the below details"
+        },
+        {
+            "constant": "orderPreparedText",
+            "value": "Order being Prepared",
+            "label": "Order being Prepared"
+        },
+        {
+            "constant": "prepareOrderText",
+            "value": "We are preparing your order",
+            "label": "We are preparing your order"
+        },
+        {
+            "constant": "readyToPickupText",
+            "value": "Ready to Pickup",
+            "label": "Ready to Pickup"
+        },
+        {
+            "constant": "orderReadyToPickupText",
+            "value": "Your Order is ready to pickup",
+            "label": "Your Order is ready to pickup"
+        },
+        {
+            "constant": "pickupText",
+            "value": "Pickup",
+            "label": "Pickup"
+        },
+        {
+            "constant": "delieveryLocationText",
+            "value": "Delievery Location",
+            "label": "Delievery Location"
+        },
+        {
+            "constant": "orderSuccessfullDelieveredText",
+            "value": "Your order has been successfully delievered",
+            "label": "Your order has been successfully delievered"
+        },
+        {
+            "constant": "isAgreeText",
+            "value": "I agree to the",
+            "label": "I agree to the"
+        },
+        {
+            "constant": "pleaseAcceptTerms",
+            "value": "Please Acccept Terms & Conditions",
+            "label": "Please Acccept Terms & Conditions"
+        },
+        {
+            "constant": "terms_condition",
+            "value": "Terms & Condition",
+            "label": "Terms & Condition"
+        }
+    ],
+    "langJSON_old": {
+        "noPaymentTemplates": "Please Ask Admin To Create Templates",
+        "loginToContinueText": "Please! login to continue",
+        "addPaymentText": "Add Payment Details",
+        "updatePaymentText": "Update Payment Details",
+        "thankContactUsText": "Thanks for choosing Meal here.",
+        "querryContactUsText": "For any query, please contact us on the below details:",
+        "thankYouText": "Thank You",
+        "pleaseRateCustomer": "Please Rate Customer",
+        "registrationSuccessText": "Your Registration is Successfull.",
+        "waitingAdminApprovalText": "Waiting Admin's Approval.",
+        "goToLoginText": "Go To Login",
+        "enterCodeVerificationText": "Enter the 4-digit code sent to you at",
+        "isForgotPassword": "Forgot Password ?",
+        "alreadyHaveAccount": "Already have an account? ",
+        "paymentAlreadyExist": "Payment details already exists",
+        "signUpText": "Sign Up",
+        "changePassword": "Change Password",
+        "editProfile": "Edit Profile",
+        "dontHaveAccountText": "Don't have an Account? ",
+        "passwordSuccessToast": "Password reset successfully!!",
+        "paymentsDetailsHeader": "Payment Details",
+        "signInText": "Sign In",
+        "oldPassword": "Old Password",
+        "tapToRefresh": "Tap to Refresh",
+        "customerName": "Customer Name",
+        "arrivedText": "Arrived",
+        "completeText": "Complete",
+        "orderSummaryText": "Order Summary",
+        "orderNoText": "Order No",
+        "orderStatusText": "Order Status",
+        "orderPreparedText": "Order being Prepared",
+        "prepareOrderText": "We are preparing your order",
+        "readyToPickupText": "Ready to Pickup",
+        "orderReadyToPickupText": "Your Order is ready to pickup",
+        "pickupText": "Pickup",
+        "delieveryLocationText": "Delievery Location",
+        "orderSuccessfullDelieveredText": "Your order has been successfully delievered",
+        "paidText": "Paid",
+        "describeExperienceText": "Describe your experience",
+        "submitText": "Submit",
+        "locationText": "Location",
+        "noDocumentsText": "No Documents Added",
+        "nameEmptyValid": "Please enter name!!",
+        "emailEmptyValid": "Please enter email!!",
+        "emailValid": "Please enter valid email!!",
+        "passwordEmptyValid": "Please Enter password!!",
+        "confirmPasswordEmptyValid": "Please Enter Confirm password!!",
+        "mobileNumberEmptyValid": "Enter your mobile number!!",
+        "addressEmptyValid": "Please enter address!!",
+        "paymentDetailsValid": "Please add payment details",
+        "reviewCustomerValid": "Please Share Customer's Review",
+        "passwordMismatchValid": "New and Confirm Password doesn't match",
+        "currentPasswordEmptyValid": "Please enter current password!!",
+        "newPasswordEmptyValid": "Please enter new password!!",
+        "confirmPasswordValid": "Enter confirm password",
+        "oldAndNewPasswordSameValid": "Old password and new password cannot be same!!",
+        "homeDrawer": "Home",
+        "documentDrawer": "Documents",
+        "earningDrawer": "Earning",
+        "paymentDrawer": "Payment Details",
+        "profileDrawer": "Profile",
+        "contactUsDrawer": "Contact Us",
+        "logoutDrawer": "Logout",
+        "homeHeader": "Home",
+        "updateDocumentHeader": "Update Documents",
+        "uploadDocumentHeader": "Upload Documents",
+        "earningHeader": "Earning",
+        "paymentHeader": "Payment Details",
+        "profileHeader": "Profile",
+        "editProfileHeader": "Edit Profile",
+        "contactUsHeader": "Contact Us",
+        "logoutHeader": "Logout",
+        "changePasswordHeader": "Change Password",
+        "forgotPasswordHeader": "Forgot Password",
+        "orderDetailsHeader": "Order Details",
+        "updateDetailsHeader": "Update Details",
+        "uploadDetailsHeader": "Upload Details",
+        "namePlaceholder": "Name",
+        "emailPlaceholder": "Email",
+        "addressPlaceholder": "Address",
+        "passwordPlaceholder": "Password",
+        "accountNumberPlaceholder": "Account Number*",
+        "routingNumberPlaceholder": "Routing Number*",
+        "accountHolderNamePlaceholder": "Account Holder Name*",
+        "bankNamePlaceholder": "Bank Name*",
+        "newPasswordPlaceholder": "New Password",
+        "confirmPasswordPlaceholder": "Confirm Password",
+        "mobilePlaceholderText": "Mobile number",
+        "addressSearchPlaceholder": "Search..",
+        "paymentAddSuccessToast": "Payment detail has been added successfully",
+        "paymentUpdateSuccessToast": "Payment detail has been updated successfully",
+        "passwordResetSuccessToast": "Password has been reset successfully",
+        "storeIdText": "Store Id",
+        "storeIdEmptyValid": "Please enter Store Id"
+    },
+    "langJSON": {
+        "noPaymentTemplates": "Please Ask Admin To Create Templates",
+        "loginToContinueText": "Please! login to continue",
+        "addPaymentText": "Add Payment Details",
+        "updatePaymentText": "Update Payment Details",
+        "thankContactUsText": "Thanks for choosing Meal here.",
+        "querryContactUsText": "For any query, please contact us on the below details",
+        "thankYouText": "Thank You",
+        "pleaseRateCustomer": "Please Rate Customer",
+        "registrationSuccessText": "Your Registration is Successfull.",
+        "waitingAdminApprovalText": "Waiting Admin's Approval.",
+        "goToLoginText": "Go To Login",
+        "enterCodeVerificationText": "Enter the 4-digit code sent to you at",
+        "isForgotPassword": "Forgot Password ?",
+        "alreadyHaveAccount": "Already have an account? ",
+        "paymentAlreadyExist": "Payment details already exists",
+        "signUpText": "Sign Up",
+        "changePassword": "Change Password",
+        "editProfile": "Edit Profile",
+        "dontHaveAccountText": "Don't have an Account? ",
+        "passwordSuccessToast": "Password reset successfully!!",
+        "paymentsDetailsHeader": "Payment Details",
+        "signInText": "Sign In",
+        "oldPassword": "Old Password",
+        "tapToRefresh": "Tap to Refresh",
+        "customerName": "Customer Name",
+        "arrivedText": "Arrived",
+        "completeText": "Complete",
+        "orderSummaryText": "Order Summary",
+        "orderNoText": "Order No",
+        "orderStatusText": "Order Status",
+        "orderPreparedText": "Order being Prepared",
+        "prepareOrderText": "We are preparing your order",
+        "readyToPickupText": "Ready to Pickup",
+        "orderReadyToPickupText": "Your Order is ready to pickup",
+        "pickupText": "Pickup",
+        "delieveryLocationText": "Delievery Location",
+        "orderSuccessfullDelieveredText": "Your order has been successfully delievered",
+        "paidText": "Paid",
+        "describeExperienceText": "Describe your experience",
+        "submitText": "Submit",
+        "locationText": "Location",
+        "noDocumentsText": "No Documents Added",
+        "storeIdText": "Store Id",
+        "totalBalanceText": "Total Balance",
+        "addMoneyText": "Add Money",
+        "nameEmptyValid": "Please enter name!!",
+        "emailEmptyValid": "Please enter email!!",
+        "emailValid": "Please enter valid email!!",
+        "passwordEmptyValid": "Please Enter password!!",
+        "confirmPasswordEmptyValid": "Please Enter Confirm password!!",
+        "mobileNumberEmptyValid": "Enter your mobile number!!",
+        "addressEmptyValid": "Please enter address!!",
+        "paymentDetailsValid": "Please add payment details",
+        "reviewCustomerValid": "Please Share Customer's Review",
+        "passwordMismatchValid": "New and Confirm Password doesn't match",
+        "currentPasswordEmptyValid": "Please enter current password!!",
+        "newPasswordEmptyValid": "Please enter new password!!",
+        "confirmPasswordValid": "Enter confirm password",
+        "oldAndNewPasswordSameValid": "Old password and new password cannot be same!!",
+        "storeIdEmptyValid": "Please enter Store Id",
+        "homeDrawer": "Home",
+        "documentDrawer": "Documents",
+        "earningDrawer": "Earning",
+        "paymentDrawer": "Payment Details",
+        "profileDrawer": "Profile",
+        "contactUsDrawer": "Contact Us",
+        "logoutDrawer": "Logout",
+        "walletDrawer": "Wallet",
+        "homeHeader": "Home",
+        "updateDocumentHeader": "Update Documents",
+        "uploadDocumentHeader": "Upload Documents",
+        "earningHeader": "Earning",
+        "paymentHeader": "Payment Details",
+        "profileHeader": "Profile",
+        "editProfileHeader": "Edit Profile",
+        "contactUsHeader": "Contact Us",
+        "logoutHeader": "Logout",
+        "changePasswordHeader": "Change Password",
+        "forgotPasswordHeader": "Forgot Password",
+        "orderDetailsHeader": "Order Details",
+        "updateDetailsHeader": "Update Details",
+        "uploadDetailsHeader": "Upload Details",
+        "walletHeader": "Wallet",
+        "namePlaceholder": "Name",
+        "emailPlaceholder": "Email",
+        "addressPlaceholder": "Address",
+        "passwordPlaceholder": "Password",
+        "accountNumberPlaceholder": "Account Number*",
+        "routingNumberPlaceholder": "Routing Number*",
+        "accountHolderNamePlaceholder": "Account Holder Name*",
+        "bankNamePlaceholder": "Bank Name*",
+        "newPasswordPlaceholder": "New Password",
+        "confirmPasswordPlaceholder": "Confirm Password",
+        "mobilePlaceholderText": "Mobile number",
+        "addressSearchPlaceholder": "Search..",
+        "paymentAddSuccessToast": "Payment detail has been added successfully",
+        "paymentUpdateSuccessToast": "Payment detail has been updated successfully",
+        "passwordResetSuccessToast": "Password has been reset successfully",
+        "connectStripeHeader": "Connect Stripe",
+        "connectStripeText": "Connect Stripe",
+        "connectedStripeText": "Connected",
+        "stripeLinkedText": "Stripe Connect Linked",
+        "stripeNotLinkedText": "Stripe Connect Not Linked",
+        "loginHeader": "Login",
+        "pleaseEnterEmail": "Please enter your email",
+        "verifyCodeHeader": "Verify Code",
+        "resendCode": "Resend code",
+        "resetPasswordHeader": "Reset Password",
+        "pleaseEnterNewPassword": "'Please enter your new password",
+        "passwordMustContain": "Your Password must contain: ",
+        "atLeastSixChars": "At least 6 characters",
+        "containNumber": "Contains a number",
+        "isAgreeText": "I agree to the",
+        "pleaseAcceptTerms": "Please Acccept Terms & Conditions",
+        "terms_condition": "Terms & Condition"
+    },
+    "V1.7_terminology": {
+        "loginHeader": "Login",
+        "pleaseEnterEmail": "Please enter your email",
+        "verifyCodeHeader": "Verify Code",
+        "resendCode": "Resend code",
+        "resetPasswordHeader": "Reset Password",
+        "pleaseEnterNewPassword": "'Please enter your new password",
+        "passwordMustContain": "Your Password must contain: ",
+        "atLeastSixChars": "At least 6 characters",
+        "containNumber": "Contains a number"
+    }
+}

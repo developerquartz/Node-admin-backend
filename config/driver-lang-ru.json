@@ -1,0 +1,1531 @@
+{
+    "langJSON_arr": [
+        {
+            "constant": "vehicleInformationText",
+            "value": "Информация о машине",
+            "label": "Vehicle information"
+        },
+        {
+            "constant": "basicPriceText",
+            "value": "Базовая цена",
+            "label": "Basic Price"
+        },
+        {
+            "constant": "PricePerUnitDistanceText",
+            "value": "Цена за единицу расстояния",
+            "label": "Price Per Unit Distance"
+        },
+        {
+            "constant": "PricePerUnitMinutesText",
+            "value": "Цена за единицу времени минуту",
+            "label": "Price Per Unit Minutes"
+        },
+        {
+            "constant": "rideDetails",
+            "value": "Детали поездки",
+            "label": "Ride Details"
+        },
+        {
+            "constant": "delete",
+            "value": "Удалить",
+            "label": "Delete"
+        },
+        {
+            "constant": "confirmDeteleAlert",
+            "value": "Вы действительно хотите удалить свой аккаунт",
+            "label": "Are you sure want to Delete Your Account"
+        },
+        {
+            "constant": "deleteAccountText",
+            "value": "Удалить аккаунт",
+            "label": "Account Delete"
+        },
+        {
+            "constant": "totalFare",
+            "value": "Общая стоимость",
+            "label": "Total Fare"
+        },
+        {
+            "constant": "yourEarning",
+            "value": "Ваш заработок",
+            "label": "Your Earning"
+        },
+        {
+            "constant": "addCardLabel",
+            "value": "+Добавить карту",
+            "label": "Add Card"
+        },
+        {
+            "constant": "selectLanguage",
+            "value": "Выбрать язык",
+            "label": "Select Language"
+        },
+        {
+            "constant": "Continue",
+            "value": "Продолжать",
+            "label": "Continue"
+        },
+        {
+            "constant": "changeLanguage",
+            "value": "Изменить язык",
+            "label": "Change Language"
+        },
+        {
+            "constant": "noPaymentTemplates",
+            "value": "Попросите администратора создать шаблоны",
+            "label": "Please Ask Admin To Create Templates"
+        },
+        {
+            "constant": "welcomeTo",
+            "value": "Добро пожаловать",
+            "label": "Welcome to"
+        },
+        {
+            "constant": "totalFare",
+            "value": "Общая стоимость",
+            "label": "Total Fare"
+        },
+        {
+            "constant": "yourEarning",
+            "value": "Ваш заработок",
+            "label": "Your Earning"
+        },
+        {
+            "constant": "notAdd",
+            "value": "Не добавлено",
+            "label": "Not Added"
+        },
+        {
+            "constant": "driverDashboard",
+            "value": "Панель управления водителем",
+            "label": "Driver Dashboard"
+        },
+        {
+            "constant": "loginToContinueText",
+            "value": "Войдите, чтобы продолжить",
+            "label": "Please! login to continue"
+        },
+        {
+            "constant": "noVehicleAddedText",
+            "value": "Нет транспортного средства",
+            "label": "No Vehicle"
+        },
+        {
+            "constant": "addPaymentText",
+            "value": "Добавить детали платежа",
+            "label": "Add Payment Details"
+        },
+        {
+            "constant": "updatePaymentText",
+            "value": "Обновить детали платежа",
+            "label": "Update Payment Details"
+        },
+        {
+            "constant": "thankYouText",
+            "value": "Спасибо",
+            "label": "Thank You"
+        },
+        {
+            "constant": "pleaseRateCustomer",
+            "value": "Пожалуйста, оцените клиента",
+            "label": "Please Rate Customer"
+        },
+        {
+            "constant": "goToLoginText",
+            "value": "Перейти к входу",
+            "label": "Go To Login"
+        },
+        {
+            "constant": "enterCodeVerificationText",
+            "value": "Введите 4-значный код, отправленный вам по адресу",
+            "label": "Enter the 4-digit code sent to you at"
+        },
+        {
+            "constant": "isForgotPassword",
+            "value": "Забыли пароль?",
+            "label": "Forgot Password ?"
+        },
+        {
+            "constant": "alreadyHaveAccount",
+            "value": "У вас уже есть аккаунт?",
+            "label": "Already have an account? "
+        },
+        {
+            "constant": "paymentAlreadyExist",
+            "value": "Платежная информация уже существует",
+            "label": "Payment details already exists"
+        },
+        {
+            "constant": "signUpText",
+            "value": "Зарегистрироваться",
+            "label": "Sign Up"
+        },
+        {
+            "constant": "changePassword",
+            "value": "Изменить пароль",
+            "label": "Change Password"
+        },
+        {
+            "constant": "editProfile",
+            "value": "Редактировать профиль",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "dontHaveAccountText",
+            "value": "У вас нет учетной записи?",
+            "label": "Don't have an Account? "
+        },
+        {
+            "constant": "passwordSuccessToast",
+            "value": "Пароль успешно сброшен!",
+            "label": "Password reset successfully!!"
+        },
+        {
+            "constant": "paymentsDetailsHeader",
+            "value": "Детали платежа",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "signInText",
+            "value": "Войти",
+            "label": "Sign In"
+        },
+        {
+            "constant": "oldPassword",
+            "value": "Старый пароль",
+            "label": "Old Password"
+        },
+        {
+            "constant": "tapToRefresh",
+            "value": "Нажмите, чтобы обновить",
+            "label": "Tap to Refresh"
+        },
+        {
+            "constant": "customerName",
+            "value": "Имя клиента",
+            "label": "Customer Name"
+        },
+        {
+            "constant": "arrived",
+            "value": "прибыл",
+            "label": "Arrived"
+        },
+        {
+            "constant": "arrivedText",
+            "value": "Прибыл",
+            "label": "Arrived"
+        },
+        {
+            "constant": "completeText",
+            "value": "Завершить",
+            "label": "Complete"
+        },
+        {
+            "constant": "complete",
+            "value": "Завершенный",
+            "label": "Complete"
+        },
+        {
+            "constant": "orderSummaryText",
+            "value": "Обзор заказа",
+            "label": "Order Summary"
+        },
+        {
+            "constant": "orderNoText",
+            "value": "Номер заказа",
+            "label": "Order No"
+        },
+        {
+            "constant": "orderStatusText",
+            "value": "Статус заказа",
+            "label": "Order Status"
+        },
+        {
+            "constant": "paidText",
+            "value": "Оплачено",
+            "label": "Paid"
+        },
+        {
+            "constant": "describeExperienceText",
+            "value": "Опишите свой опыт",
+            "label": "Describe your experience"
+        },
+        {
+            "constant": "submit",
+            "value": "Отправить",
+            "label": "Submit"
+        },
+        {
+            "constant": "locationText",
+            "value": "Местоположение",
+            "label": "Location"
+        },
+        {
+            "constant": "noDocumentsText",
+            "value": "Документы не добавлены",
+            "label": "No Documents Added"
+        },
+        {
+            "constant": "storeIdText",
+            "value": "Идентификатор магазина",
+            "label": "Store Id"
+        },
+        {
+            "constant": "totalBalanceText",
+            "value": "Общий баланс",
+            "label": "Total Balance"
+        },
+        {
+            "constant": "addMoneyText",
+            "value": "Добавить деньги",
+            "label": "Add Money"
+        },
+        {
+            "constant": "nameEmptyValid",
+            "value": "Пожалуйста, введите имя!",
+            "label": "Please enter name!!"
+        },
+        {
+            "constant": "emailEmptyValid",
+            "value": "Пожалуйста, введите адрес электронной почты!",
+            "label": "Please enter email!!"
+        },
+        {
+            "constant": "emailValid",
+            "value": "Пожалуйста, введите действительный адрес электронной почты!",
+            "label": "Please enter valid email!!"
+        },
+        {
+            "constant": "passwordEmptyValid",
+            "value": "Пожалуйста, введите пароль!",
+            "label": "Please Enter password!!"
+        },
+        {
+            "constant": "confirmPasswordEmptyValid",
+            "value": "Пожалуйста, введите пароль для подтверждения!",
+            "label": "Please Enter Confirm password!!"
+        },
+        {
+            "constant": "mobileNumberEmptyValid",
+            "value": "Введите номер своего мобильного телефона!",
+            "label": "Enter your mobile number!!"
+        },
+        {
+            "constant": "addressEmptyValid",
+            "value": "Пожалуйста, введите адрес!",
+            "label": "Please enter address!!"
+        },
+        {
+            "constant": "paymentDetailsValid",
+            "value": "Пожалуйста, добавьте детали платежа",
+            "label": "Please add payment details"
+        },
+        {
+            "constant": "reviewCustomerValid",
+            "value": "Пожалуйста, поделитесь отзывом клиента",
+            "label": "Please Share Customer's Review"
+        },
+        {
+            "constant": "passwordMismatchValid",
+            "value": "Новый пароль и пароль подтверждения не совпадают",
+            "label": "New and Confirm Password doesn't match"
+        },
+        {
+            "constant": "currentPasswordEmptyValid",
+            "value": "Пожалуйста, введите текущий пароль!",
+            "label": "Please enter current password!!"
+        },
+        {
+            "constant": "newPasswordEmptyValid",
+            "value": "Пожалуйста, введите новый пароль!",
+            "label": "Please enter new password!!"
+        },
+        {
+            "constant": "confirmPasswordValid",
+            "value": "Введите пароль для подтверждения",
+            "label": "Enter confirm password"
+        },
+        {
+            "constant": "oldAndNewPasswordSameValid",
+            "value": "Старый пароль и новый пароль не могут совпадать!",
+            "label": "Old password and new password cannot be same!!"
+        },
+        {
+            "constant": "storeIdEmptyValid",
+            "value": "Пожалуйста, введите идентификатор магазина",
+            "label": "Please enter Store Id"
+        },
+        {
+            "constant": "homeDrawer",
+            "value": "Дом",
+            "label": "Home"
+        },
+        {
+            "constant": "documentDrawer",
+            "value": "Документы",
+            "label": "Documents"
+        },
+        {
+            "constant": "earningDrawer",
+            "value": "Заработок",
+            "label": "Earning"
+        },
+        {
+            "constant": "paymentDrawer",
+            "value": "Детали платежа",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "profileDrawer",
+            "value": "Профиль",
+            "label": "Profile"
+        },
+        {
+            "constant": "contactUsDrawer",
+            "value": "Свяжитесь с нами",
+            "label": "Contact Us"
+        },
+        {
+            "constant": "logoutDrawer",
+            "value": "Выйти",
+            "label": "Logout"
+        },
+        {
+            "constant": "walletDrawer",
+            "value": "Кошелек",
+            "label": "Wallet"
+        },
+        {
+            "constant": "homeHeader",
+            "value": "Дом",
+            "label": "Home"
+        },
+        {
+            "constant": "updateDocumentHeader",
+            "value": "Обновить документы",
+            "label": "Update Documents"
+        },
+        {
+            "constant": "uploadDocumentHeader",
+            "value": "Загрузить документы",
+            "label": "Upload Documents"
+        },
+        {
+            "constant": "paymentHeader",
+            "value": "Детали платежа",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "profileHeader",
+            "value": "Профиль",
+            "label": "Profile"
+        },
+        {
+            "constant": "editProfileHeader",
+            "value": "Редактировать профиль",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "contactUsHeader",
+            "value": "Свяжитесь с нами",
+            "label": "Contact Us"
+        },
+        {
+            "constant": "logoutHeader",
+            "value": "Выйти",
+            "label": "Logout"
+        },
+        {
+            "constant": "changePasswordHeader",
+            "value": "Изменить пароль",
+            "label": "Change Password"
+        },
+        {
+            "constant": "forgotPasswordHeader",
+            "value": "Забыли пароль",
+            "label": "Forgot Password"
+        },
+        {
+            "constant": "orderDetailsHeader",
+            "value": "Детали заказа",
+            "label": "Order Details"
+        },
+        {
+            "constant": "updateDetailsHeader",
+            "value": "Информация об обновлении",
+            "label": "Update Details"
+        },
+        {
+            "constant": "uploadDetailsHeader",
+            "value": "Подробности загрузки",
+            "label": "Upload Details"
+        },
+        {
+            "constant": "walletHeader",
+            "value": "Кошелек",
+            "label": "Wallet"
+        },
+        {
+            "constant": "namePlaceholder",
+            "value": "Имя",
+            "label": "Name"
+        },
+        {
+            "constant": "emailPlaceholder",
+            "value": "Электронная почта",
+            "label": "Email"
+        },
+        {
+            "constant": "addressPlaceholder",
+            "value": "Адрес",
+            "label": "Address"
+        },
+        {
+            "constant": "passwordPlaceholder",
+            "value": "Пароль",
+            "label": "Password"
+        },
+        {
+            "constant": "accountNumberPlaceholder",
+            "value": "Номер счета*",
+            "label": "Account Number*"
+        },
+        {
+            "constant": "routingNumberPlaceholder",
+            "value": "Маршрутный номер*",
+            "label": "Routing Number*"
+        },
+        {
+            "constant": "accountHolderNamePlaceholder",
+            "value": "Имя владельца учетной записи*",
+            "label": "Account Holder Name*"
+        },
+        {
+            "constant": "bankNamePlaceholder",
+            "value": "Название банка*",
+            "label": "Bank Name*"
+        },
+        {
+            "constant": "newPasswordPlaceholder",
+            "value": "Новый пароль",
+            "label": "New Password"
+        },
+        {
+            "constant": "confirmPasswordPlaceholder",
+            "value": "Подтвердите пароль",
+            "label": "Confirm Password"
+        },
+        {
+            "constant": "mobilePlaceholderText",
+            "value": "Мобильный номер",
+            "label": "Mobile number"
+        },
+        {
+            "constant": "addressSearchPlaceholder",
+            "value": "Поиск..",
+            "label": "Search.."
+        },
+        {
+            "constant": "paymentAddSuccessToast",
+            "value": "Детали платежа успешно добавлены",
+            "label": "Payment detail has been added successfully"
+        },
+        {
+            "constant": "paymentUpdateSuccessToast",
+            "value": "Детали платежа успешно обновлены",
+            "label": "Payment detail has been updated successfully"
+        },
+        {
+            "constant": "passwordResetSuccessToast",
+            "value": "Пароль успешно сброшен",
+            "label": "Password has been reset successfully"
+        },
+        {
+            "constant": "connectStripeHeader",
+            "value": "Подключить полосу",
+            "label": "Connect Stripe"
+        },
+        {
+            "constant": "connectStripeText",
+            "value": "Подключить полосу",
+            "label": "Connect Stripe"
+        },
+        {
+            "constant": "connectedStripeText",
+            "value": "Подключено",
+            "label": "Connected"
+        },
+        {
+            "constant": "stripeLinkedText",
+            "value": "Полоса подключения связана",
+            "label": "Stripe Connect Linked"
+        },
+        {
+            "constant": "stripeNotLinkedText",
+            "value": "Полоса подключения не связана",
+            "label": "Stripe Connect Not Linked"
+        },
+        {
+            "constant": "loginHeader",
+            "value": "Войти",
+            "label": "Login"
+        },
+        {
+            "constant": "loginToContinueText",
+            "value": "Войдите, чтобы продолжить",
+            "label": "Login To Continue"
+        },
+        {
+            "constant": "pleaseEnterEmail",
+            "value": "Пожалуйста, введите адрес электронной почты",
+            "label": "Please enter your email"
+        },
+        {
+            "constant": "verifyCodeHeader",
+            "value": "Проверить код",
+            "label": "Verify Code"
+        },
+        {
+            "constant": "resendCode",
+            "value": "Повторно отправить код",
+            "label": "Resend code"
+        },
+        {
+            "constant": "resetPasswordHeader",
+            "value": "Сбросить пароль",
+            "label": "Reset Password"
+        },
+        {
+            "constant": "pleaseEnterNewPassword",
+            "value": "'Пожалуйста, введите новый пароль",
+            "label": "'Please enter your new password"
+        },
+        {
+            "constant": "passwordMustContain",
+            "value": "Ваш пароль должен содержать: ",
+            "label": "Your Password must contain: "
+        },
+        {
+            "constant": "atLeastSixChars",
+            "value": "Не менее 6 символов",
+            "label": "At least 6 characters"
+        },
+        {
+            "constant": "containNumber",
+            "value": "Содержит число",
+            "label": "Contains a number"
+        },
+        {
+            "constant": "validOtp",
+            "value": "Пожалуйста, введите OTP",
+            "label": "Please Enter OTP"
+        },
+        {
+            "constant": "addVehicle",
+            "value": "Пожалуйста, добавьте свой автомобиль.",
+            "label": "Please add your vehicle."
+        },
+        {
+            "constant": "backgroundPermission",
+            "value": "хочет получить доступ к вашему фоновому местоположению для улучшения погрузки и высадки, отслеживания в реальном времени и обслуживания клиентов, когда водитель находится в режиме отслеживания во время доставки.",
+            "label": "wants to access your background location for improve pickups, drop-offs, real-time tracking and customer service when driver is on tracking mode while delivery."
+        },
+        {
+            "constant": "allow",
+            "value": "Разрешить",
+            "label": "Allow"
+        },
+        {
+            "constant": "dontAllow",
+            "value": "Не разрешать",
+            "label": "Don't Allow"
+        },
+        {
+            "constant": "locationTitle",
+            "value": "Разрешение на определение местоположения",
+            "label": "Location Permission"
+        },
+        {
+            "constant": "locationMessage",
+            "value": "Разрешить доступ к текущему местоположению, чтобы получать запросы поблизости!",
+            "label": "Allow to access current location to get nearby requestes!"
+        },
+        {
+            "constant": "searchAddress",
+            "value": "Адрес поиска...",
+            "label": "Search Address ..."
+        },
+        {
+            "constant": "yes",
+            "value": "Да",
+            "label": "Yes"
+        },
+        {
+            "constant": "No",
+            "value": "Нет",
+            "label": "NO"
+        },
+        {
+            "constant": "cancel",
+            "value": "Отмена",
+            "label": "Cancel"
+        },
+        {
+            "constant": "pickUp",
+            "value": "Поднять",
+            "label": "Pick Up"
+        },
+        {
+            "constant": "start",
+            "value": "Начать",
+            "label": "Start"
+        },
+        {
+            "constant": "summary",
+            "value": "Сводка",
+            "label": "Summary"
+        },
+        {
+            "constant": "scheduledBooking",
+            "value": "Запланированное бронирование",
+            "label": "Scheduled Booking"
+        },
+        {
+            "constant": "pickLocation",
+            "value": "Место получения",
+            "label": "Pickup Location"
+        },
+        {
+            "constant": "accept",
+            "value": "Принять",
+            "label": "Accept"
+        },
+        {
+            "constant": "decline",
+            "value": "Отклонить",
+            "label": "Decline"
+        },
+        {
+            "constant": "onlineReceive",
+            "value": "Перейдите в Интернет для",
+            "label": "Go Online to Receive"
+        },
+        {
+            "constant": "vehicleDetails",
+            "value": "Информация о транспортном средстве",
+            "label": "Vehicle Details"
+        },
+        {
+            "constant": "goOffline",
+            "value": "Перейти в автономный режим",
+            "label": "Go Offline"
+        },
+        {
+            "constant": "goOnline",
+            "value": "Войти в сеть",
+            "label": "Go Online"
+        },
+        {
+            "constant": "cancelled",
+            "value": "Отменено",
+            "label": "Cancelled"
+        },
+        {
+            "constant": "completed",
+            "value": "Завершено",
+            "label": "Completed"
+        },
+        {
+            "constant": "Done",
+            "value": "Сделанный",
+            "label": "DONE"
+        },
+        {
+            "constant": "selectVehicle",
+            "value": "Выберите транспортное средство!!!",
+            "label": "Please Select Vehicle!!!"
+        },
+        {
+            "constant": "addVehicleDocuments",
+            "value": "Пожалуйста, заполните все поля",
+            "label": "Please fill in all fields"
+        },
+        {
+            "constant": "cardDetailsWrong",
+            "value": "Что-то пошло не так",
+            "label": "Something Went Wrong"
+        },
+        {
+            "constant": "cardDetailsRequired",
+            "value": "Пожалуйста, введите необходимые данные карты!",
+            "label": "Please enter required card detail!!"
+        },
+        {
+            "constant": "addMoneyMessage",
+            "value": "Сначала введите деньги",
+            "label": "Please Enter Money First"
+        },
+        {
+            "constant": "mobileCharacters",
+            "value": "Номер мобильного телефона должен содержать от 7 до 15 цифр",
+            "label": "Mobile Number should be 7 to 15 digits"
+        },
+        {
+            "constant": "otpNotMatched",
+            "value": "OTP не совпал!!!",
+            "label": "OTP did not matched!!!"
+        },
+        {
+            "constant": "enterOtp",
+            "value": "Пожалуйста, введите OTP!!!",
+            "label": "Please Enter OTP!!!"
+        },
+        {
+            "constant": "removeVehicleMessage",
+            "value": "Вы уверены, что хотите удалить это транспортное средство",
+            "label": "Are you sure, you want to remove this vehicle"
+        },
+        {
+            "constant": "deleteCard",
+            "value": "Вы уверены, что хотите удалить эту карту!!!",
+            "label": "Are you sure you want to delete this card!!!"
+        },
+        {
+            "constant": "stripeUnlinkAlert",
+            "value": "Вы уверены, что хотите отменить связь с этой учетной записью!!!",
+            "label": "Are you sure you want to unlink this account!!!"
+        },
+        {
+            "constant": "logoutMessage",
+            "value": "Вы уверены, что хотите выйти из системы?",
+            "label": "Are you sure you want to logout!"
+        },
+        {
+            "constant": "exitAlertMessage",
+            "value": "Вы уверены, что хотите выйти!!!",
+            "label": "Are you sure you want to Exit!!!"
+        },
+        {
+            "constant": "alertOk",
+            "value": "Хорошо",
+            "label": "Ok"
+        },
+        {
+            "constant": "alertCance",
+            "value": "Отмена",
+            "label": "Cancel"
+        },
+        {
+            "constant": "alertExitButton",
+            "value": "ВЫХОД",
+            "label": "EXIT"
+        },
+        {
+            "constant": "alertCancelButton",
+            "value": "ОТМЕНА",
+            "label": "CANCEL"
+        },
+        {
+            "constant": "removeVehicleWarning",
+            "value": "Удалить транспортное средство",
+            "label": "Remove Vehicle"
+        },
+        {
+            "constant": "deleteCardWarning",
+            "value": "Удалить карту",
+            "label": "Delete Card"
+        },
+        {
+            "constant": "unlinkWarning",
+            "value": "Отключить PayPal",
+            "label": "Unlink Paypal"
+        },
+        {
+            "constant": "logoutWarning",
+            "value": "Выйти",
+            "label": "Logout"
+        },
+        {
+            "constant": "exit",
+            "value": "Выход",
+            "label": "Exit"
+        },
+        {
+            "constant": "commision",
+            "value": "Комиссия",
+            "label": "Commision"
+        },
+        {
+            "constant": "perMiles",
+            "value": "За мили",
+            "label": "Per Miles"
+        },
+        {
+            "constant": "perMinute",
+            "value": "В минуту",
+            "label": "Per Minute"
+        },
+        {
+            "constant": "basePrice",
+            "value": "Базовая цена",
+            "label": "Base Price"
+        },
+        {
+            "constant": "bookingAvailable",
+            "value": "Бронирование недоступно",
+            "label": "No Booking Available"
+        },
+        {
+            "constant": "Track",
+            "value": "деталь",
+            "label": "Track"
+        },
+        {
+            "constant": "detail",
+            "value": "Деталь",
+            "label": "Detail"
+        },
+        {
+            "constant": "cancelBooking",
+            "value": "Вы уверены, что хотите отменить это бронирование!!!",
+            "label": "Are you sure you want to Cancel this booking!!!"
+        },
+        {
+            "constant": "yourOrder",
+            "value": "Спасибо за заказ!",
+            "label": "Thanks for your order!"
+        },
+        {
+            "constant": "rateCustomer",
+            "value": "Оценить клиента",
+            "label": "Rate Customer"
+        },
+        {
+            "constant": "deliveryLocation",
+            "value": "Место доставки",
+            "label": "Delivery Location"
+        },
+        {
+            "constant": "DropOfflocation",
+            "value": "Место высадки",
+            "label": "DropOff Location"
+        },
+        {
+            "constant": "enterOtpVerf",
+            "value": "Введите одноразовый пароль",
+            "label": "Enter OTP"
+        },
+        {
+            "constant": "searchPlaces",
+            "value": "Места поиска",
+            "label": "Search Places"
+        },
+        {
+            "constant": "paymentHeader",
+            "value": "Детали платежа",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "walletHeader",
+            "value": "Кошелек",
+            "label": "Wallet"
+        },
+        {
+            "constant": "documentDrawer",
+            "value": "Документы",
+            "label": "Documents"
+        },
+        {
+            "constant": "vehicleHeader",
+            "value": "Автомобиль",
+            "label": "Vehicle"
+        },
+        {
+            "constant": "bookingHeader",
+            "value": "Детали бронирования",
+            "label": "Booking Details"
+        },
+        {
+            "constant": "dashboardDriver",
+            "value": "Водитель",
+            "label": "Driver"
+        },
+        {
+            "constant": "vehicleTypeHeader",
+            "value": "Типы транспортных средств",
+            "label": "Vehicle Types"
+        },
+        {
+            "constant": "privacyPolicy",
+            "value": "Политика конфиденциальности",
+            "label": "Privacy Policy"
+        },
+        {
+            "constant": "refundPolicy",
+            "value": "Политика возврата",
+            "label": "Refund Policy"
+        },
+        {
+            "constant": "viewProfile",
+            "value": "Просмотреть профиль",
+            "label": "View Profile"
+        },
+        {
+            "constant": "addAmountString",
+            "value": "Сумма для добавления",
+            "label": "Amount to Add"
+        },
+        {
+            "constant": "choosePayment",
+            "value": "Выберите платеж",
+            "label": "Choose Payment"
+        },
+        {
+            "constant": "stripeLink",
+            "value": "Ссылка",
+            "label": "Link"
+        },
+        {
+            "constant": "stripeUnlink",
+            "value": "Отключить",
+            "label": "Unlink"
+        },
+        {
+            "constant": "addCard",
+            "value": "Добавить карту",
+            "label": "Add Card"
+        },
+        {
+            "constant": "upcoming",
+            "value": "предстоящие",
+            "label": "Upcoming"
+        },
+        {
+            "constant": "past",
+            "value": "прошлые",
+            "label": "Past"
+        },
+        {
+            "constant": "bookingVehicleType",
+            "value": "Тип транспортного средства",
+            "label": "Vehicle Type"
+        },
+        {
+            "constant": "dateRide",
+            "value": "Дата поездки",
+            "label": "Date Of Ride"
+        },
+        {
+            "constant": "rideId",
+            "value": "Идентификатор поездки",
+            "label": "Ride Id"
+        },
+        {
+            "constant": "rideStatus",
+            "value": "Статус",
+            "label": "Status"
+        },
+        {
+            "constant": "fare",
+            "value": "тариф",
+            "label": "Fare"
+        },
+        {
+            "constant": "distance",
+            "value": "Расстояние",
+            "label": "Distance"
+        },
+        {
+            "constant": "duration",
+            "value": "Продолжительность",
+            "label": "Duration"
+        },
+        {
+            "constant": "kilometer",
+            "value": "км",
+            "label": "Km"
+        },
+        {
+            "constant": "minutes",
+            "value": "Минуты",
+            "label": "Minutes"
+        },
+        {
+            "constant": "date",
+            "value": "Дата",
+            "label": "Date"
+        },
+        {
+            "constant": "total",
+            "value": "Всего",
+            "label": "Total"
+        },
+        {
+            "constant": "alertCancel",
+            "value": "Отмена",
+            "label": "Cancel"
+        },
+        {
+            "constant": "alert",
+            "value": "Предупреждение",
+            "label": "Alert"
+        },
+        {
+            "constant": "bad",
+            "value": "Плохой",
+            "label": "Bad"
+        },
+        {
+            "constant": "oK",
+            "value": "ХОРОШО",
+            "label": "OK"
+        },
+        {
+            "constant": "good",
+            "value": "Хороший",
+            "label": "Good"
+        },
+        {
+            "constant": "veryGood",
+            "value": "Очень хороший",
+            "label": "Very Good"
+        },
+        {
+            "constant": "amazing",
+            "value": "Потрясающе",
+            "label": "Amazing"
+        },
+        {
+            "constant": "feedback",
+            "value": "Отзыв",
+            "label": "Feedback"
+        },
+        {
+            "constant": "takePhotoText",
+            "value": "Сделать фото",
+            "label": "Take Photo"
+        },
+        {
+            "constant": "chooseLibraryText",
+            "value": "Выбрать библиотеку",
+            "label": "Choose Library"
+        },
+        {
+            "constant": "cancelLabel",
+            "value": "Отмена",
+            "label": "Cancel"
+        },
+        {
+            "constant": "selectPhotosText",
+            "value": "Выбрать фото",
+            "label": "Select Photos"
+        },
+        {
+            "constant": "delivery",
+            "value": "Доставка",
+            "label": "Delivery"
+        },
+        {
+            "constant": "pickupFrom",
+            "value": "Забрать из",
+            "label": "Pickup From"
+        },
+        {
+            "constant": "deliverTo",
+            "value": "Доставить в",
+            "label": "Deliver To"
+        },
+        {
+            "constant": "orderDetails",
+            "value": "Детали заказа",
+            "label": "Order Details"
+        },
+        {
+            "constant": "orderNo",
+            "value": "Номер заказа",
+            "label": "Order No."
+        },
+        {
+            "constant": "itemDetails",
+            "value": "Сведения об элементе",
+            "label": "Item Details"
+        },
+        {
+            "constant": "items",
+            "value": "Предметы",
+            "label": "Items"
+        },
+        {
+            "constant": "submitText",
+            "value": "Отправить",
+            "label": "Submit"
+        },
+        {
+            "constant": "orderInstructions",
+            "value": "Инструкции",
+            "label": "Instructions"
+        },
+        {
+            "constant": "walletLimitMessage",
+            "value": "Пожалуйста, пополните свой кошелек, чтобы начать принимать запросы.",
+            "label": "Please add amount to your wallet to start accepting requests."
+        },
+        {
+            "constant": "service",
+            "value": "Сервис",
+            "label": "Service"
+        },
+        {
+            "constant": "serviceCategories",
+            "value": "Выберите категории услуг.",
+            "label": "Select Service Categories"
+        },
+        {
+            "constant": "save",
+            "value": "Сохранить",
+            "label": "Save"
+        },
+        {
+            "constant": "searchCategories",
+            "value": "Категории поиска",
+            "label": "Search Categories"
+        },
+        {
+            "constant": "optonalAddOn",
+            "value": "Доступны дополнительные дополнения!",
+            "label": "Optional Add-ons Available!"
+        },
+        {
+            "constant": "addOns",
+            "value": "Дополнения",
+            "label": "Add ons"
+        },
+        {
+            "constant": "manageServices",
+            "value": "Управление услугами",
+            "label": "Manage Services"
+        },
+        {
+            "constant": "anotherCategories",
+            "value": "Пожалуйста, добавьте еще одну категорию, эта категория уже добавлена",
+            "label": "Please add another category this category already added"
+        },
+        {
+            "constant": "serviceAddress",
+            "value": "Адрес службы",
+            "label": "Service Address"
+        },
+        {
+            "constant": "serviceDetails",
+            "value": "Сведения об услуге",
+            "label": "Service Details"
+        },
+        {
+            "constant": "scheduled",
+            "value": "Запланировано",
+            "label": "Scheduled"
+        },
+        {
+            "constant": "dateTime",
+            "value": "Дата/время",
+            "label": "Date / Time"
+        },
+        {
+            "constant": "subtotal",
+            "value": "Промежуточный итог",
+            "label": "Subtotal"
+        },
+        {
+            "constant": "discount",
+            "value": "Скидка",
+            "label": "Discount"
+        },
+        {
+            "constant": "totalPay",
+            "value": "Общая оплата",
+            "label": "Total Pay"
+        },
+        {
+            "constant": "inRoute",
+            "value": "В пути",
+            "label": "In-Route"
+        },
+        {
+            "constant": "confirmed",
+            "value": "Подтверждено",
+            "label": "Confirmed"
+        },
+        {
+            "constant": "location",
+            "value": "Местоположение",
+            "label": "Location"
+        },
+        {
+            "constant": "selectCategories",
+            "value": "Выберите категории",
+            "label": "Please select categories"
+        },
+        {
+            "constant": "noresult",
+            "value": "Результатов не найдено",
+            "label": "No result found"
+        },
+        {
+            "constant": "paymentMethod",
+            "value": "Способ оплаты",
+            "label": "Payment Method"
+        },
+        {
+            "constant": "yourBooking",
+            "value": "Спасибо за бронирование!",
+            "label": "Thanks for your booking!"
+        },
+        {
+            "constant": "itemTotal",
+            "value": "Всего товаров",
+            "label": "Item Total"
+        },
+        {
+            "constant": "taxandFees",
+            "value": "Налоги и сборы",
+            "label": "Tax and Fees"
+        },
+        {
+            "constant": "deliveryCharge",
+            "value": "Стоимость доставки",
+            "label": "Delivery Charge"
+        },
+        {
+            "constant": "DateAndTime",
+            "value": "Дата и время",
+            "label": "Date & Time"
+        },
+        {
+            "constant": "payment",
+            "value": "Платеж",
+            "label": "Payment"
+        },
+        {
+            "constant": "deliveredTo",
+            "value": "Доставлено в",
+            "label": "Delivered To"
+        },
+        {
+            "constant": "selectAddOn",
+            "value": "Выбранные дополнения",
+            "label": "Selected Addons"
+        }
+    ],
+    "Insert_JSON_arr": [
+        {
+            "constant": "completeSharableLink",
+            "value": "Получите все, что вам нужно с помощью HLC. Перейдите по этой ссылке: {{link}} и используйте Мой код {{code}}.",
+            "label": "Referral Link"
+        },
+        {
+            "constant": "fundWalletText",
+            "value": "Кошелек для пополнения",
+            "label": "Fund Wallet"
+        },
+        {
+            "constant": "duringSignupText",
+            "value": "во время регистрации",
+            "label": "while signup"
+        },
+        {
+            "constant": "useCodeText",
+            "value": "и использовать этот код",
+            "label": "And use this code"
+        },
+        {
+            "constant": "areYouSureYouWantToPay",
+            "value": "Вы уверены, что хотите оплатить выбранной картой?",
+            "label": "Are you sure you want to Pay with selected Card?"
+        },
+        {
+            "constant": "paymentText",
+            "value": "Платеж",
+            "label": "Payment"
+        },
+        {
+            "constant": "tapOnLinkText",
+            "value": "Нажмите на следующую ссылку, чтобы поделиться",
+            "label": "Tap on following link to Share"
+        },
+        {
+            "constant": "helpSupportHeader",
+            "value": "Справка и поддержка",
+            "label": "Help & Support"
+        },
+        {
+            "constant": "helpSupportDrawer",
+            "value": "Справка и поддержка",
+            "label": "Help & Support Drawer"
+        },
+        {
+            "constant": "inviteFriendsHeader",
+            "value": "Пригласить друзей",
+            "label": "Invite Friends"
+        },
+        {
+            "constant": "creditHistory",
+            "value": "Кредитная история",
+            "label": "Credit History"
+        },
+        {
+            "constant": "transactionHeader",
+            "value": "История транзакций",
+            "label": "Transaction History"
+        },
+        {
+            "constant": "noTransactionHistory",
+            "value": "Нет истории транзакций",
+            "label": "No Transaction History"
+        },
+        {
+            "constant": "seeAll",
+            "value": "Просмотреть все",
+            "label": "See All"
+        },
+        {
+            "constant": "notAvailableText",
+            "value": "Недоступно",
+            "label": "Not Available"
+        },
+        {
+            "constant": "amount",
+            "value": "Сумма",
+            "label": "Amount"
+        },
+        {
+            "constant": "descriptionText",
+            "value": "Описание",
+            "label": "Description"
+        },
+        {
+            "constant": "inviteYourFriendsText",
+            "value": "ПРГЛАСИТЕ СВОИХ ДРУЗЕЙ",
+            "label": "INVITE YOUR FRIENDS"
+        },
+        {
+            "constant": "inviteFriendsText",
+            "value": "Пригласить друзей",
+            "label": "Invite Friends"
+        },
+        {
+            "constant": "referPlaceholder",
+            "value": "Код ссылки",
+            "label": "Refer Code"
+        },
+        {
+            "constant": "FAQ",
+            "value": "FAQ",
+            "label": "FAQ"
+        },
+        {
+            "constant": "FAQHeader",
+            "value": "FAQ",
+            "label": "FAQ Header"
+        },
+        {
+            "constant": "addPaymentText",
+            "value": "Добавить детали платежа",
+            "label": "Add Payment Details"
+        },
+        {
+            "constant": "updatePaymentText",
+            "value": "Обновить детали платежа",
+            "label": "Update Payment Details"
+        },
+        {
+            "constant": "registrationSuccessText",
+            "value": "Ваша регистрация прошла успешно.",
+            "label": "Your Registration is Successfull."
+        },
+        {
+            "constant": "waitingAdminApprovalText",
+            "value": "Ожидание одобрения администратора.",
+            "label": "Waiting Admin's Approval."
+        },
+        {
+            "constant": "thanksDrop",
+            "value": "Спасибо за дроп!",
+            "label": "Thank you for the drop!"
+        },
+        {
+            "constant": "earningHeader",
+            "value": "Заработок",
+            "label": "Earning"
+        },
+        {
+            "constant": "bookings",
+            "value": "Бронирования",
+            "label": "Bookings"
+        },
+        {
+            "constant": "tripRequest",
+            "value": "Запрос на поездку",
+            "label": "Trip Request"
+        },
+        {
+            "constant": "thankContactUsText",
+            "value": "Спасибо, что выбрали еду здесь.",
+            "label": "Thanks for choosing Meal here."
+        },
+        {
+            "constant": "querryContactUsText",
+            "value": "По любым вопросам обращайтесь к нам по указанным ниже реквизитам",
+            "label": "For any query, please contact us on the below details"
+        },
+        {
+            "constant": "orderPreparedText",
+            "value": "Заказ готовится",
+            "label": "Order being Prepared"
+        },
+        {
+            "constant": "prepareOrderText",
+            "value": "Мы готовим ваш заказ",
+            "label": "We are preparing your order"
+        },
+        {
+            "constant": "readyToPickupText",
+            "value": "Готов к отправке",
+            "label": "Ready to Pickup"
+        },
+        {
+            "constant": "orderReadyToPickupText",
+            "value": "Ваш заказ готов к выдаче",
+            "label": "Your Order is ready to pickup"
+        },
+        {
+            "constant": "pickupText",
+            "value": "Самовывоз",
+            "label": "Pickup"
+        },
+        {
+            "constant": "delieveryLocationText",
+            "value": "Место доставки",
+            "label": "Delievery Location"
+        },
+        {
+            "constant": "orderSuccessfullDelieveredText",
+            "value": "Ваш заказ успешно доставлен",
+            "label": "Your order has been successfully delievered"
+        },
+        {
+            "constant": "isAgreeText",
+            "value": "Я согласен с",
+            "label": "I agree to the"
+        },
+        {
+            "constant": "pleaseAcceptTerms",
+            "value": "Пожалуйста, примите положения и условия",
+            "label": "Please Acccept Terms & Conditions"
+        },
+        {
+            "constant": "terms_condition",
+            "value": "Условия и положения",
+            "label": "Terms & Condition"
+        }
+    ]
+}

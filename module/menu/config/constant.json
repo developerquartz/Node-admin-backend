@@ -1,0 +1,4 @@
+{
+    "menuType" : [ "topMenu", "footerLeft", "footerMiddle" ],
+    "menuTypeObj" : [{"type":"topMenu","label":"TOP MENU"},{"type":"footerLeft","label":"QUICK LINKS"},{"type":"footerMiddle","label":"CUSTOMER SERVICE"}]
+}

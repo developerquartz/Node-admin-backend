@@ -1,0 +1,7 @@
+categories,name,price,compare_price,short_description,description,featured_image,images,sku,status,stock_quantity,stock_status,type,veganType,addons:Name1,addons:OptionName1,addons:OptionPrice1,addons:Name2,addons:OptionName2,addons:OptionPrice2
+"Chicken,Chicken tikka",Chicken Tikka,220,350,Chicken,<p>Chicken Tikka</p>,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,chickentikka02,active,10,instock,simple,veg,Toppings,Paneer,100,Extra,Garlic Souce,10
+,,,,,,,,chickentikka02,,,,,,,Cheese,50,,Mayonnaise,15
+,,,,,,,,chickentikka02,,,,,,,Red Souce,20,,Paneer,20
+Nachos,Nachos1,120,180,Nachos,<p>nachos</p>,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,Nachos01,inactive,0,outofstock,simple,nonveg,Toppings2,Paneer2,101,Extra2,Garlic Souce2,11
+,,,,,,,,Nachos01,,,,,,,Cheese2,51,,Mayonnaise2,16
+,,,,,,,,Nachos01,,,,,,,Red Souce2,21,,Paneer2,21

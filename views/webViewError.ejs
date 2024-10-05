@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <title>
+        <%= title %>
+    </title>
+    <style>
+        body {
+            overflow: unset !important;
+        }
+
+        .jumbotron {
+            position: relative;
+            top: 100%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+    <link rel='stylesheet' href='/css/style.css' />
+</head>
+
+<body>
+    <div class="container d-flex h-100">
+        <div class="row align-self-center w-100">
+            <div class="col-12 mx-auto">
+                <div class="jumbotron">
+                    <h1 class="display-8">
+                        <%- title %>
+                    </h1>
+                    <p class="lead">
+                        <%- message %>
+                    </p>
+                    <p class="lead">
+                        <a class="btn btn-primary btn-lg" href="<%- url %>" role="button" id="ok">Try Again</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- * App Capsule -->
+    <script>
+        function callToRN(order) {
+            window.ReactNativeWebView.postMessage(JSON.stringify(order));
+        }
+
+        setTimeout(function () {
+            if (typeof window.ReactNativeWebView != "undefined") {
+                callToRN({ status: "error", message: '<%- message %>' });
+            }
+        }, 500);
+    </script>
+</body>
+
+</html>

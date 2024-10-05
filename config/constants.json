@@ -1,0 +1,5643 @@
+{
+	"GEOFENCE_TYPE": [
+		{
+			"label": "Promocode",
+			"value": "promocode"
+		},
+		{
+			"label": "Vendor",
+			"value": "vendor"
+		},
+		{
+			"label": "Taxi and Pick&Drop",
+			"value": "taxi"
+		}
+	],
+	"TERMINOLOGY_TYPE": [
+		{
+			"label": "Customers",
+			"value": "customers"
+		},
+		{
+			"label": "Drivers",
+			"value": "drivers"
+		},
+		{
+			"label": "Orders",
+			"value": "order"
+		},
+		{
+			"label": "Trips",
+			"value": "trip"
+		}
+	],
+	"VEHICLES": [
+		{
+			"name": "Bike",
+			"type": "bike"
+		},
+		{
+			"name": "Car",
+			"type": "car"
+		},
+		{
+			"name": "Tricycle",
+			"type": "tricycle"
+		},
+		{
+			"name": "Auto",
+			"type": "auto"
+		}
+	],
+	"menuType": [
+		"topMenu",
+		"footerLeft",
+		"footerMiddle"
+	],
+	"hideThings": [
+		{
+			"type": "isBilling",
+			"label": "Billing Plan",
+			"value": false
+		},
+		{
+			"type": "isPreviewed",
+			"label": "Preview Url",
+			"value": false
+		},
+		{
+			"type": "isWebsiteMenu",
+			"label": "Website Menu",
+			"value": false
+		},
+		{
+			"type": "isDomain",
+			"label": "Domain",
+			"value": false
+		},
+		{
+			"type": "isGeofence",
+			"label": "Geofence",
+			"value": false
+		},
+		{
+			"type": "isAppSettings",
+			"label": "App Settings",
+			"value": false
+		},
+		{
+			"type": "isGallery",
+			"label": "Gallery",
+			"value": false
+		},
+		{
+			"type": "isPromotions",
+			"label": "Promotions",
+			"value": false
+		},
+		{
+			"type": "isMarketing",
+			"label": "Marketing",
+			"value": false
+		},
+		{
+			"type": "isDispute",
+			"label": "Disputes",
+			"value": false
+		},
+		{
+			"type": "isBirdEyeView",
+			"label": "Birdeyeview",
+			"value": false
+		},
+		{
+			"type": "isDocumentTemplates",
+			"label": "Document Templates",
+			"value": false
+		},
+		{
+			"type": "isEmailTemplates",
+			"label": "Email Templates",
+			"value": false
+		},
+		{
+			"type": "isContentPages",
+			"label": "Content Pages",
+			"value": false
+		},
+		{
+			"type": "isFaq",
+			"label": "Faq",
+			"value": false
+		},
+		{
+			"type": "isTerminology",
+			"label": "Terminology",
+			"value": false
+		},
+		{
+			"type": "isThemeSettings",
+			"label": "Theme Settings",
+			"value": false
+		},
+		{
+			"type": "isSystemAccess",
+			"label": "System Access",
+			"value": false
+		},
+		{
+			"type": "isReports",
+			"label": "Reports",
+			"value": false
+		},
+		{
+			"type": "isGetStarted",
+			"label": "Get Started",
+			"value": false
+		},
+		{
+			"type": "isStoreSettingLoyalityPoints",
+			"label": "Loyality Points",
+			"value": false
+		},
+		{
+			"type": "isStoreSettingStripeConnect",
+			"label": "Stripe Connect",
+			"value": false
+		},
+		{
+			"type": "isStoreSettingNotification",
+			"label": "Store Setting Notifications",
+			"value": false
+		},
+		{
+			"type": "isDispatcher",
+			"label": "Dispatcher",
+			"value": false
+		},
+		{
+			"type": "isTaxiRideHailing",
+			"label": "Ride Hailing",
+			"value": false
+		},
+		{
+			"type": "isTaxiPoolRide",
+			"label": "Pool Ride",
+			"value": false
+		},
+		{
+			"type": "isDemo",
+			"label": "Demo",
+			"value": false
+		},
+		{
+			"type": "isTaxiCityPricing",
+			"label": "City Pricing",
+			"value": false
+		},
+		{
+			"type": "isShow",
+			"label": "Hide & Show StoreType",
+			"value": false
+		},
+		{
+			"type": "isAdvanceTaxSetting",
+			"label": "Advance tax settings",
+			"value": false
+		},
+		{
+			"type": "isvehicleEdit",
+			"label": "Add/Edit Vehicle",
+			"value": false
+		},
+		{
+			"type": "istransactionShow",
+			"label": "Hide and view Transaction for customer",
+			"value": false
+		},
+		{
+			"type": "userdocTemp",
+			"label": "Add Document Template for user",
+			"value": false
+		},
+		{
+			"type": "usersWalletAccess",
+			"label": "Add users wallet access for store admin",
+			"value": false
+		},
+		{
+			"type": "vehicleShow",
+			"label": "Show Vehicle Type list",
+			"value": false
+		},
+		{
+			"type": "prePaymentForTaxi",
+			"label": "Add Pre Payment setting to taxi",
+			"value": false
+		},
+		{
+			"type": "geofenceTaxi",
+			"label": "Enable/Disable Geofence Setting for taxi and Pick&Drop",
+			"value": false
+		},
+		{
+			"type": "multidrop",
+			"label": "Enable/Disable MultiDrop Setting for Pick&Drop",
+			"value": false
+		},
+		{
+			"type": "productreview",
+			"label": "Hide/Show Product Review in Vendor Profile",
+			"value": false
+		},
+		{
+			"type": "productexport",
+			"label": "Enable export product with all fields for food only",
+			"value": false
+		},
+		{
+			"type": "issettelment",
+			"label": "Enable/Disable settelment tab in accounting tab",
+			"value": false
+		},
+		{
+			"type": "customerlistdispatcher",
+			"label": "Enable customer select list for dispatcher in sub-admin",
+			"value": false
+		},
+		{
+			"type": "driverlistdispatcher",
+			"label": "Enable driver select list for dispatcher in subadmin",
+			"value": false
+		},
+		{
+			"type": "vendorlistdispatcher",
+			"label": "Enable vendor select list for dispatcher in subadmin",
+			"value": false
+		},
+		{
+			"type": "pickupDeliveryTimeSlot",
+			"label": "Hide/Show time slot for takeaway & delivery in vendors",
+			"value": false
+		},
+		{
+			"type": "orderPdf",
+			"label": "Hide/Show button for download orderdetails in pdf(vendor panel)",
+			"value": false
+		},
+		{
+			"type": "faq",
+			"label": "Hide/Show button for respective drivers/customers FAQ",
+			"value": false
+		},
+		{
+			"type": "referral&Earning",
+			"label": "Hide/Show button for enable referral & Earning feature",
+			"value": false
+		},
+		{
+			"type": "walletToWalletTransaction",
+			"label": "Enable customers wallet to wallet transactions for store-admin",
+			"value": false
+		},
+		{
+			"type": "isEnableMultiplePaymentMethod",
+			"label": "Enable for multiple payment gateway",
+			"value": false
+		},
+		{
+			"type": "showHideVendorInfo",
+			"label": "Enable for hide vendor info",
+			"value": false
+		},
+		{
+			"type": "showHideHourly",
+			"label": "Enable for hourly trip features",
+			"value": false
+		},
+		{
+			"type": "showHideMultiStops",
+			"label": "Enable for multi stops trip features",
+			"value": false
+		},
+		{
+			"type": "showHidePackage",
+			"label": "Enable for trip with packages features",
+			"value": false
+		},
+		{
+			"type": "showHideVendorClone",
+			"label": "Enable for vendor clone features",
+			"value": false
+		},
+		{
+			"type": "showHideFreeRideSetting",
+			"label": "Enable for delivery boy free ride setting",
+			"value": false
+		},
+		{
+			"type": "showHideAvoidFraudSetting",
+			"label": "Enable for store avoid fraud setting",
+			"value": false
+		},
+		{
+			"type": "showHideDriverTripFareSettings",
+			"label": "Enable the driver can set their own price per unit distance.",
+			"value": false
+		},
+		{
+			"type": "showHideIndriverBidSettings",
+			"label": "Enable the Indriver-bid features for taxi.",
+			"value": false
+		}
+	],
+	"disputefor": [
+		{
+			"value": "vendor",
+			"label": "Vendor"
+		},
+		{
+			"value": "driver",
+			"label": "Driver"
+		},
+		{
+			"value": "serviceProvider",
+			"label": "Service Provider"
+		}
+	],
+	"disputeWith": [
+		"vendor",
+		"driver",
+		"serviceProvider"
+	],
+	"menuTypeObj": [
+		{
+			"type": "topMenu",
+			"label": "TOP MENU"
+		},
+		{
+			"type": "footerLeft",
+			"label": "QUICK LINKS"
+		},
+		{
+			"type": "footerMiddle",
+			"label": "CUSTOMER SERVICE"
+		}
+	],
+	"CANCELLATION_POLICY_ORDERSTATUS": [
+		{
+			"label": "Pending",
+			"orderStatus": "pending"
+		},
+		{
+			"label": "Confirmed",
+			"orderStatus": "confirmed"
+		}
+	],
+	"CANCELLATION_POLICY_REFUND_TYPE": [
+		{
+			"label": "Full",
+			"refundType": "full"
+		},
+		{
+			"label": "Partial",
+			"refundType": "partial"
+		},
+		{
+			"label": "No Refund",
+			"refundType": "no"
+		}
+	],
+	"APP_BANNER_SECTION_TYPE": [
+		{
+			"name": "Product Banner",
+			"type": "productBanner"
+		},
+		{
+			"name": "Category Banner",
+			"type": "categoryBanner"
+		},
+		{
+			"name": "Simple Banner",
+			"type": "simpleBanner"
+		}
+	],
+	"CONTENT_DEVICE_TYPE": [
+		"web",
+		"mobile"
+	],
+	"CONTENT_SECTION_TYPE": [
+		{
+			"name": "App Content",
+			"type": "appcontent",
+			"styles": [
+				{
+					"label": "App Content 1",
+					"value": "appcontent1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635398790228app%20content.png"
+				}
+			]
+		},
+		{
+			"name": "Banner",
+			"type": "banner",
+			"styles": [
+				{
+					"label": "Banner 1",
+					"value": "banner1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635399396837Banner.png"
+				}
+			]
+		},
+		{
+			"name": "Bestseller Products",
+			"type": "bestseller",
+			"styles": [
+				{
+					"label": "Bestseller 1",
+					"value": "bestseller1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635399396837Banner.png"
+				}
+			]
+		},
+		{
+			"name": "Content + Image",
+			"type": "contentImage",
+			"styles": [
+				{
+					"label": "Content Image 1",
+					"value": "contentImage1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635399830042content%20plus%20image.png"
+				}
+			]
+		},
+		{
+			"name": "Content Only",
+			"type": "content",
+			"styles": [
+				{
+					"label": "Content 1",
+					"value": "content1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635399970957Content%20only.png"
+				}
+			]
+		},
+		{
+			"name": "Feature",
+			"type": "feature",
+			"styles": [
+				{
+					"label": "Feature 1",
+					"value": "feature1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635400138042service%20and%20feature.png"
+				}
+			]
+		},
+		{
+			"name": "Promotions",
+			"type": "promotion",
+			"styles": [
+				{
+					"label": "Promotion 1",
+					"value": "promotion1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635400240694promotion.png"
+				}
+			]
+		},
+		{
+			"name": "Store Categories",
+			"type": "storecategories",
+			"styles": [
+				{
+					"label": "Store Categories 1",
+					"value": "storecategories1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635400475127screenshot-main.hlc-staging.com-2021.10.28-11_23_53.png"
+				}
+			]
+		},
+		{
+			"name": "Testimonials",
+			"type": "testimonial",
+			"styles": [
+				{
+					"label": "Testimonial 1",
+					"value": "testimonial1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635400564577testimonials.png"
+				}
+			]
+		},
+		{
+			"name": "Slider",
+			"type": "slider",
+			"styles": [
+				{
+					"label": "Slider 1",
+					"value": "slider1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635400688377slider.png"
+				},
+				{
+					"label": "Carousel",
+					"value": "carousel",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635400804874our%20partner.png"
+				}
+			]
+		},
+		{
+			"name": "Gallery",
+			"type": "gallery",
+			"styles": [
+				{
+					"label": "Gallery 1",
+					"value": "gallery1",
+					"previewUrl": "https://hlclives3.s3.us-east-2.amazonaws.com/1635417948372gallery.png"
+				}
+			]
+		}
+	],
+	"COUNTRIES": [
+		{
+			"name": "Austria",
+			"code": "AT",
+			"cc": "+43"
+		},
+		{
+			"name": "Australia",
+			"code": "AU",
+			"cc": "+61"
+		},
+		{
+			"name": "Belgium",
+			"code": "BE",
+			"cc": "+32"
+		},
+		{
+			"name": "Botswana",
+			"code": "BW",
+			"cc": "+267"
+		},
+		{
+			"name": "Brazil",
+			"code": "BR",
+			"cc": "+55"
+		},
+		{
+			"name": "Bulgaria",
+			"code": "BG",
+			"cc": "+359"
+		},
+		{
+			"name": "Cameroon",
+			"code": "CM",
+			"cc": "+237"
+		},
+		{
+			"name": "Canada",
+			"code": "CA",
+			"cc": "+1"
+		},
+		{
+			"name": "Côte d'Ivoire",
+			"code": "CI",
+			"cc": "+225"
+		},
+		{
+			"name": "Cyprus",
+			"code": "CY",
+			"cc": "+357"
+		},
+		{
+			"name": "Czech Republic",
+			"code": "CY",
+			"cc": "+420"
+		},
+		{
+			"name": "Denmark",
+			"code": "DK",
+			"cc": "+45"
+		},
+		{
+			"name": "Estonia",
+			"code": "EE",
+			"cc": "+372"
+		},
+		{
+			"name": "Egypt",
+			"code": "EG",
+			"cc": "+20"
+		},
+		{
+			"name": "Finland",
+			"code": "FI",
+			"cc": "+358"
+		},
+		{
+			"name": "France",
+			"code": "FR",
+			"cc": "+33"
+		},
+		{
+			"name": "Ghana",
+			"code": "GH",
+			"cc": "+233"
+		},
+		{
+			"name": "Germany",
+			"code": "DE",
+			"cc": "+49"
+		},
+		{
+			"name": "Greece",
+			"code": "GR",
+			"cc": "+30"
+		},
+		{
+			"name": "Guinea",
+			"code": "GN",
+			"cc": "+224"
+		},
+		{
+			"name": "Haiti",
+			"code": "HT",
+			"cc": "+509"
+		},
+		{
+			"name": "Hong Kong",
+			"code": "HK",
+			"cc": "+852"
+		},
+		{
+			"name": "Hungary",
+			"code": "HU",
+			"cc": "+36"
+		},
+		{
+			"name": "India",
+			"code": "IN",
+			"cc": "+91"
+		},
+		{
+			"name": "Ireland",
+			"code": "IE",
+			"cc": "+353"
+		},
+		{
+			"name": "Italy",
+			"code": "IT",
+			"cc": "+61"
+		},
+		{
+			"name": "Japan",
+			"code": "JP",
+			"cc": "+81"
+		},
+		{
+			"name": "Latvia",
+			"code": "LV",
+			"cc": "+371"
+		},
+		{
+			"name": "Libya",
+			"code": "LY",
+			"cc": "+218"
+		},
+		{
+			"name": "Lithuania",
+			"code": "LT",
+			"cc": "+370"
+		},
+		{
+			"name": "Luxembourg",
+			"code": "LU",
+			"cc": "+352"
+		},
+		{
+			"name": "Madagascar",
+			"code": "MG",
+			"cc": "+261"
+		},
+		{
+			"name": "Malaysia",
+			"code": "MY",
+			"cc": "+60"
+		},
+		{
+			"name": "Malta",
+			"code": "MT",
+			"cc": "+356"
+		},
+		{
+			"name": "Mali",
+			"code": "ML",
+			"cc": "+223"
+		},
+		{
+			"name": "Mexico",
+			"code": "MX",
+			"cc": "+52"
+		},
+		{
+			"name": "Netherlands",
+			"code": "NL",
+			"cc": "+31"
+		},
+		{
+			"name": "New Zealand",
+			"code": "NZ",
+			"cc": "+64"
+		},
+		{
+			"name": "Nigeria",
+			"code": "NG",
+			"cc": "+234"
+		},
+		{
+			"name": "Norway",
+			"code": "NO",
+			"cc": "+47"
+		},
+		{
+			"name": "Oman",
+			"code": "OM",
+			"cc": "+968"
+		},
+		{
+			"name": "Pakistan",
+			"code": "PK",
+			"cc": "+92"
+		},
+		{
+			"name": "Poland",
+			"code": "PL",
+			"cc": "+48"
+		},
+		{
+			"name": "Portugal",
+			"code": "PT",
+			"cc": "+351"
+		},
+		{
+			"name": "Romania",
+			"code": "RO",
+			"cc": "+40"
+		},
+		{
+			"name": "Senegal",
+			"code": "SN",
+			"cc": "+221"
+		},
+		{
+			"name": "Singapore",
+			"code": "SG",
+			"cc": "+65"
+		},
+		{
+			"name": "Sierra Leone",
+			"code": "SL",
+			"cc": "+232"
+		},
+		{
+			"name": "Slovenia",
+			"code": "SI",
+			"cc": "+386"
+		},
+		{
+			"name": "South Africa",
+			"code": "ZA",
+			"cc": "+27"
+		},
+		{
+			"name": "Spain",
+			"code": "ES",
+			"cc": "+61"
+		},
+		{
+			"name": "Sweden",
+			"code": "SE",
+			"cc": "+46"
+		},
+		{
+			"name": "Switzerland",
+			"code": "CH",
+			"cc": "+41"
+		},
+
+		{
+			"name": "Sudan",
+			"code": "SD",
+			"cc": "+249"
+		},
+		{
+			"name": "Tanzania",
+			"code": "TZA",
+			"cc": "+255"
+		},
+		{
+			"name": "United Arab Emirates",
+			"code": "AE",
+			"cc": "+971"
+		},
+		{
+			"name": "United Kingdom",
+			"code": "GB",
+			"cc": "+44"
+		},
+		{
+			"name": "United States",
+			"code": "US",
+			"cc": "+1"
+		},
+		{
+			"name": "Zambia",
+			"code": "ZM",
+			"cc": "+260"
+		}
+	
+	],
+	"LANGUAGES": [
+		{
+			"name": "English",
+			"code": "en",
+			"flag": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1662988600236us.jpg"
+		},
+		{
+			"name": "French",
+			"code": "fr",
+			"flag": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1662988839381french.jpg"
+		},
+		{
+			"name": "Haitian Creole",
+			"code": "ht",
+			"flag": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1662988815164haitian-creole.png"
+		},
+		{
+			"name": "Chinese",
+			"code": "zh",
+			"flag": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1662988745259Flag-China.jpg"
+		},
+		{
+			"name": "Russian",
+			"code": "ru",
+			"flag": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1678190972383Russion-ru.png"
+		}
+	],
+	"CURRENCIES": [
+		{
+			"name": "$",
+			"code": "USD"
+		},
+		{
+			"name": "د.إ",
+			"code": "AED"
+		},
+		{
+			"name": "$",
+			"code": "AUD"
+		},
+		{
+			"name": "$",
+			"code": "CAD"
+		},
+		{
+			"name": "€",
+			"code": "EUR"
+		},
+		{
+			"name": "£",
+			"code": "GBP"
+		},
+		{
+			"name": "¥",
+			"code": "JPY"
+		},
+		{
+			"name": "Kr",
+			"code": "NOK"
+		},
+		{
+			"name": "Kr",
+			"code": "SEK"
+		},
+		{
+			"name": "Fr",
+			"code": "CHF"
+		},
+		{
+			"name": "₩",
+			"code": "KRW"
+		},
+		{
+			"name": "$",
+			"code": "HKD"
+		},
+		{
+			"name": "Mex$",
+			"code": "MXN"
+		},
+		{
+			"name": "$",
+			"code": "NZD"
+		},
+		{
+			"name": "₦",
+			"code": "NGN"
+		},
+		{
+			"name": "ر.ع.",
+			"code": "OMR"
+		},
+		{
+			"name": "Le",
+			"code": "SLL"
+		},
+		{
+			"name": "₹",
+			"code": "INR"
+		},
+		{
+			"name": "₨",
+			"code": "PKR"
+		},
+		{
+			"name": "R",
+			"code": "ZAR"
+		},
+		{
+			"name": "GH₵",
+			"code": "GHS"
+		},
+		{
+			"name": "CFA",
+			"code": "XOF"
+		},
+		{
+			"name": "G",
+			"code": "HTG"
+		},
+		{
+			"name": "ZK",
+			"code": "ZMW"
+		},
+		{
+			"name": "TSh",
+			"code": "TZS"
+		},
+		{
+			"name": "R$",
+			"code": "BRL"
+		},
+		{
+			"name": "ج.س",
+			"code": "SDG"
+		}
+	],
+	"NOTIFICATIONS_SOUND": [
+		{
+			"label": "Beep",
+			"filename": "beep.mp3"
+		},
+		{
+			"label": "Serene",
+			"filename": "serene.mp3"
+		}
+	],
+	"TIMEZONES": [
+		{
+			"name": "(GMT-11:00) American Samoa",
+			"code": "Pacific/Pago_Pago"
+		},
+		{
+			"name": "(GMT-11:00) Midway Island",
+			"code": "Pacific/Midway"
+		},
+		{
+			"name": "(GMT-10:00) Hawaii",
+			"code": "Pacific/Honolulu"
+		},
+		{
+			"name": "(GMT-09:00) Alaska",
+			"code": "America/Juneau"
+		},
+		{
+			"name": "(GMT-08:00) Pacific Time (US & Canada)",
+			"code": "America/Los_Angeles"
+		},
+		{
+			"name": "(GMT-08:00) Tijuana",
+			"code": "America/Tijuana"
+		},
+		{
+			"name": "(GMT-07:00) Arizona",
+			"code": "America/Phoenix"
+		},
+		{
+			"name": "(GMT-07:00) Chihuahua",
+			"code": "America/Chihuahua"
+		},
+		{
+			"name": "(GMT-07:00) Mazatlan",
+			"code": "America/Mazatlan"
+		},
+		{
+			"name": "(GMT-07:00) Mountain Time (US & Canada)",
+			"code": "America/Denver"
+		},
+		{
+			"name": "(GMT-06:00) Central America",
+			"code": "America/Guatemala"
+		},
+		{
+			"name": "(GMT-06:00) Central Time (US & Canada)",
+			"code": "America/Chicago"
+		},
+		{
+			"name": "(GMT-06:00) Guadalajara, Mexico City",
+			"code": "America/Mexico_City"
+		},
+		{
+			"name": "(GMT-05:00) Tulum, Mexico",
+			"code": "America/Cancun"
+		},
+		{
+			"name": "(GMT-06:00) Monterrey",
+			"code": "America/Monterrey"
+		},
+		{
+			"name": "(GMT-06:00) Saskatchewan",
+			"code": "America/Regina"
+		},
+		{
+			"name": "(GMT-05:00) Bogota",
+			"code": "America/Bogota"
+		},
+		{
+			"name": "(GMT-05:00) Eastern Time (US & Canada)",
+			"code": "America/New_York"
+		},
+		{
+			"name": "(GMT-05:00) Indiana (East)",
+			"code": "America/Indiana/Indianapolis"
+		},
+		{
+			"name": "(GMT-05:00) Lima, Quito",
+			"code": "America/Lima"
+		},
+		{
+			"name": "(GMT-04:00) Atlantic Time (Canada)",
+			"code": "America/Halifax"
+		},
+		{
+			"name": "(GMT-04:00) Caracas",
+			"code": "America/Caracas"
+		},
+		{
+			"name": "(GMT-04:00) Georgetown",
+			"code": "America/Guyana"
+		},
+		{
+			"name": "(GMT-04:00) La Paz",
+			"code": "America/La_Paz"
+		},
+		{
+			"name": "(GMT-04:00) Puerto Rico",
+			"code": "America/Puerto_Rico"
+		},
+		{
+			"name": "(GMT-04:00) Santiago",
+			"code": "America/Santiago"
+		},
+		{
+			"name": "(GMT-03:30) Newfoundland",
+			"code": "America/St_Johns"
+		},
+		{
+			"name": "(GMT-03:00) Brasilia",
+			"code": "America/Sao_Paulo"
+		},
+		{
+			"name": "(GMT-03:00) Buenos Aires",
+			"code": "America/Argentina/Buenos_Aires"
+		},
+		{
+			"name": "(GMT-03:00) Greenland",
+			"code": "America/Godthab"
+		},
+		{
+			"name": "(GMT-03:00) Montevideo",
+			"code": "America/Montevideo"
+		},
+		{
+			"name": "(GMT-02:00) Mid-Atlantic",
+			"code": "Atlantic/South_Georgia"
+		},
+		{
+			"name": "(GMT-01:00) Azores",
+			"code": "Atlantic/Azores"
+		},
+		{
+			"name": "(GMT-01:00) Cape Verde Is.",
+			"code": "Atlantic/Cape_Verde"
+		},
+		{
+			"name": "(GMT+00:00) Edinburgh, London",
+			"code": "Europe/London"
+		},
+		{
+			"name": "(GMT+00:00) Lisbon",
+			"code": "Europe/Lisbon"
+		},
+		{
+			"name": "(GMT+00:00) Monrovia",
+			"code": "Africa/Monrovia"
+		},
+		{
+			"name": "(GMT+00:00) UTC",
+			"code": "Etc/UTC"
+		},
+		{
+			"name": "(GMT+01:00) Amsterdam",
+			"code": "Europe/Amsterdam"
+		},
+		{
+			"name": "(GMT+01:00) Belgrade",
+			"code": "Europe/Belgrade"
+		},
+		{
+			"name": "(GMT+01:00) Berlin",
+			"code": "Europe/Berlin"
+		},
+		{
+			"name": "(GMT+01:00) Bern, Zurich",
+			"code": "Europe/Zurich"
+		},
+		{
+			"name": "(GMT+01:00) Bratislava",
+			"code": "Europe/Bratislava"
+		},
+		{
+			"name": "(GMT+01:00) Brussels",
+			"code": "Europe/Brussels"
+		},
+		{
+			"name": "(GMT+01:00) Budapest",
+			"code": "Europe/Budapest"
+		},
+		{
+			"name": "(GMT+01:00) Casablanca",
+			"code": "Africa/Casablanca"
+		},
+		{
+			"name": "(GMT+01:00) Copenhagen",
+			"code": "Europe/Copenhagen"
+		},
+		{
+			"name": "(GMT+00:00) Dublin",
+			"code": "Europe/Dublin"
+		},
+		{
+			"name": "(GMT+01:00) Ljubljana",
+			"code": "Europe/Ljubljana"
+		},
+		{
+			"name": "(GMT+01:00) Madrid",
+			"code": "Europe/Madrid"
+		},
+		{
+			"name": "(GMT+01:00) Paris",
+			"code": "Europe/Paris"
+		},
+		{
+			"name": "(GMT+01:00) Prague",
+			"code": "Europe/Prague"
+		},
+		{
+			"name": "(GMT+01:00) Rome",
+			"code": "Europe/Rome"
+		},
+		{
+			"name": "(GMT+01:00) Sarajevo",
+			"code": "Europe/Sarajevo"
+		},
+		{
+			"name": "(GMT+01:00) Skopje",
+			"code": "Europe/Skopje"
+		},
+		{
+			"name": "(GMT+01:00) Stockholm",
+			"code": "Europe/Stockholm"
+		},
+		{
+			"name": "(GMT+01:00) Vienna",
+			"code": "Europe/Vienna"
+		},
+		{
+			"name": "(GMT+01:00) Warsaw",
+			"code": "Europe/Warsaw"
+		},
+		{
+			"name": "(GMT+01:00) West Central Africa",
+			"code": "Africa/Algiers"
+		},
+		{
+			"name": "(GMT+01:00) Zagreb",
+			"code": "Europe/Zagreb"
+		},
+		{
+			"name": "(GMT+02:00) Athens",
+			"code": "Europe/Athens"
+		},
+		{
+			"name": "(GMT+02:00) Bucharest",
+			"code": "Europe/Bucharest"
+		},
+		{
+			"name": "(GMT+02:00) Central Africa Time",
+			"code": "Africa"
+		},
+		{
+			"name": "(GMT+02:00) Freetown",
+			"code": "Africa/Freetown"
+		},
+		{
+			"name": "(GMT+02:00) Central Africa Time",
+			"code": "Africa"
+		},
+		{
+			"name": "(GMT+02:00) Johannesburg",
+			"code": "Africa/Johannesburg"
+		},
+		{
+			"name": "(GMT+02:00) Cairo",
+			"code": "Africa/Cairo"
+		},
+		{
+			"name": "(GMT+02:00) Harare",
+			"code": "Africa/Harare"
+		},
+		{
+			"name": "(GMT+02:00) Helsinki",
+			"code": "Europe/Helsinki"
+		},
+		{
+			"name": "(GMT+02:00) Jerusalem",
+			"code": "Asia/Jerusalem"
+		},
+		{
+			"name": "(GMT+02:00) Kaliningrad",
+			"code": "Europe/Kaliningrad"
+		},
+		{
+			"name": "(GMT+02:00) Kyiv",
+			"code": "Europe/Kiev"
+		},
+		{
+			"name": "(GMT+02:00) Pretoria",
+			"code": "Africa/Johannesburg"
+		},
+		{
+			"name": "(GMT+02:00) Riga",
+			"code": "Europe/Riga"
+		},
+		{
+			"name": "(GMT+02:00) Sofia",
+			"code": "Europe/Sofia"
+		},
+		{
+			"name": "(GMT+02:00) Tallinn",
+			"code": "Europe/Tallinn"
+		},
+		{
+			"name": "(GMT+02:00) Vilnius",
+			"code": "Europe/Vilnius"
+		},
+		{
+			"name": "(GMT+03:00) Baghdad",
+			"code": "Asia/Baghdad"
+		},
+		{
+			"name": "(GMT+03:00) Istanbul",
+			"code": "Europe/Istanbul"
+		},
+		{
+			"name": "(GMT+03:00) Kuwait",
+			"code": "Asia/Kuwait"
+		},
+		{
+			"name": "(GMT+03:00) Minsk",
+			"code": "Europe/Minsk"
+		},
+		{
+			"name": "(GMT+03:00) Moscow, St. Petersburg",
+			"code": "Europe/Moscow"
+		},
+		{
+			"name": "(GMT+03:00) Nairobi",
+			"code": "Africa/Nairobi"
+		},
+		{
+			"name": "(GMT+03:00) Riyadh",
+			"code": "Asia/Riyadh"
+		},
+		{
+			"name": "(GMT+03:30) Tehran",
+			"code": "Asia/Tehran"
+		},
+		{
+			"name": "(GMT+04:00) Abu Dhabi, Muscat",
+			"code": "Asia/Muscat"
+		},
+		{
+			"name": "(GMT+04:00) Baku",
+			"code": "Asia/Baku"
+		},
+		{
+			"name": "(GMT+04:00) Samara",
+			"code": "Europe/Samara"
+		},
+		{
+			"name": "(GMT+04:00) Tbilisi",
+			"code": "Asia/Tbilisi"
+		},
+		{
+			"name": "(GMT+03:00) Volgograd",
+			"code": "Europe/Volgograd"
+		},
+		{
+			"name": "(GMT+04:00) Yerevan",
+			"code": "Asia/Yerevan"
+		},
+		{
+			"name": "(GMT+04:30) Kabul",
+			"code": "Asia/Kabul"
+		},
+		{
+			"name": "(GMT+05:00) Ekaterinburg",
+			"code": "Asia/Yekaterinburg"
+		},
+		{
+			"name": "(GMT+05:00) Islamabad, Karachi",
+			"code": "Asia/Karachi"
+		},
+		{
+			"name": "(GMT+05:00) Tashkent",
+			"code": "Asia/Tashkent"
+		},
+		{
+			"name": "(GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+			"code": "Asia/Kolkata"
+		},
+		{
+			"name": "(GMT+05:30) Sri Jayawardenepura",
+			"code": "Asia/Colombo"
+		},
+		{
+			"name": "(GMT+05:45) Kathmandu",
+			"code": "Asia/Kathmandu"
+		},
+		{
+			"name": "(GMT+06:00) Almaty",
+			"code": "Asia/Almaty"
+		},
+		{
+			"name": "(GMT+06:00) Astana, Dhaka",
+			"code": "Asia/Dhaka"
+		},
+		{
+			"name": "(GMT+06:00) Urumqi",
+			"code": "Asia/Urumqi"
+		},
+		{
+			"name": "(GMT+06:30) Rangoon",
+			"code": "Asia/Rangoon"
+		},
+		{
+			"name": "(GMT+07:00) Bangkok, Hanoi",
+			"code": "Asia/Bangkok"
+		},
+		{
+			"name": "(GMT+07:00) Jakarta",
+			"code": "Asia/Jakarta"
+		},
+		{
+			"name": "(GMT+07:00) Krasnoyarsk",
+			"code": "Asia/Krasnoyarsk"
+		},
+		{
+			"name": "(GMT+07:00) Novosibirsk",
+			"code": "Asia/Novosibirsk"
+		},
+		{
+			"name": "(GMT+08:00) Beijing",
+			"code": "Asia/Shanghai"
+		},
+		{
+			"name": "(GMT+08:00) Chongqing",
+			"code": "Asia/Chongqing"
+		},
+		{
+			"name": "(GMT+08:00) Hong Kong",
+			"code": "Asia/Hong_Kong"
+		},
+		{
+			"name": "(GMT+08:00) Irkutsk",
+			"code": "Asia/Irkutsk"
+		},
+		{
+			"name": "(GMT+08:00) Kuala Lumpur",
+			"code": "Asia/Kuala_Lumpur"
+		},
+		{
+			"name": "(GMT+08:00) Perth",
+			"code": "Australia/Perth"
+		},
+		{
+			"name": "(GMT+08:00) Singapore",
+			"code": "Asia/Singapore"
+		},
+		{
+			"name": "(GMT+08:00) Taipei",
+			"code": "Asia/Taipei"
+		},
+		{
+			"name": "(GMT+08:00) Ulaanbaatar",
+			"code": "Asia/Ulaanbaatar"
+		},
+		{
+			"name": "(GMT+09:00) Osaka, Sapporo, Tokyo",
+			"code": "Asia/Tokyo"
+		},
+		{
+			"name": "(GMT+09:00) Seoul",
+			"code": "Asia/Seoul"
+		},
+		{
+			"name": "(GMT+09:00) Yakutsk",
+			"code": "Asia/Yakutsk"
+		},
+		{
+			"name": "(GMT+09:30) Adelaide",
+			"code": "Australia/Adelaide"
+		},
+		{
+			"name": "(GMT+09:30) Darwin",
+			"code": "Australia/Darwin"
+		},
+		{
+			"name": "(GMT+10:00) Brisbane",
+			"code": "Australia/Brisbane"
+		},
+		{
+			"name": "(GMT+10:00) Canberra, Melbourne",
+			"code": "Australia/Melbourne"
+		},
+		{
+			"name": "(GMT+10:00) Guam",
+			"code": "Pacific/Guam"
+		},
+		{
+			"name": "(GMT+10:00) Hobart",
+			"code": "Australia/Hobart"
+		},
+		{
+			"name": "(GMT+10:00) Port Moresby",
+			"code": "Pacific/Port_Moresby"
+		},
+		{
+			"name": "(GMT+10:00) Sydney",
+			"code": "Australia/Sydney"
+		},
+		{
+			"name": "(GMT+10:00) Vladivostok",
+			"code": "Asia/Vladivostok"
+		},
+		{
+			"name": "(GMT+11:00) Magadan",
+			"code": "Asia/Magadan"
+		},
+		{
+			"name": "(GMT+11:00) New Caledonia",
+			"code": "Pacific/Noumea"
+		},
+		{
+			"name": "(GMT+11:00) Solomon Is.",
+			"code": "Pacific/Guadalcanal"
+		},
+		{
+			"name": "(GMT+11:00) Srednekolymsk",
+			"code": "Asia/Srednekolymsk"
+		},
+		{
+			"name": "(GMT+12:00) Auckland, Wellington",
+			"code": "Pacific/Auckland"
+		},
+		{
+			"name": "(GMT+12:00) Fiji",
+			"code": "Pacific/Fiji"
+		},
+		{
+			"name": "(GMT+12:00) Kamchatka",
+			"code": "Asia/Kamchatka"
+		},
+		{
+			"name": "(GMT+12:00) Marshall Is.",
+			"code": "Pacific/Majuro"
+		},
+		{
+			"name": "(GMT+12:45) Chatham Is.",
+			"code": "Pacific/Chatham"
+		},
+		{
+			"name": "(GMT+13:00) Nuku'alofa",
+			"code": "Pacific/Tongatapu"
+		},
+		{
+			"name": "(GMT+13:00) Samoa",
+			"code": "Pacific/Apia"
+		},
+		{
+			"name": "(GMT+13:00) Tokelau Is.",
+			"code": "Pacific/Fakaofo"
+		}
+	],
+	"SERVICES": [
+		"FOOD",
+		"GROCERY",
+		"MEDICINE",
+		"MEAT",
+		"PIZZA",
+		"LIQUOR",
+		"FLOWER",
+		"TAXI",
+		"PICKUPDROP",
+		"SERVICEPROVIDER",
+		"AIRBNB",
+		"CARRENTAL",
+		"ECOMMERCE"
+	],
+	"pricingType_enum": [
+		"unit",
+		"kg",
+		"hour",
+		"day",
+		"night",
+		"litre",
+		"gm"
+	],
+	"serviceUnit_enum": [
+		"min",
+		"hour"
+	],
+	"serviceUnit": [
+		{
+			"label": "min",
+			"value": "min"
+		},
+		{
+			"label": "hour",
+			"value": "hour"
+		}
+	],
+	"pricingType": [
+		{
+			"label": "Unit",
+			"value": "unit"
+		},
+		{
+			"label": "Kg",
+			"value": "kg"
+		},
+		{
+			"label": "Hour",
+			"value": "hour"
+		},
+		{
+			"label": "Day",
+			"value": "day"
+		}
+	],
+	"DRIVER_STORE_TYPE": [
+		{
+			"label": "Taxi",
+			"value": "TAXI"
+		},
+		{
+			"label": "Pickup Drop",
+			"value": "PICKUPDROP"
+		},
+		{
+			"label": "Other",
+			"value": "OTHER"
+		}
+	],
+	"STORETYPES": [
+		{
+			"storeType": "FOOD",
+			"icon": "/images/Food.png",
+			"label": "Food"
+		},
+		{
+			"storeType": "GROCERY",
+			"icon": "/images/books_magazines.png",
+			"label": "Books Magazines"
+		},
+		{
+			"storeType": "MEDICINE",
+			"icon": "/images/Medicine.png",
+			"label": "Medicine"
+		},
+		{
+			"storeType": "MEAT",
+			"icon": "/images/Meat.png",
+			"label": "Meat"
+		},
+		{
+			"storeType": "PIZZA",
+			"icon": "/images/Pizza.png",
+			"label": "Pizza"
+		},
+		{
+			"storeType": "LIQUOR",
+			"icon": "/images/Liquor.png",
+			"label": "Liquor"
+		},
+		{
+			"storeType": "FLOWER",
+			"icon": "/images/Flower.png",
+			"label": "Flower"
+		},
+		{
+			"storeType": "TAXI",
+			"icon": "/images/Taxi.png",
+			"label": "Taxi"
+		},
+		{
+			"storeType": "PICKUPDROP",
+			"icon": "/images/Taxi.png",
+			"label": "Pickup & Drop"
+		},
+		{
+			"storeType": "SERVICEPROVIDER",
+			"icon": "/images/Provider.png",
+			"label": "Service Provider"
+		},
+		{
+			"storeType": "AIRBNB",
+			"icon": "/images/Hotel.png",
+			"label": "Hotel"
+		},
+		{
+			"storeType": "CARRENTAL",
+			"icon": "/images/Carrental.png",
+			"label": "Car Rental"
+		},
+		{
+			"storeType": "ECOMMERCE",
+			"icon": "/images/ecommerce.png",
+			"label": "Ecommerce"
+		},
+		{
+			"storeType": "BAKERY",
+			"icon": "/images/bakery_products.png",
+			"label": "Bakery"
+		}
+	],
+	"LOG_TYPE": [
+		"UPDATE_BILLING_DIRECT",
+		"UPDATE_BILLING_INVOICE",
+		"REBUILD_SCRIPT_UPDATE",
+		"REBUILD_SCRIPT_CREATE",
+		"DOMAIN_UPDATE",
+		"UPDATE_SETTING",
+		"UPDATE_TERMINOLOGY",
+		"CREATE_TERMINOLOGY",
+		"VENDOR_IMPORT",
+		"CUSTOMER_IMPORT",
+		"PRODUCT_IMPORT",
+		"VARIATION_IMPORT",
+		"CAMPAIGN"
+	],
+	"FILE_TYPE": [
+		"storeGallery"
+	],
+	"ID_TYPE": [
+		"stores",
+		"users"
+	],
+	"ROLES": [
+		"USER",
+		"ADMIN",
+		"SUPPERADMIN",
+		"VENDOR",
+		"DRIVER",
+		"STAFF"
+	],
+	"DELIVERY": [
+		"TAKEAWAY",
+		"DELIVERY"
+	],
+	"PAYMENTGATEWAY": [
+		"razorpay",
+		"stripe",
+		"paypal",
+		"applepay",
+		"googlepay",
+		"wallet",
+		"cod",
+		"orangeMoney",
+		"square",
+		"paystack",
+		"pay360",
+		"moncash",
+		"dpo",
+		"flutterwave",
+		"cardOnDelivery"
+	],
+	"DIRECTPAYMENTGATEWAY": [
+		"paystack",
+		"flutterwave",
+		"orangeMoney",
+		"razorpay"
+	],
+	"CARD_ICONS": [
+		{
+			"type": "Visa",
+			"imageId": "5fe588cfca99c9790e3303b5",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354128727visa.png"
+		},
+		{
+			"type": "MasterCard",
+			"imageId": "5fe5894bca99c9790e3303b6",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354228432master.png"
+		},
+		{
+			"type": "American Express",
+			"imageId": "5fe589d9ca99c9790e3303b7",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354157986americaexpress.png"
+		},
+		{
+			"type": "Diners Club",
+			"imageId": "5fe589d9ca99c9790e3303b7",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354293020default.png"
+		},
+		{
+			"type": "Discover",
+			"imageId": "5fe589d9ca99c9790e3303b7",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354293020default.png"
+		},
+		{
+			"type": "JCB",
+			"imageId": "5fe589d9ca99c9790e3303b7",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354293020default.png"
+		},
+		{
+			"type": "UnionPay",
+			"imageId": "5fe589d9ca99c9790e3303b7",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354293020default.png"
+		},
+		{
+			"type": "Unknown",
+			"imageId": "5fe589d9ca99c9790e3303b7",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354293020default.png"
+		},
+		{
+			"type": "paypal",
+			"imageId": "5fe589d9ca99c9790e3303b7",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1704354253504paypal.png"
+		}
+	],
+	"ACCESS_LIST": [
+		{
+			"type": "customers",
+			"label": "Customers",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				},
+				{
+					"label": "BLOCK",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "dispatch",
+			"label": "Dispatch",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "hideDetails",
+			"label": "Hide Contact Details",
+			"permissions": [
+				{
+					"label": "DRIVER",
+					"value": false
+				},
+				{
+					"label": "VENDOR",
+					"value": false
+				},
+				{
+					"label": "CUSTOMER",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "dispute",
+			"label": "Dispute",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "geofencing",
+			"label": "Geofencing",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "faq",
+			"label": "Faq",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "promotion",
+			"label": "Promotion",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "gallery",
+			"label": "Gallery",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "contentPages",
+			"label": "Content Pages",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "emailTemplate",
+			"label": "Email Templates",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "marketing",
+			"label": "Marketing",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "reports",
+			"label": "Reports",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "accounting",
+			"label": "Accounting",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "PAY",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "docTemplate",
+			"label": "Document Templates",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "globalSetting",
+			"label": "Store Setting",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "storetypes",
+			"label": "Store Types",
+			"storeTypes": [
+				{
+					"storeType": "FOOD",
+					"navigation": [
+						{
+							"type": "restaurants",
+							"label": "Restaurants",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Orders",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "cuisines",
+							"label": "Cuisines",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "GROCERY",
+					"navigation": [
+						{
+							"type": "restaurants",
+							"label": "Restaurants",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "vendors",
+							"label": "Vendors",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Orders",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "brands",
+							"label": "Brands",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "MEDICINE",
+					"navigation": [
+						{
+							"type": "vendors",
+							"label": "Vendors",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Orders",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "brands",
+							"label": "Brands",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "MEAT",
+					"navigation": [
+						{
+							"type": "vendors",
+							"label": "Vendors",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Orders",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "brands",
+							"label": "Brands",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "PIZZA",
+					"navigation": [
+						{
+							"type": "vendors",
+							"label": "Vendors",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Orders",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "brands",
+							"label": "Brands",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "LIQUOR",
+					"navigation": [
+						{
+							"type": "vendors",
+							"label": "Vendors",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Orders",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "brands",
+							"label": "Brands",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "FLOWER",
+					"navigation": [
+						{
+							"type": "vendors",
+							"label": "Vendors",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Orders",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "brands",
+							"label": "Brands",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "TAXI",
+					"navigation": [
+						{
+							"type": "trips",
+							"label": "Trips",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "PICKUPDROP",
+					"navigation": [
+						{
+							"type": "trips",
+							"label": "Trips",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "SERVICEPROVIDER",
+					"navigation": [
+						{
+							"type": "product",
+							"label": "Services",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "category",
+							"label": "Categories",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Bookings",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "addon",
+							"label": "Addons",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				},
+				{
+					"storeType": "CARRENTAL",
+					"navigation": [
+						{
+							"type": "product",
+							"label": "Services",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "category",
+							"label": "Brands & Type",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								},
+								{
+									"label": "BLOCK",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "orders",
+							"label": "Bookings",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "addon",
+							"label": "Features",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "CREATE",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								},
+								{
+									"label": "DELETE",
+									"value": false
+								}
+							]
+						},
+						{
+							"type": "storeTypeSetting",
+							"label": "Car Rental Setting",
+							"permissions": [
+								{
+									"label": "VIEW",
+									"value": false
+								},
+								{
+									"label": "UPDATE",
+									"value": false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"ACCESS_LIST_DEFAULT_STORE_TYPE": [
+		{
+			"type": "vendors",
+			"label": "Vendors",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				},
+				{
+					"label": "BLOCK",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "orders",
+			"label": "Orders",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "brands",
+			"label": "Brands",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "CREATE",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				},
+				{
+					"label": "DELETE",
+					"value": false
+				}
+			]
+		},
+		{
+			"type": "storeTypeSetting",
+			"label": "Setting",
+			"permissions": [
+				{
+					"label": "VIEW",
+					"value": false
+				},
+				{
+					"label": "UPDATE",
+					"value": false
+				}
+			]
+		}
+	],
+	"ACCESS_TYPE": [
+		{
+			"action": "PAY",
+			"apiUrl": "/authenticationservice/api/v1/store/payment/adjustment",
+			"method": "POST",
+			"type": "accounting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/view",
+			"method": "GET",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/remove",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/updatestatus/all",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/add",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/add",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/view",
+			"method": "GET",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/update",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/update",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/remove",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/updatestatus/all",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/add",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/view",
+			"method": "GET",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/update",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/remove",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/updatestatus/all",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/getCampaignEmailStats",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/dispatch",
+			"method": "GET",
+			"type": "dispatch"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/dispatch/request/list",
+			"method": "POST",
+			"type": "dispatch"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/dispatch/request/view",
+			"method": "GET",
+			"type": "dispatch"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/dispatch/request/fare",
+			"method": "POST",
+			"type": "dispatch"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/dispatch/request/create",
+			"method": "POST",
+			"type": "dispatch"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/dispatch/request/nearbydrivers",
+			"method": "POST",
+			"type": "dispatch"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/dispatch/request/assign/driver",
+			"method": "PUT",
+			"type": "dispatch"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/dispute",
+			"method": "POST",
+			"type": "dispute"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/dispute/update",
+			"method": "POST",
+			"type": "dispute"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/dispute/admin/reply",
+			"method": "POST",
+			"type": "dispute"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/dispute/admin/delete/reply",
+			"method": "POST",
+			"type": "dispute"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/dispute",
+			"method": "GET",
+			"type": "dispute"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/geofence",
+			"method": "POST",
+			"type": "geofencing"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/geofence/add",
+			"method": "POST",
+			"type": "geofencing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/geofence/view",
+			"method": "GET",
+			"type": "geofencing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/geofence/update",
+			"method": "POST",
+			"type": "geofencing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/geofence/updatestatus/all",
+			"method": "POST",
+			"type": "geofencing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/geofence/location/check",
+			"method": "POST",
+			"type": "geofencing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/geofence/archive",
+			"method": "POST",
+			"type": "geofencing"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/gallery/uploadImage",
+			"method": "POST",
+			"type": "gallery"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/gallery/getGallery",
+			"method": "POST",
+			"type": "gallery"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/gallery/view",
+			"method": "GET",
+			"type": "gallery"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/gallery/remove",
+			"method": "POST",
+			"type": "gallery"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/gallery/update",
+			"method": "POST",
+			"type": "gallery"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/gallery/updateStatus",
+			"method": "POST",
+			"type": "gallery"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/users",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/user",
+			"method": "GET",
+			"type": "customers"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/adduser",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updateuser",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/removeuser",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/user/updatestatus/all",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/user/address",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/user/address",
+			"method": "GET",
+			"type": "customers"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/user/addaddress",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/user/updateaddress",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/user/removeaddress",
+			"method": "POST",
+			"type": "customers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/drivers",
+			"method": "POST",
+			"type": "drivers"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/adddriver",
+			"method": "POST",
+			"type": "drivers"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updatedriver",
+			"method": "POST",
+			"type": "drivers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/driver/view",
+			"method": "GET",
+			"type": "drivers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/archivedriver",
+			"method": "POST",
+			"type": "drivers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/drivers/updatestatus/all",
+			"method": "POST",
+			"type": "drivers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/promotion",
+			"method": "POST",
+			"type": "promotion"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/promotion/view",
+			"method": "GET",
+			"type": "promotion"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/promotion/add",
+			"method": "POST",
+			"type": "promotion"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/promotion/remove",
+			"method": "POST",
+			"type": "promotion"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/promotion/update",
+			"method": "POST",
+			"type": "promotion"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/promotion/updatestatus/all",
+			"method": "POST",
+			"type": "promotion"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/faq",
+			"method": "POST",
+			"type": "faq"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/faq/view",
+			"method": "GET",
+			"type": "faq"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/faq/add",
+			"method": "POST",
+			"type": "faq"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/faq/remove",
+			"method": "POST",
+			"type": "faq"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/faq/update",
+			"method": "POST",
+			"type": "faq"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/faq/updatestatus/all",
+			"method": "POST",
+			"type": "faq"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/content",
+			"method": "POST",
+			"type": "contentPages"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/content/view",
+			"method": "GET",
+			"type": "contentPages"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/content/add",
+			"method": "POST",
+			"type": "contentPages"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/content/update",
+			"method": "POST",
+			"type": "contentPages"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/content/updatestatus/all",
+			"method": "POST",
+			"type": "contentPages"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/content/addfield",
+			"method": "POST",
+			"type": "contentPages"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/content/updatefield",
+			"method": "POST",
+			"type": "contentPages"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/content/archivefield",
+			"method": "POST",
+			"type": "contentPages"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/content/field/view",
+			"method": "GET",
+			"type": "contentPages"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/content/updatecontentfield/all",
+			"method": "POST",
+			"type": "contentPages"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/templates",
+			"method": "POST",
+			"type": "emailTemplate"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/template/view",
+			"method": "GET",
+			"type": "emailTemplate"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updatetemplate",
+			"method": "POST",
+			"type": "emailTemplate"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/terminology/getStoreTerminologyByStoreId",
+			"method": "POST",
+			"type": "terminology"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/terminology/updateStoreTerminologyById",
+			"method": "POST",
+			"type": "terminology"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/notifications",
+			"method": "POST",
+			"type": "notifications"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/sendnotification",
+			"method": "POST",
+			"type": "notifications"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/view",
+			"method": "GET",
+			"type": "marketing"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/add",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/update",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/remove",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/updatestatus/all",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/view",
+			"method": "GET",
+			"type": "marketing"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/add",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/update",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/remove",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/email/updatestatus/all",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/view",
+			"method": "GET",
+			"type": "marketing"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/add",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/update",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/remove",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/campaign/sms/updatestatus/all",
+			"method": "POST",
+			"type": "marketing"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/reports/orders",
+			"method": "POST",
+			"type": "reports"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/reports/users",
+			"method": "POST",
+			"type": "reports"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/reports/drivers",
+			"method": "POST",
+			"type": "reports"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/reports/dashboard",
+			"method": "GET",
+			"type": "dashboard"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/birdeyeview",
+			"method": "POST",
+			"type": "birdEyeView"
+		},
+		{
+			"action": "ASSIGN",
+			"apiUrl": "/authenticationservice/api/v1/store/birdeyeview/assign",
+			"method": "POST",
+			"type": "birdEyeView"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/transaction",
+			"method": "POST",
+			"type": "accounting"
+		},
+		{
+			"action": "PAY",
+			"apiUrl": "/authenticationservice/api/v1/store/pay",
+			"method": "POST",
+			"type": "accounting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/doctemplates",
+			"method": "POST",
+			"type": "docTemplate"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/doctemplate/view",
+			"method": "GET",
+			"type": "docTemplate"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/adddoctemplate",
+			"method": "POST",
+			"type": "docTemplate"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/removedoctemplate",
+			"method": "POST",
+			"type": "docTemplate"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/doctemplate/addfield",
+			"method": "POST",
+			"type": "docTemplate"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/doctemplate/editfield",
+			"method": "GET",
+			"type": "docTemplate"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/doctemplate/updatefield",
+			"method": "POST",
+			"type": "docTemplate"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updatedoctemplate",
+			"method": "POST",
+			"type": "docTemplate"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/doctemplate/archivefield",
+			"method": "POST",
+			"type": "docTemplate"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/doctemplate/updatestatus/all",
+			"method": "POST",
+			"type": "docTemplate"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/getstoresetting",
+			"method": "GET",
+			"type": "globalSetting"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/setting/storesetting",
+			"method": "POST",
+			"type": "globalSetting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/vendors",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/addvendor",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updatevendor",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/vendor/view",
+			"method": "GET",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/archivevendor",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/vendors/updatestatus/all",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/orders",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "orders"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/order",
+			"method": "GET",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "orders"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/orders",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "orders"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/order",
+			"method": "GET",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "orders"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/product/add",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/product/update",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product/view",
+			"method": "GET",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/archive",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/updatestatus/all",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/product/add",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/product/update",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/archive",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/product/add",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "product"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/product/update",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "product"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/archive",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "product"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/updatestatus/all",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "product"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/category/add",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/category/update",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category/view",
+			"method": "GET",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/archive",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/updatestatus/all",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/category/add",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/category/update",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/archive",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/category/add",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "category"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/category/update",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "category"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category/view",
+			"method": "GET",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "category"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/archive",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "category"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/updatestatus/all",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "category"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/add",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/update",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon/view",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/archive",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/updatestatus/all",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/add",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/update",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/archive",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "addon"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon",
+			"method": "POST",
+			"storeType": "AIRBNB",
+			"type": "storetypes",
+			"typeChild": "hotel"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/add",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/add",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "addon"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/add",
+			"method": "POST",
+			"storeType": "AIRBNB",
+			"type": "storetypes",
+			"typeChild": "hotel"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/update",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/update",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "addon"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/update",
+			"method": "POST",
+			"storeType": "AIRBNB",
+			"type": "storetypes",
+			"typeChild": "hotel"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon/view",
+			"method": "GET",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon/view",
+			"method": "GET",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "addon"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon/view",
+			"method": "GET",
+			"storeType": "AIRBNB",
+			"type": "storetypes",
+			"typeChild": "hotel"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/addon/archive",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/addon/archive",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "addon"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/addon/archive",
+			"method": "POST",
+			"storeType": "AIRBNB",
+			"type": "storetypes",
+			"typeChild": "hotel"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/addon/updatestatus/all",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "restaurants"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/addon/updatestatus/all",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "addon"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/addon/updatestatus/all",
+			"method": "POST",
+			"storeType": "AIRBNB",
+			"type": "storetypes",
+			"typeChild": "hotel"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/add",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/update",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/view",
+			"method": "GET",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/archive",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/updatestatus/all",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/food/storetype",
+			"method": "GET",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/setting/food/addsetting",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/add",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/update",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/archive",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/ecommerce/storetype",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/setting/food/addsetting",
+			"method": "POST",
+			"storeType": "FOOD",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/setting/ecommerce/addsetting",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/serviceprovider/storetype",
+			"method": "GET",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/setting/serviceprovider/addsetting",
+			"method": "POST",
+			"storeType": "SERVICEPROVIDER",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/taxi/storetype",
+			"method": "GET",
+			"storeType": "TAXI",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/pickupdrop/storetype",
+			"method": "GET",
+			"storeType": "PICKUPDROP",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/setting/taxi/addsetting",
+			"method": "POST",
+			"storeType": "TAXI",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/product/add",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/product/update",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product/view",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/archive",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/updatestatus/all",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/category/add",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/category/update",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category/view",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/archive",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/updatestatus/all",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/add",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/update",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/view",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/archive",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/updatestatus/all",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/carrental/storetype",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/add",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "hotel"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/addon/view",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/addon/update",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/addon/archive",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/addon/updatestatus/all",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		}
+	],
+	"ACCESS_TYPE_DEFAULT_STORE": [
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/vendors",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/addvendor",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updatevendor",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/vendor/view",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/archivevendor",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/vendors/updatestatus/all",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/orders",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "orders"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/order",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "orders"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/product/add",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/product/update",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product/view",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/archive",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/updatestatus/all",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/category/add",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/category/update",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category/view",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/archive",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/updatestatus/all",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/attribute",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/attribute/add",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/attribute/update",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/attribute/view",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/attribute/archive",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/attribute/updatestatus/all",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/drivers",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/adddriver",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updatedriver",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/driver/view",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/archivedriver",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/drivers/updatestatus/all",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/add",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/update",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/view",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/archive",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/updatestatus/all",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/:storeTypeName/storetype",
+			"method": "GET",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/setting/:storeTypeName/addsetting",
+			"method": "POST",
+			"storeType": "GROCERY",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/vendors",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/addvendor",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updatevendor",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/vendor/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/archivevendor",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/vendors/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/orders",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "orders"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/order",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "orders"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/product/add",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/product/update",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/archive",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/category/add",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/category/update",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/archive",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/attribute",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/attribute/add",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/attribute/update",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/attribute/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/attribute/archive",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/attribute/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "vendors"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/drivers",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/store/adddriver",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/store/updatedriver",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/driver/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/archivedriver",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/store/drivers/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "drivers"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/add",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/update",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/view",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/archive",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/updatestatus/all",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "brands"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/:storeTypeName/storetype",
+			"method": "GET",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/setting/:storeTypeName/addsetting",
+			"method": "POST",
+			"storeType": "ECOMMERCE",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/orders",
+			"method": "POST",
+			"storeType": "TAXI",
+			"type": "storetypes",
+			"typeChild": "trips"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/store/orders",
+			"method": "POST",
+			"storeType": "PICKUPDROP",
+			"type": "storetypes",
+			"typeChild": "trips"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/product/add",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/product/update",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/product/view",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/archive",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/product/updatestatus/all",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/category/add",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/category/update",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/category/view",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/archive",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/category/updatestatus/all",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "carrental"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "CREATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/add",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "UPDATE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/update",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/view",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/archive",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "DELETE",
+			"apiUrl": "/authenticationservice/api/v1/cuisine/updatestatus/all",
+			"method": "POST",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "cuisines"
+		},
+		{
+			"action": "VIEW",
+			"apiUrl": "/authenticationservice/api/v1/setting/carrental/storetype",
+			"method": "GET",
+			"storeType": "CARRENTAL",
+			"type": "storetypes",
+			"typeChild": "storeTypeSetting"
+		}
+	],
+	"AIRBNB_ICONS": [
+		{
+			"type": "beds",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1657000703221icons8-bed-100.png"
+		},
+		{
+			"type": "rooms",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1657000060991doors.png"
+		},
+		{
+			"type": "guests",
+			"link": "https://hlcstagings3.s3.us-east-2.amazonaws.com/1656999959000people%20%281%29.png"
+		}
+	],
+	"SORT_TYPE":[
+        {
+            "key": "time",
+            "label": "Time"
+        },
+        {
+            "key": "rating",
+            "label": "Rating"
+        },
+        {
+            "key": "lprice",
+            "label": "Low to High Cost"
+        },
+        {
+            "key": "hprice",
+            "label": "High to Low Cost"
+        }
+    ],
+	"DELIVERY_TYPE":[
+        {
+            "key": "DELIVERY",
+            "label": "Home Delivery"
+        },
+        {
+            "key": "TAKEAWAY",
+            "label": "Take Away"
+        }
+     
+    ],
+	"appStoreImageUrl": "https://mnc.s3.us-east-2.amazonaws.com/1614850662900appstore.png",
+	"googlePlayImageUrl": "https://mnc.s3.us-east-2.amazonaws.com/1614850594590googleplay.png"
+}

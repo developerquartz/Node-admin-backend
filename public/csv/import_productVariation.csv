@@ -1,0 +1,9 @@
+product_id,sku,price,stock_quantity,manage_stock,stock_status,attribute:size,attribute:colour
+60f8fe013a7dc326177c6eb6,est1,20,10,TRUE,instock,S,Red
+60f8fe013a7dc326177c6eb6,est2,20,10,TRUE,instock,S,Green
+60f8fe013a7dc326177c6eb6,est3,20,10,TRUE,instock,L,Red
+60f8fe013a7dc326177c6eb6,est4,20,10,TRUE,instock,L,Green
+60f8fe013a7dc326177c6eb6,est5,20,10,TRUE,instock,M,Red
+60f8fe013a7dc326177c6eb6,est6,20,10,TRUE,instock,M,Green
+60f8fe013a7dc326177c6eb5,est7,20,10,TRUE,instock,S,Black
+60f8fe013a7dc326177c6eb5,est8,20,10,TRUE,instock,L,Black

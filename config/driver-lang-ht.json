@@ -1,0 +1,1536 @@
+{
+    "langJSON_arr": [
+        {
+            "constant": "vehicleInformationText",
+            "value": "Enfòmasyon sou machin",
+            "label": "Vehicle information"
+        },
+        {
+            "constant": "basicPriceText",
+            "value": "Pri debaz",
+            "label": "Basic Price"
+        },
+        {
+            "constant": "PricePerUnitDistanceText",
+            "value": "Pri pou chak Distans Inite",
+            "label": "Price Per Unit Distance"
+        },
+        {
+            "constant": "PricePerUnitMinutesText",
+            "value": "Pri pou chak inite minit",
+            "label": "Price Per Unit Minutes"
+        },
+        {
+            "constant": "rideDetails",
+            "value": "Detay woulib",
+            "label": "Ride Details"
+        },
+        {
+            "constant": "delete",
+            "value": "Efase",
+            "label": "Delete"
+        },
+        {
+            "constant": "confirmDeteleAlert",
+            "value": "Èske ou sèten vle efase kont ou a",
+            "label": "Are you sure want to Delete Your Account"
+        },
+        {
+            "constant": "deleteAccountText",
+            "value": "Efase kont",
+            "label": "Account Delete"
+        },
+        {
+            "constant": "totalFare",
+            "value": "Tarif total",
+            "label": "Total Fare"
+        },
+        {
+            "constant": "yourEarning",
+            "value": "Salè ou",
+            "label": "Your Earning"
+        },
+        {
+            "constant": "addCardLabel",
+            "value": "+AAjoute Kat",
+            "label": "Add Card"
+        },
+        {
+            "constant": "selectLanguage",
+            "value": "Chwazi Lang",
+            "label": "Select Language"
+        },
+        {
+            "constant": "Continue",
+            "value": "Kontinye",
+            "label": "Continue"
+        },
+        {
+            "constant": "changeLanguage",
+            "value": "Chanje Lang",
+            "label": "Change Language"
+        },
+        {
+            "constant": "noPaymentTemplates",
+            "value": "Tanpri mande admin pou kreye modèl yo",
+            "label": "Please Ask Admin To Create Templates"
+        },
+        {
+            "constant": "welcomeTo",
+            "value": "Byenveni nan",
+            "label": "Welcome to"
+        },
+        {
+            "constant": "totalFare",
+            "value": "Tarif total",
+            "label": "Total Fare"
+        },
+        {
+            "constant": "yourEarning",
+            "value": "Salè ou",
+            "label": "Your Earning"
+        },
+        {
+            "constant": "notAdd",
+            "value": "Pa te ajoute",
+            "label": "Not Added"
+        },
+        {
+            "constant": "driverDashboard",
+            "value": "Chofè Dach",
+            "label": "Driver Dashboard"
+        },
+        {
+            "constant": "loginToContinueText",
+            "value": "Tanpri!Login pou kontinye",
+            "label": "Please! login to continue"
+        },
+        {
+            "constant": "addPaymentText",
+            "value": "Ajoute detay peman yo",
+            "label": "Add Payment Details"
+        },
+        {
+            "constant": "updatePaymentText",
+            "value": "Mizajou detay peman yo",
+            "label": "Update Payment Details"
+        },
+        {
+            "constant": "thankYouText",
+            "value": "Mèsi",
+            "label": "Thank You"
+        },
+        {
+            "constant": "pleaseRateCustomer",
+            "value": "Tanpri evalye kliyan an",
+            "label": "Please Rate Customer"
+        },
+        {
+            "constant": "goToLoginText",
+            "value": "Ale nan login",
+            "label": "Go To Login"
+        },
+        {
+            "constant": "enterCodeVerificationText",
+            "value": "Antre kòd la 4-chif voye ba ou nan",
+            "label": "Enter the 4-digit code sent to you at"
+        },
+        {
+            "constant": "isForgotPassword",
+            "value": "Bliye modpas?",
+            "label": "Forgot Password ?"
+        },
+        {
+            "constant": "alreadyHaveAccount",
+            "value": "Deja genyen yon kont?",
+            "label": "Already have an account? "
+        },
+        {
+            "constant": "paymentAlreadyExist",
+            "value": "Peman detay deja egziste",
+            "label": "Payment details already exists"
+        },
+        {
+            "constant": "signUpText",
+            "value": "Enskri",
+            "label": "Sign Up"
+        },
+        {
+            "constant": "changePassword",
+            "value": "Chanje modpas",
+            "label": "Change Password"
+        },
+        {
+            "constant": "editProfile",
+            "value": "Edit pwofil",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "dontHaveAccountText",
+            "value": "Pa gen yon kont?",
+            "label": "Don't have an Account? "
+        },
+        {
+            "constant": "passwordSuccessToast",
+            "value": "Modpas reset avèk siksè !!",
+            "label": "Password reset successfully!!"
+        },
+        {
+            "constant": "paymentsDetailsHeader",
+            "value": "Detay peman",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "signInText",
+            "value": "Siyen an",
+            "label": "Sign In"
+        },
+        {
+            "constant": "oldPassword",
+            "value": "Old modpas",
+            "label": "Old Password"
+        },
+        {
+            "constant": "tapToRefresh",
+            "value": "Tape rafrechi",
+            "label": "Tap to Refresh"
+        },
+        {
+            "constant": "customerName",
+            "value": "Non Kliyan an",
+            "label": "Customer Name"
+        },
+        {
+            "constant": "arrived",
+            "value": "Rive",
+            "label": "Arrived"
+        },
+        {
+            "constant": "arrivedText",
+            "value": "Rive",
+            "label": "Arrived"
+        },
+        {
+            "constant": "completeText",
+            "value": "Konplèt",
+            "label": "Complete"
+        },
+        {
+            "constant": "complete",
+            "value": "Konplèt",
+            "label": "Complete"
+        },
+        {
+            "constant": "orderSummaryText",
+            "value": "Rezime lòd",
+            "label": "Order Summary"
+        },
+        {
+            "constant": "orderNoText",
+            "value": "Lòd pa gen okenn",
+            "label": "Order No"
+        },
+        {
+            "constant": "orderStatusText",
+            "value": "Estati lòd",
+            "label": "Order Status"
+        },
+        {
+            "constant": "paidText",
+            "value": "Peye",
+            "label": "Paid"
+        },
+        {
+            "constant": "describeExperienceText",
+            "value": "Dekri eksperyans ou",
+            "label": "Describe your experience"
+        },
+        {
+            "constant": "submit",
+            "value": "Soumèt",
+            "label": "Submit"
+        },
+        {
+            "constant": "locationText",
+            "value": "Anplasman",
+            "label": "Location"
+        },
+        {
+            "constant": "noDocumentsText",
+            "value": "Pa gen dokiman te ajoute",
+            "label": "No Documents Added"
+        },
+        {
+            "constant": "storeIdText",
+            "value": "Magazen ID",
+            "label": "Store Id"
+        },
+        {
+            "constant": "totalBalanceText",
+            "value": "Balans Total",
+            "label": "Total Balance"
+        },
+        {
+            "constant": "addMoneyText",
+            "value": "Ajoute lajan",
+            "label": "Add Money"
+        },
+        {
+            "constant": "nameEmptyValid",
+            "value": "Tanpri antre non !!",
+            "label": "Please enter name!!"
+        },
+        {
+            "constant": "emailEmptyValid",
+            "value": "Tanpri antre imèl !!",
+            "label": "Please enter email!!"
+        },
+        {
+            "constant": "emailValid",
+            "value": "Tanpri antre valab imèl !!",
+            "label": "Please enter valid email!!"
+        },
+        {
+            "constant": "passwordEmptyValid",
+            "value": "Tanpri antre modpas !!",
+            "label": "Please Enter password!!"
+        },
+        {
+            "constant": "confirmPasswordEmptyValid",
+            "value": "Tanpri antre modpas konfime !!",
+            "label": "Please Enter Confirm password!!"
+        },
+        {
+            "constant": "mobileNumberEmptyValid",
+            "value": "Antre nimewo mobil ou !!",
+            "label": "Enter your mobile number!!"
+        },
+        {
+            "constant": "addressEmptyValid",
+            "value": "Tanpri antre nan adrès !!",
+            "label": "Please enter address!!"
+        },
+        {
+            "constant": "paymentDetailsValid",
+            "value": "Tanpri ajoute detay peman yo",
+            "label": "Please add payment details"
+        },
+        {
+            "constant": "reviewCustomerValid",
+            "value": "Tanpri pataje revizyon kliyan an",
+            "label": "Please Share Customer's Review"
+        },
+        {
+            "constant": "passwordMismatchValid",
+            "value": "Nouvo ak konfime modpas pa matche ak",
+            "label": "New and Confirm Password doesn't match"
+        },
+        {
+            "constant": "currentPasswordEmptyValid",
+            "value": "Tanpri antre aktyèl modpas !!",
+            "label": "Please enter current password!!"
+        },
+        {
+            "constant": "newPasswordEmptyValid",
+            "value": "Tanpri antre nouvo modpas !!",
+            "label": "Please enter new password!!"
+        },
+        {
+            "constant": "confirmPasswordValid",
+            "value": "Antre Konfime Modpas",
+            "label": "Enter confirm password"
+        },
+        {
+            "constant": "oldAndNewPasswordSameValid",
+            "value": "Old modpas ak nouvo modpas pa ka menm !!",
+            "label": "Old password and new password cannot be same!!"
+        },
+        {
+            "constant": "storeIdEmptyValid",
+            "value": "Tanpri antre ID magazen an",
+            "label": "Please enter Store Id"
+        },
+        {
+            "constant": "homeDrawer",
+            "value": "Lakay",
+            "label": "Home"
+        },
+        {
+            "constant": "documentDrawer",
+            "value": "Dokiman yo",
+            "label": "Documents"
+        },
+        {
+            "constant": "earningDrawer",
+            "value": "Toufoute",
+            "label": "Earning"
+        },
+        {
+            "constant": "paymentDrawer",
+            "value": "Detay peman",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "profileDrawer",
+            "value": "Profil",
+            "label": "Profile"
+        },
+        {
+            "constant": "contactUsDrawer",
+            "value": "Kontakte nou",
+            "label": "Contact Us"
+        },
+        {
+            "constant": "logoutDrawer",
+            "value": "Dekonekte",
+            "label": "Logout"
+        },
+        {
+            "constant": "walletDrawer",
+            "value": "Pòtfèy",
+            "label": "Wallet"
+        },
+        {
+            "constant": "homeHeader",
+            "value": "Lakay",
+            "label": "Home"
+        },
+        {
+            "constant": "updateDocumentHeader",
+            "value": "Mizajou dokiman yo",
+            "label": "Update Documents"
+        },
+        {
+            "constant": "uploadDocumentHeader",
+            "value": "Voye dokiman yo",
+            "label": "Upload Documents"
+        },
+        {
+            "constant": "paymentHeader",
+            "value": "Detay peman",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "profileHeader",
+            "value": "Profil",
+            "label": "Profile"
+        },
+        {
+            "constant": "editProfileHeader",
+            "value": "Edit pwofil",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "contactUsHeader",
+            "value": "Kontakte nou",
+            "label": "Contact Us"
+        },
+        {
+            "constant": "logoutHeader",
+            "value": "Dekonekte",
+            "label": "Logout"
+        },
+        {
+            "constant": "changePasswordHeader",
+            "value": "Chanje modpas",
+            "label": "Change Password"
+        },
+        {
+            "constant": "forgotPasswordHeader",
+            "value": "Bliye modpas",
+            "label": "Forgot Password"
+        },
+        {
+            "constant": "orderDetailsHeader",
+            "value": "Detay lòd",
+            "label": "Order Details"
+        },
+        {
+            "constant": "updateDetailsHeader",
+            "value": "Mizajou detay",
+            "label": "Update Details"
+        },
+        {
+            "constant": "uploadDetailsHeader",
+            "value": "Voye detay",
+            "label": "Upload Details"
+        },
+        {
+            "constant": "walletHeader",
+            "value": "Pòtfèy",
+            "label": "Wallet"
+        },
+        {
+            "constant": "namePlaceholder",
+            "value": "Non",
+            "label": "Name"
+        },
+        {
+            "constant": "emailPlaceholder",
+            "value": "Imel",
+            "label": "Email"
+        },
+        {
+            "constant": "addressPlaceholder",
+            "value": "Adrese",
+            "label": "Address"
+        },
+        {
+            "constant": "passwordPlaceholder",
+            "value": "Modpas",
+            "label": "Password"
+        },
+        {
+            "constant": "accountNumberPlaceholder",
+            "value": "Nimewo KONT*",
+            "label": "Account Number*"
+        },
+        {
+            "constant": "routingNumberPlaceholder",
+            "value": "Nimewo routage *",
+            "label": "Routing Number*"
+        },
+        {
+            "constant": "accountHolderNamePlaceholder",
+            "value": "Non detantè Kont *",
+            "label": "Account Holder Name*"
+        },
+        {
+            "constant": "bankNamePlaceholder",
+            "value": "Non Bank *",
+            "label": "Bank Name*"
+        },
+        {
+            "constant": "newPasswordPlaceholder",
+            "value": "Nouvo modpas",
+            "label": "New Password"
+        },
+        {
+            "constant": "confirmPasswordPlaceholder",
+            "value": "Konfime modpas",
+            "label": "Confirm Password"
+        },
+        {
+            "constant": "mobilePlaceholderText",
+            "value": "Nimewo mobil",
+            "label": "Mobile number"
+        },
+        {
+            "constant": "addressSearchPlaceholder",
+            "value": "Search ..",
+            "label": "Search.."
+        },
+        {
+            "constant": "paymentAddSuccessToast",
+            "value": "Detay peman te ajoute avèk siksè",
+            "label": "Payment detail has been added successfully"
+        },
+        {
+            "constant": "paymentUpdateSuccessToast",
+            "value": "Detay peman te mete ajou avèk siksè",
+            "label": "Payment detail has been updated successfully"
+        },
+        {
+            "constant": "passwordResetSuccessToast",
+            "value": "Modpas te reset avèk siksè",
+            "label": "Password has been reset successfully"
+        },
+        {
+            "constant": "connectStripeHeader",
+            "value": "Konekte foule",
+            "label": "Connect Stripe"
+        },
+        {
+            "constant": "connectStripeText",
+            "value": "Konekte foule",
+            "label": "Connect Stripe"
+        },
+        {
+            "constant": "connectedStripeText",
+            "value": "Rapò",
+            "label": "Connected"
+        },
+        {
+            "constant": "stripeLinkedText",
+            "value": "Reye konekte lye",
+            "label": "Stripe Connect Linked"
+        },
+        {
+            "constant": "stripeNotLinkedText",
+            "value": "Reye konekte pa lye",
+            "label": "Stripe Connect Not Linked"
+        },
+        {
+            "constant": "loginHeader",
+            "value": "Ouvri sesyon an",
+            "label": "Login"
+        },
+        {
+            "constant": "loginToContinueText",
+            "value": "Login pou kontinye",
+            "label": "Login To Continue"
+        },
+        {
+            "constant": "pleaseEnterEmail",
+            "value": "Tanpri antre imèl ou",
+            "label": "Please enter your email"
+        },
+        {
+            "constant": "verifyCodeHeader",
+            "value": "Verifye kòd la",
+            "label": "Verify Code"
+        },
+        {
+            "constant": "resendCode",
+            "value": "Resend Kòd",
+            "label": "Resend code"
+        },
+        {
+            "constant": "resetPasswordHeader",
+            "value": "Reyajiste modpas",
+            "label": "Reset Password"
+        },
+        {
+            "constant": "pleaseEnterNewPassword",
+            "value": "'Tanpri antre nouvo modpas ou",
+            "label": "'Please enter your new password"
+        },
+        {
+            "constant": "passwordMustContain",
+            "value": "Modpas ou dwe gen ladan:",
+            "label": "Your Password must contain: "
+        },
+        {
+            "constant": "atLeastSixChars",
+            "value": "Omwen 6 karaktè",
+            "label": "At least 6 characters"
+        },
+        {
+            "constant": "containNumber",
+            "value": "Gen yon nimewo",
+            "label": "Contains a number"
+        },
+        {
+            "constant": "validOtp",
+            "value": "Tanpri antre OTP",
+            "label": "Please Enter OTP"
+        },
+        {
+            "constant": "addVehicle",
+            "value": "Tanpri ajoute machin ou.",
+            "label": "Please add your vehicle."
+        },
+        {
+            "constant": "backgroundPermission",
+            "value": "Vle jwenn aksè nan kote background ou pou amelyore mikro, gout-konpwomi, an tan reyèl swiv ak sèvis kliyan lè chofè se sou mòd swiv pandan y ap livrezon.",
+            "label": "wants to access your background location for improve pickups, drop-offs, real-time tracking and customer service when driver is on tracking mode while delivery."
+        },
+        {
+            "constant": "allow",
+            "value": "Pèmèt",
+            "label": "Allow"
+        },
+        {
+            "constant": "dontAllow",
+            "value": "Pa pèmèt",
+            "label": "Don't Allow"
+        },
+        {
+            "constant": "locationTitle",
+            "value": "Pèmisyon Kote",
+            "label": "Location Permission"
+        },
+        {
+            "constant": "locationMessage",
+            "value": "Pèmèt aksè nan kote aktyèl yo ka resevwa demann ki tou pre!",
+            "label": "Allow to access current location to get nearby requestes!"
+        },
+        {
+            "constant": "searchAddress",
+            "value": "Adrès rechèch ...",
+            "label": "Search Address ..."
+        },
+        {
+            "constant": "yes",
+            "value": "Wi",
+            "label": "Yes"
+        },
+        {
+            "constant": "No",
+            "value": "Okenn",
+            "label": "NO"
+        },
+        {
+            "constant": "cancel",
+            "value": "Anile",
+            "label": "Cancel"
+        },
+        {
+            "constant": "pickUp",
+            "value": "Ranmase",
+            "label": "Pick Up"
+        },
+        {
+            "constant": "start",
+            "value": "Kòmanse",
+            "label": "Start"
+        },
+        {
+            "constant": "summary",
+            "value": "Rezime",
+            "label": "Summary"
+        },
+        {
+            "constant": "scheduledBooking",
+            "value": "Pwograme anrjistreman",
+            "label": "Scheduled Booking"
+        },
+        {
+            "constant": "pickLocation",
+            "value": "Pickup kote",
+            "label": "Pickup Location"
+        },
+        {
+            "constant": "accept",
+            "value": "Aksepte",
+            "label": "Accept"
+        },
+        {
+            "constant": "decline",
+            "value": " Refize",
+            "label": "Decline"
+        },
+        {
+            "constant": "onlineReceive",
+            "value": "Ale sou entènèt pou resevwa",
+            "label": "Go Online To Receive"
+        },
+        {
+            "constant": "vehicleDetails",
+            "value": "Detay machin yo",
+            "label": "Vehicle Details"
+        },
+        {
+            "constant": "goOffline",
+            "value": "Ale offline",
+            "label": "Go Offline"
+        },
+        {
+            "constant": "goOnline",
+            "value": "Ale sou entènèt",
+            "label": "Go Online"
+        },
+        {
+            "constant": "cancelled",
+            "value": "Anile",
+            "label": "Cancelled"
+        },
+        {
+            "constant": "completed",
+            "value": "Konplete",
+            "label": "Completed"
+        },
+        {
+            "constant": "Done",
+            "value": "Fèt",
+            "label": "DONE"
+        },
+        {
+            "constant": "selectVehicle",
+            "value": "Tanpri chwazi machin !!!",
+            "label": "Please Select Vehicle!!!"
+        },
+        {
+            "constant": "addVehicleDocuments",
+            "value": "Merci de remplir tous les champs",
+            "label": "Please fill in all fields"
+        },
+        {
+            "constant": "cardDetailsWrong",
+            "value": "Yon bagay ale mal",
+            "label": "Something Went Wrong"
+        },
+        {
+            "constant": "cardDetailsRequired",
+            "value": "Tanpri antre detay kat obligatwa !!",
+            "label": "Please enter required card detail!!"
+        },
+        {
+            "constant": "addMoneyMessage",
+            "value": "Tanpri antre lajan an premye",
+            "label": "Please Enter Money First"
+        },
+        {
+            "constant": "mobileCharacters",
+            "value": "Nimewo mobil yo ta dwe 7 a 15 chif",
+            "label": "Mobile Number should be 7 to 15 digits"
+        },
+        {
+            "constant": "otpNotMatched",
+            "value": "OTP pa t 'matche !!!",
+            "label": "OTP did not matched!!!"
+        },
+        {
+            "constant": "enterOtp",
+            "value": "Tanpri antre OTP !!!",
+            "label": "Please Enter OTP!!!"
+        },
+        {
+            "constant": "removeVehicleMessage",
+            "value": "Èske ou sèten, ou vle retire machin sa a",
+            "label": "Are you sure, you want to remove this vehicle"
+        },
+        {
+            "constant": "deleteCard",
+            "value": "Èske ou sèten ou vle efase kat sa a !!!",
+            "label": "Are you sure you want to delete this card!!!"
+        },
+        {
+            "constant": "stripeUnlinkAlert",
+            "value": "Èske ou sèten ou vle unkink kont sa a !!!",
+            "label": "Are you sure you want to unlink this account!!!"
+        },
+        {
+            "constant": "logoutMessage",
+            "value": "Èske ou sèten ou vle Logout!",
+            "label": "Are you sure you want to logout!"
+        },
+        {
+            "constant": "exitAlertMessage",
+            "value": "Èske ou sèten ou vle sòti !!!",
+            "label": "Are you sure you want to Exit!!!"
+        },
+        {
+            "constant": "alertOk",
+            "value": "Ok",
+            "label": "Ok"
+        },
+        {
+            "constant": "alertCance",
+            "value": "Anile",
+            "label": "Cancel"
+        },
+        {
+            "constant": "alertExitButton",
+            "value": "Sòti",
+            "label": "EXIT"
+        },
+        {
+            "constant": "alertCancelButton",
+            "value": "Anile",
+            "label": "CANCEL"
+        },
+        {
+            "constant": "removeVehicleWarning",
+            "value": "Retire machin lan",
+            "label": "Remove Vehicle"
+        },
+        {
+            "constant": "deleteCardWarning",
+            "value": "Efase kat",
+            "label": "Delete Card"
+        },
+        {
+            "constant": "unlinkWarning",
+            "value": "Unkink Paypal",
+            "label": "Unlink Paypal"
+        },
+        {
+            "constant": "logoutWarning",
+            "value": "Dekonekte",
+            "label": "Logout"
+        },
+        {
+            "constant": "exit",
+            "value": "Sòti",
+            "label": "Exit"
+        },
+        {
+            "constant": "commision",
+            "value": "Komisyon",
+            "label": "Commision"
+        },
+        {
+            "constant": "perMiles",
+            "value": "Pou chak kilomèt",
+            "label": "Per Miles"
+        },
+        {
+            "constant": "perMinute",
+            "value": "Pou chak minit",
+            "label": "Per Minute"
+        },
+        {
+            "constant": "basePrice",
+            "value": "Pri baz",
+            "label": "Base Price"
+        },
+        {
+            "constant": "bookingAvailable",
+            "value": "Pa gen anrjistreman ki disponib",
+            "label": "No Booking Available"
+        },
+        {
+            "constant": "Track",
+            "value": "Chemen",
+            "label": "Track"
+        },
+        {
+            "constant": "detail",
+            "value": "Detay",
+            "label": "Detail"
+        },
+        {
+            "constant": "cancelBooking",
+            "value": "Èske ou sèten ou vle anile sa a anrjistreman !!!",
+            "label": "Are you sure you want to Cancel this booking!!!"
+        },
+        {
+            "constant": "yourOrder",
+            "value": "Mèsi pou lòd ou!",
+            "label": "Thanks for your order!"
+        },
+        {
+            "constant": "thanksDrop",
+            "value": "Mèsi pou gout la!",
+            "label": "Thank you for the drop!"
+        },
+        {
+            "constant": "rateCustomer",
+            "value": "To kliyan",
+            "label": "Rate Customer"
+        },
+        {
+            "constant": "deliveryLocation",
+            "value": "Location Location",
+            "label": "Delivery Location"
+        },
+        {
+            "constant": "DropOfflocation",
+            "value": "Dropoff Kote",
+            "label": "DropOff Location"
+        },
+        {
+            "constant": "enterOtpVerf",
+            "value": "Antre OTP",
+            "label": "Enter OTP"
+        },
+        {
+            "constant": "searchPlaces",
+            "value": "Search Andwa",
+            "label": "Search Places"
+        },
+        {
+            "constant": "paymentHeader",
+            "value": "Detay peman",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "walletHeader",
+            "value": "Pòtfèy",
+            "label": "Wallet"
+        },
+        {
+            "constant": "documentDrawer",
+            "value": "Dokiman yo",
+            "label": "Documents"
+        },
+        {
+            "constant": "vehicleHeader",
+            "value": "Vwati",
+            "label": "Vehicle"
+        },
+        {
+            "constant": "bookingHeader",
+            "value": "Detay anrjistreman",
+            "label": "Booking Details"
+        },
+        {
+            "constant": "dashboardDriver",
+            "value": "Chofè",
+            "label": "Driver"
+        },
+        {
+            "constant": "vehicleTypeHeader",
+            "value": "Kalite machin",
+            "label": "Vehicle Types"
+        },
+        {
+            "constant": "noVehicleAddedText",
+            "value": "Pa gen machin",
+            "label": "No Vehicle"
+        },
+        {
+            "constant": "privacyPolicy",
+            "value": "Règleman sou enfòmasyon prive",
+            "label": "Privacy Policy,"
+        },
+        {
+            "constant": "refundPolicy",
+            "value": "Règleman Ranbousman",
+            "label": "Refund Policy"
+        },
+        {
+            "constant": "viewProfile",
+            "value": "Gade pwofil",
+            "label": "View Profile"
+        },
+        {
+            "constant": "addAmountString",
+            "value": "Kantite lajan pou ajoute",
+            "label": "Amount to Add"
+        },
+        {
+            "constant": "choosePayment",
+            "value": "Chwazi Peman",
+            "label": "Choose Payment"
+        },
+        {
+            "constant": "stripeLink",
+            "value": "May",
+            "label": "Link"
+        },
+        {
+            "constant": "stripeUnlink",
+            "value": "Ravaj",
+            "label": "Unlink"
+        },
+        {
+            "constant": "addCard",
+            "value": "Ajoute kat",
+            "label": "Add Card"
+        },
+        {
+            "constant": "upcoming",
+            "value": "Kap vini",
+            "label": "Upcoming"
+        },
+        {
+            "constant": "past",
+            "value": "Pase",
+            "label": "Past"
+        },
+        {
+            "constant": "bookingVehicleType",
+            "value": "Kalite machin",
+            "label": "Vehicle Type"
+        },
+        {
+            "constant": "dateRide",
+            "value": "Dat woulib la",
+            "label": "Date Of Ride"
+        },
+        {
+            "constant": "rideId",
+            "value": "ID woulib",
+            "label": "Ride Id"
+        },
+        {
+            "constant": "rideStatus",
+            "value": "Kondisyon",
+            "label": "Status"
+        },
+        {
+            "constant": "fare",
+            "value": "Tarif",
+            "label": "Fare"
+        },
+        {
+            "constant": "distance",
+            "value": "Distans",
+            "label": "Distance"
+        },
+        {
+            "constant": "duration",
+            "value": "Dire",
+            "label": "Duration"
+        },
+        {
+            "constant": "kilometer",
+            "value": "Km",
+            "label": "Km"
+        },
+        {
+            "constant": "minutes",
+            "value": "Mn",
+            "label": "Minutes"
+        },
+        {
+            "constant": "date",
+            "value": "Dat",
+            "label": "Date"
+        },
+        {
+            "constant": "total",
+            "value": "Total",
+            "label": "Total"
+        },
+        {
+            "constant": "alertCancel",
+            "value": "Anile",
+            "label": "Cancel"
+        },
+        {
+            "constant": "alert",
+            "value": "Alète",
+            "label": "Alert"
+        },
+        {
+            "constant": "bad",
+            "value": "Move",
+            "label": "Bad"
+        },
+        {
+            "constant": "oK",
+            "value": "Ok",
+            "label": "OK"
+        },
+        {
+            "constant": "good",
+            "value": "Bon",
+            "label": "Good"
+        },
+        {
+            "constant": "veryGood",
+            "value": "Trè byen",
+            "label": "Very Good"
+        },
+        {
+            "constant": "amazing",
+            "value": "Etonan",
+            "label": "Amazing"
+        },
+        {
+            "constant": "feedback",
+            "value": "Remakab",
+            "label": "Feedback"
+        },
+        {
+            "constant": "takePhotoText",
+            "value": "Pran foto",
+            "label": "Take Photo"
+        },
+        {
+            "constant": "chooseLibraryText",
+            "value": "Chwazi Bibliyotèk",
+            "label": "Choose Library"
+        },
+        {
+            "constant": "cancelLabel",
+            "value": "Anile",
+            "label": "Cancel"
+        },
+        {
+            "constant": "selectPhotosText",
+            "value": "Chwazi foto",
+            "label": "Select Photos"
+        },
+        {
+            "constant": "delivery",
+            "value": "Livrezon",
+            "label": "Delivery"
+        },
+        {
+            "constant": "pickupFrom",
+            "value": "Pickup soti nan",
+            "label": "Pickup From"
+        },
+        {
+            "constant": "deliverTo",
+            "value": "Delivre nan",
+            "label": "Deliver To"
+        },
+        {
+            "constant": "orderDetails",
+            "value": "Detay lòd",
+            "label": "Order Details"
+        },
+        {
+            "constant": "orderNo",
+            "value": "Lòd No",
+            "label": "Order No."
+        },
+        {
+            "constant": "itemDetails",
+            "value": "Detay atik",
+            "label": "Item Details"
+        },
+        {
+            "constant": "items",
+            "value": "Atik",
+            "label": "Items"
+        },
+        {
+            "constant": "submitText",
+            "value": "Soumèt",
+            "label": "Submit"
+        },
+        {
+            "constant": "orderInstructions",
+            "value": "Enstriksyon yo",
+            "label": "Instructions"
+        },
+        {
+            "constant": "walletLimitMessage",
+            "value": "Tanpri ajoute kantite lajan nan bous ou a pou kòmanse aksepte demann.",
+            "label": "Please add amount to your wallet to start accepting requests."
+        },
+        {
+            "constant": "serviceCategories",
+            "value": "Chwazi Kategori Sèvis",
+            "label": "Select Service Categories"
+        },
+        {
+            "constant": "service",
+            "value": "Lanmès",
+            "label": "Service"
+        },
+        {
+            "constant": "save",
+            "value": "Sove",
+            "label": "Save"
+        },
+        {
+            "constant": "searchCategories",
+            "value": "Kategori rechèch",
+            "label": "Search Categories"
+        },
+        {
+            "constant": "optonalAddOn",
+            "value": "Si ou vle ajoute-ons ki disponib!",
+            "label": "Optional Add-ons Available!"
+        },
+        {
+            "constant": "addOns",
+            "value": "Ajoute ons",
+            "label": "Add ons"
+        },
+        {
+            "constant": "manageServices",
+            "value": "Jere Sèvis",
+            "label": "Manage Services"
+        },
+        {
+            "constant": "anotherCategories",
+            "value": "Tanpri ajoute yon lòt kategori kategori sa a deja ajoute",
+            "label": "Please add another category this category already added"
+        },
+        {
+            "constant": "serviceAddress",
+            "value": "Adrès Sèvis",
+            "label": "Service Address"
+        },
+        {
+            "constant": "serviceDetails",
+            "value": "Detay sèvis yo",
+            "label": "Service Details"
+        },
+        {
+            "constant": "scheduled",
+            "value": "Pwogrami",
+            "label": "Scheduled"
+        },
+        {
+            "constant": "dateTime",
+            "value": "Dat / Lè",
+            "label": "Date / Time"
+        },
+        {
+            "constant": "subtotal",
+            "value": "Sibtotik",
+            "label": "Subtotal"
+        },
+        {
+            "constant": "discount",
+            "value": "Rabè",
+            "label": "Discount"
+        },
+        {
+            "constant": "totalPay",
+            "value": "Total Peye",
+            "label": "Total Pay"
+        },
+        {
+            "constant": "inRoute",
+            "value": "In-Route",
+            "label": "In-Route"
+        },
+        {
+            "constant": "confirmed",
+            "value": "konfime",
+            "label": "Confirmed"
+        },
+        {
+            "constant": "location",
+            "value": "Anplasman",
+            "label": "Location"
+        },
+        {
+            "constant": "selectCategories",
+            "value": "Tanpri chwazi kategori",
+            "label": "Please select categories"
+        },
+        {
+            "constant": "noresult",
+            "value": "Pa gen rezilta jwenn",
+            "label": "No result found"
+        },
+        {
+            "constant": "paymentMethod",
+            "value": "Metòd peman",
+            "label": "Payment Method"
+        },
+        {
+            "constant": "yourBooking",
+            "value": "Mèsi pou anrjistreman ou!",
+            "label": "Thanks for your booking!"
+        },
+        {
+            "constant": "itemTotal",
+            "value": "Total atik",
+            "label": "Item Total"
+        },
+        {
+            "constant": "taxandFees",
+            "value": "Taks ak Frè",
+            "label": "Tax and Fees"
+        },
+        {
+            "constant": "deliveryCharge",
+            "value": "Livrezon chaj",
+            "label": "Delivery Charge"
+        },
+        {
+            "constant": "DateAndTime",
+            "value": "Dat & Tan",
+            "label": "Date & Time"
+        },
+        {
+            "constant": "payment",
+            "value": "Peman",
+            "label": "Payment"
+        },
+        {
+            "constant": "deliveredTo",
+            "value": "Delivre nan",
+            "label": "Delivered To"
+        },
+        {
+            "constant": "selectAddOn",
+            "value": "Addons chwazi",
+            "label": "Selected Addons"
+        }
+    ],
+    "Insert_JSON_arr": [
+        {
+            "constant": "completeSharableLink",
+            "value": "Get everything you need with HLC Follow this link: {{link}} and use My code {{code}}.",
+            "label": "Referral Link"
+        },
+        {
+            "constant": "fundWalletText",
+            "value": "Fon bous",
+            "label": "Fund Wallet"
+        },
+        {
+            "constant": "duringSignupText",
+            "value": "Pandan ke enskripsyon",
+            "label": "while signup"
+        },
+        {
+            "constant": "useCodeText",
+            "value": "epi sèvi ak kòd sa a",
+            "label": "And use this code"
+        },
+        {
+            "constant": "areYouSureYouWantToPay",
+            "value": "Èske ou sèten ou vle peye ak kat chwazi?",
+            "label": "Are you sure you want to Pay with selected Card?"
+        },
+        {
+            "constant": "paymentText",
+            "value": "Peman",
+            "label": "Payment"
+        },
+        {
+            "constant": "tapOnLinkText",
+            "value": "Tape sou lyen sa yo pou pataje",
+            "label": "Tap on following link to Share"
+        },
+        {
+            "constant": "helpSupportHeader",
+            "value": "Ede & Sipò",
+            "label": "Help & Support"
+        },
+        {
+            "constant": "helpSupportDrawer",
+            "value": "Ede & Sipò",
+            "label": "Help & Support Drawer"
+        },
+        {
+            "constant": "inviteFriendsHeader",
+            "value": "Envite zanmi",
+            "label": "Invite Friends"
+        },
+        {
+            "constant": "creditHistory",
+            "value": "Istwa kredi",
+            "label": "Credit History"
+        },
+        {
+            "constant": "transactionHeader",
+            "value": "Istwa tranzaksyon",
+            "label": "Transaction History"
+        },
+        {
+            "constant": "noTransactionHistory",
+            "value": "Pa gen istwa tranzaksyon",
+            "label": "No Transaction History"
+        },
+        {
+            "constant": "seeAll",
+            "value": "Wè tout",
+            "label": "See All"
+        },
+        {
+            "constant": "notAvailableText",
+            "value": "Pa disponib",
+            "label": "Not Available"
+        },
+        {
+            "constant": "amount",
+            "value": "Montan",
+            "label": "Amount"
+        },
+        {
+            "constant": "descriptionText",
+            "value": "Deskripsyon",
+            "label": "Description"
+        },
+        {
+            "constant": "inviteYourFriendsText",
+            "value": "Envite zanmi ou yo",
+            "label": "INVITE YOUR FRIENDS"
+        },
+        {
+            "constant": "inviteFriendsText",
+            "value": "Envite zanmi",
+            "label": "Invite Friends"
+        },
+        {
+            "constant": "referPlaceholder",
+            "value": "Istwa kredi",
+            "label": "Refer Code"
+        },
+        {
+            "constant": "FAQ",
+            "value": "Istwa tranzaksyon",
+            "label": "FAQ"
+        },
+        {
+            "constant": "FAQHeader",
+            "value": "Istwa tranzaksyon",
+            "label": "FAQ Header"
+        },
+        {
+            "constant": "addPaymentText",
+            "value": "Pa gen istwa tranzaksyon",
+            "label": "Add Payment Details"
+        },
+        {
+            "constant": "updatePaymentText",
+            "value": "Wè tout",
+            "label": "Update Payment Details"
+        },
+        {
+            "constant": "registrationSuccessText",
+            "value": "Pa disponib",
+            "label": "Your Registration is Successfull."
+        },
+        {
+            "constant": "waitingAdminApprovalText",
+            "value": "Montan",
+            "label": "Waiting Admin's Approval."
+        },
+        {
+            "constant": "thanksDrop",
+            "value": "Deskripsyon",
+            "label": "Thank you for the drop!"
+        },
+        {
+            "constant": "earningHeader",
+            "value": "Envite zanmi ou yo",
+            "label": "Earning"
+        },
+        {
+            "constant": "bookings",
+            "value": "Refere kòd",
+            "label": "Bookings"
+        },
+        {
+            "constant": "tripRequest",
+            "value": "FAQ",
+            "label": "Trip Request"
+        },
+        {
+            "constant": "thankContactUsText",
+            "value": "Ajoute detay peman yo",
+            "label": "Thanks for choosing Meal here."
+        },
+        {
+            "constant": "querryContactUsText",
+            "value": "Mizajou detay peman",
+            "label": "For any query, please contact us on the below details"
+        },
+        {
+            "constant": "orderPreparedText",
+            "value": "Enskripsyon ou se siksè.",
+            "label": "Order being Prepared"
+        },
+        {
+            "constant": "prepareOrderText",
+            "value": "Ap tann apwobasyon admin la.",
+            "label": "We are preparing your order"
+        },
+        {
+            "constant": "readyToPickupText",
+            "value": "Mèsi pou gout la!",
+            "label": "Ready to Pickup"
+        },
+        {
+            "constant": "orderReadyToPickupText",
+            "value": "Touche",
+            "label": "Your Order is ready to pickup"
+        },
+        {
+            "constant": "pickupText",
+            "value": "Biro",
+            "label": "Pickup"
+        },
+        {
+            "constant": "delieveryLocationText",
+            "value": "Demann vwayaj",
+            "label": "Delievery Location"
+        },
+        {
+            "constant": "orderSuccessfullDelieveredText",
+            "value": "Mèsi pou chwazi repa isit la.",
+            "label": "Your order has been successfully delievered"
+        },
+        {
+            "constant": "isAgreeText",
+            "value": "Pou nenpòt ki rechèch, tanpri kontakte nou sou detay ki anba yo",
+            "label": "I agree to the"
+        },
+        {
+            "constant": "pleaseAcceptTerms",
+            "value": "Lòd ke yo te prepare",
+            "label": "Please Acccept Terms & Conditions"
+        },
+        {
+            "constant": "terms_condition",
+            "value": "Nou ap prepare lòd ou yo",
+            "label": "Terms & Condition"
+        }
+    ]
+}

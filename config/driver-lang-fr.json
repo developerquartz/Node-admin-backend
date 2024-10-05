@@ -1,0 +1,1521 @@
+{
+    "langJSON_arr": [
+        {
+            "constant": "vehicleInformationText",
+            "value": "Informations sur le véhicule",
+            "label": "Vehicle information"
+        },
+        {
+            "constant": "basicPriceText",
+            "value": "Prix ​​de base",
+            "label": "Basic Price"
+        },
+        {
+            "constant": "PricePerUnitDistanceText",
+            "value": "Prix ​​par unité de distance",
+            "label": "Price Per Unit Distance"
+        },
+        {
+            "constant": "PricePerUnitMinutesText",
+            "value": "Prix ​​par minute unitaire",
+            "label": "Price Per Unit Minutes"
+        },
+        {
+            "constant": "rideDetails",
+            "value": "Détails du trajet",
+            "label": "'Ride Details"
+        },
+        {
+            "constant": "delete",
+            "value": "Supprimer",
+            "label": "Delete"
+        },
+        {
+            "constant": "confirmDeteleAlert",
+            "value": "Voulez-vous vraiment supprimer votre compte",
+            "label": "Are you sure want to Delete Your Account"
+        },
+        {
+            "constant": "deleteAccountText",
+            "value": "Suppression de compte",
+            "label": "Account Delete"
+        },
+        {
+            "constant": "totalFare",
+            "value": "Total Fare",
+            "label": "Total Fare"
+        },
+        {
+            "constant": "yourEarning",
+            "value": "Votre gain",
+            "label": "Your Earning"
+        },
+        {
+            "constant": "addCardLabel",
+            "value": "+Ajouter une carte",
+            "label": "Add Card"
+        },
+        {
+            "constant": "selectLanguage",
+            "value": "Choisir la langue",
+            "label": "Select Language"
+        },
+        {
+            "constant": "Continue",
+            "value": "Continuer",
+            "label": "Continue"
+        },
+        {
+            "constant": "changeLanguage",
+            "value": "Changer de langue",
+            "label": "Change Language"
+        },
+        {
+            "constant": "noPaymentTemplates",
+            "value": "S'il vous plait demander à l'administrateur de créer un modèle",
+            "label": "Please Ask Admin To Create Templates"
+        },
+        {
+            "constant": "welcomeTo",
+            "value": "Bienvenue à",
+            "label": "Welcome to"
+        },
+        {
+            "constant": "totalFare",
+            "value": "Prix total",
+            "label": "Total Fare"
+        },
+        {
+            "constant": "yourEarning",
+            "value": "Votre gain",
+            "label": "Your Earning"
+        },
+        {
+            "constant": "notAdd",
+            "value": "Pas ajouté",
+            "label": "Not Added"
+        },
+        {
+            "constant": "driverDashboard",
+            "value": "Tableau de bord du conducteur",
+            "label": "Driver Dashboard"
+        },
+        {
+            "constant": "loginToContinueText",
+            "value": "S'il vous plait vous inscrivez vous poue continuer",
+            "label": "Please! login to continue"
+        },
+        {
+            "constant": "noVehicleAddedText",
+            "value": "Aucun véhicule",
+            "label": "No Vehicle"
+        },
+        {
+            "constant": "thankYouText",
+            "value": "Merci",
+            "label": "Thank You"
+        },
+        {
+            "constant": "pleaseRateCustomer",
+            "value": "S'il vous plait noter le client ",
+            "label": "Please Rate Customer"
+        },
+        {
+            "constant": "goToLoginText",
+            "value": "Se connecter",
+            "label": "Go To Login"
+        },
+        {
+            "constant": "enterCodeVerificationText",
+            "value": "Entrez le code à 4 chiffre qu' on vous a envoyé a",
+            "label": "Enter the 4-digit code sent to you at"
+        },
+        {
+            "constant": "isForgotPassword",
+            "value": "Mot de pas oublié ?",
+            "label": "Forgot Password ?"
+        },
+        {
+            "constant": "alreadyHaveAccount",
+            "value": "Avez-vous déjà un compte?",
+            "label": "Already have an account? "
+        },
+        {
+            "constant": "paymentAlreadyExist",
+            "value": "Les détails du paiement existe déjà",
+            "label": "Payment details already exists"
+        },
+        {
+            "constant": "signUpText",
+            "value": "Inscrivez vous",
+            "label": "Sign Up"
+        },
+        {
+            "constant": "changePassword",
+            "value": "Changer le mot de passe",
+            "label": "Change Password"
+        },
+        {
+            "constant": "editProfile",
+            "value": "Modifier le profil",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "dontHaveAccountText",
+            "value": "Vous n'avez pas de compte?",
+            "label": "Don't have an Account? "
+        },
+        {
+            "constant": "passwordSuccessToast",
+            "value": "Mot de passe réinitialisé avec succès !!",
+            "label": "Password reset successfully!!"
+        },
+        {
+            "constant": "paymentsDetailsHeader",
+            "value": "Détails du paiement",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "signInText",
+            "value": "Se connecter ",
+            "label": "Sign In"
+        },
+        {
+            "constant": "oldPassword",
+            "value": "Ancien mot de passe",
+            "label": "Old Password"
+        },
+        {
+            "constant": "tapToRefresh",
+            "value": "Cliquez pour actualiser",
+            "label": "Tap to Refresh"
+        },
+        {
+            "constant": "customerName",
+            "value": "Nom du client",
+            "label": "Customer Name"
+        },
+        {
+            "constant": "arrived",
+            "value": "Arrivée",
+            "label": "Arrived"
+        },
+        {
+            "constant": "arrivedText",
+            "value": "Arrivé",
+            "label": "Arrived"
+        },
+        {
+            "constant": "completeText",
+            "value": "Compléter",
+            "label": "Complete"
+        },
+        {
+            "constant": "complete",
+            "value": "Terminer",
+            "label": "Complete"
+        },
+        {
+            "constant": "orderSummaryText",
+            "value": "Recapitulatif de la commande",
+            "label": "Order Summary"
+        },
+        {
+            "constant": "orderNoText",
+            "value": "Numéro de la commande",
+            "label": "Order No"
+        },
+        {
+            "constant": "orderStatusText",
+            "value": "Etat de la commande ",
+            "label": "Order Status"
+        },
+        {
+            "constant": "paidText",
+            "value": "Payé",
+            "label": "Paid"
+        },
+        {
+            "constant": "describeExperienceText",
+            "value": "Décrivez votre expérience",
+            "label": "Describe your experience"
+        },
+        {
+            "constant": "submit",
+            "value": "Soumettre",
+            "label": "Submit"
+        },
+        {
+            "constant": "locationText",
+            "value": "Position",
+            "label": "Location"
+        },
+        {
+            "constant": "noDocumentsText",
+            "value": "Pas de document ajouté",
+            "label": "No Documents Added"
+        },
+        {
+            "constant": "storeIdText",
+            "value": "Identifiant du magasin",
+            "label": "Store Id"
+        },
+        {
+            "constant": "totalBalanceText",
+            "value": "Solde total",
+            "label": "Total Balance"
+        },
+        {
+            "constant": "addMoneyText",
+            "value": "Ajouter de l'argent",
+            "label": "Add Money"
+        },
+        {
+            "constant": "nameEmptyValid",
+            "value": "Veuillez entrer le nom  !!",
+            "label": "Please enter name!!"
+        },
+        {
+            "constant": "emailEmptyValid",
+            "value": "Veuillez entrer l'email !!",
+            "label": "Please enter email!!"
+        },
+        {
+            "constant": "emailValid",
+            "value": "Veuillez entrer un email valide !!",
+            "label": "Please enter valid email!!"
+        },
+        {
+            "constant": "passwordEmptyValid",
+            "value": "Veuiller entrer le mot de passe!!",
+            "label": "Please Enter password!!"
+        },
+        {
+            "constant": "confirmPasswordEmptyValid",
+            "value": "Veuiller entrer le mot de passe confirmé !!",
+            "label": "Please Enter Confirm password!!"
+        },
+        {
+            "constant": "mobileNumberEmptyValid",
+            "value": "Entrer votre numéro de téléphone!!",
+            "label": "Enter your mobile number!!"
+        },
+        {
+            "constant": "addressEmptyValid",
+            "value": "Veuillez entrer l'adresse !!",
+            "label": "Please enter address!!"
+        },
+        {
+            "constant": "paymentDetailsValid",
+            "value": "Veuillez ajouter les détails du paiement",
+            "label": "Please add payment details"
+        },
+        {
+            "constant": "reviewCustomerValid",
+            "value": "Veuillez partager le commentaire du client",
+            "label": "Please Share Customer's Review"
+        },
+        {
+            "constant": "passwordMismatchValid",
+            "value": "Le le nouveau mot de passe ne correspond pas",
+            "label": "New and Confirm Password doesn't match"
+        },
+        {
+            "constant": "currentPasswordEmptyValid",
+            "value": "Veuillez entrer le mot de passe actuelle !!",
+            "label": "Please enter current password!!"
+        },
+        {
+            "constant": "newPasswordEmptyValid",
+            "value": "Veuillezentrer le nouveau mot de passe !!",
+            "label": "Please enter new password!!"
+        },
+        {
+            "constant": "confirmPasswordValid",
+            "value": "Confirmez le mot de passe",
+            "label": "Enter confirm password"
+        },
+        {
+            "constant": "oldAndNewPasswordSameValid",
+            "value": "Le nouveau mot de passe doit est différend de l'ancien !!",
+            "label": "Old password and new password cannot be same!!"
+        },
+        {
+            "constant": "storeIdEmptyValid",
+            "value": "Veuillez entrer vos identifiants",
+            "label": "Please enter Store Id"
+        },
+        {
+            "constant": "homeDrawer",
+            "value": "Page d'acceuil",
+            "label": "Home"
+        },
+        {
+            "constant": "documentDrawer",
+            "value": "Documents",
+            "label": "Documents"
+        },
+        {
+            "constant": "earningDrawer",
+            "value": "Recette",
+            "label": "Earning"
+        },
+        {
+            "constant": "paymentDrawer",
+            "value": "Détails de paiement",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "profileDrawer",
+            "value": "Profil",
+            "label": "Profile"
+        },
+        {
+            "constant": "contactUsDrawer",
+            "value": "Contactez nous",
+            "label": "Contact Us"
+        },
+        {
+            "constant": "logoutDrawer",
+            "value": "Déconnexion",
+            "label": "Logout"
+        },
+        {
+            "constant": "walletDrawer",
+            "value": "Porte-monnaie électronique",
+            "label": "Wallet"
+        },
+        {
+            "constant": "homeHeader",
+            "value": "Page d'acceuil",
+            "label": "Home"
+        },
+        {
+            "constant": "updateDocumentHeader",
+            "value": "Mettre a jour les documents",
+            "label": "Update Documents"
+        },
+        {
+            "constant": "uploadDocumentHeader",
+            "value": "Télécharger les documents",
+            "label": "Upload Documents"
+        },
+        {
+            "constant": "paymentHeader",
+            "value": "Détails de paiement",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "profileHeader",
+            "value": "Profile",
+            "label": "Profile"
+        },
+        {
+            "constant": "editProfileHeader",
+            "value": "Modifier le profil",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "contactUsHeader",
+            "value": "Nous contacter",
+            "label": "nous contacter"
+        },
+        {
+            "constant": "logoutHeader",
+            "value": "Déconnexion",
+            "label": "Logout"
+        },
+        {
+            "constant": "changePasswordHeader",
+            "value": "Changer le mot de passe",
+            "label": "Change Password"
+        },
+        {
+            "constant": "forgotPasswordHeader",
+            "value": "Mot de passe oublié",
+            "label": "Forgot Password"
+        },
+        {
+            "constant": "orderDetailsHeader",
+            "value": "Détails de la commande",
+            "label": "Order Details"
+        },
+        {
+            "constant": "updateDetailsHeader",
+            "value": "Mettre à jour les détails",
+            "label": "Update Details"
+        },
+        {
+            "constant": "uploadDetailsHeader",
+            "value": "Télécharger les détails",
+            "label": "Upload Details"
+        },
+        {
+            "constant": "walletHeader",
+            "value": "Porte-monnaie électronique",
+            "label": "Wallet"
+        },
+        {
+            "constant": "namePlaceholder",
+            "value": "Nom",
+            "label": "Name"
+        },
+        {
+            "constant": "emailPlaceholder",
+            "value": "Email",
+            "label": "Email"
+        },
+        {
+            "constant": "addressPlaceholder",
+            "value": "Adresse",
+            "label": "Address"
+        },
+        {
+            "constant": "passwordPlaceholder",
+            "value": "Mot de passe",
+            "label": "Password"
+        },
+        {
+            "constant": "accountNumberPlaceholder",
+            "value": "Numéro de compte",
+            "label": "Account Number*"
+        },
+        {
+            "constant": "routingNumberPlaceholder",
+            "value": "Code de la banque",
+            "label": "Routing Number*"
+        },
+        {
+            "constant": "accountHolderNamePlaceholder",
+            "value": "Nom du titulaire du compte",
+            "label": "Account Holder Name*"
+        },
+        {
+            "constant": "bankNamePlaceholder",
+            "value": "Nom de la banque",
+            "label": "Bank Name*"
+        },
+        {
+            "constant": "newPasswordPlaceholder",
+            "value": "Nouveau mot de passe",
+            "label": "New Password"
+        },
+        {
+            "constant": "confirmPasswordPlaceholder",
+            "value": "Confirmer le mot de passe",
+            "label": "Confirm Password"
+        },
+        {
+            "constant": "mobilePlaceholderText",
+            "value": "Numero de téléphone",
+            "label": "Mobile number"
+        },
+        {
+            "constant": "addressSearchPlaceholder",
+            "value": "Chercher",
+            "label": "Search.."
+        },
+        {
+            "constant": "paymentAddSuccessToast",
+            "value": "Les détails de paiement ajoutés avec succès",
+            "label": "Payment detail has been added successfully"
+        },
+        {
+            "constant": "paymentUpdateSuccessToast",
+            "value": "Les détails de paiement ajouté avec succès",
+            "label": "Payment detail has been updated successfully"
+        },
+        {
+            "constant": "passwordResetSuccessToast",
+            "value": "Motde passe réinitialisé avec succès",
+            "label": "Password has been reset successfully"
+        },
+        {
+            "constant": "connectStripeHeader",
+            "value": "Paiement via Stripe",
+            "label": "Connect Stripe"
+        },
+        {
+            "constant": "connectStripeText",
+            "value": "Paiement via Stripe",
+            "label": "Connect Stripe"
+        },
+        {
+            "constant": "connectedStripeText",
+            "value": "Connecté",
+            "label": "Connected"
+        },
+        {
+            "constant": "stripeLinkedText",
+            "value": "Lien de connextion Stripe",
+            "label": "Stripe Connect Linked"
+        },
+        {
+            "constant": "stripeNotLinkedText",
+            "value": "Pas de lien de connexion stripe",
+            "label": "Stripe Connect Not Linked"
+        },
+        {
+            "constant": "loginHeader",
+            "value": "Connexion/ identifiant",
+            "label": "Login"
+        },
+        {
+            "constant": "loginToContinueText",
+            "value": "Connectez-vous pour continuer",
+            "label": "Login To Continue"
+        },
+        {
+            "constant": "pleaseEnterEmail",
+            "value": "Veuillez entrer votre email",
+            "label": "Please enter your email"
+        },
+        {
+            "constant": "verifyCodeHeader",
+            "value": "Verifier le code",
+            "label": "Verify Code"
+        },
+        {
+            "constant": "resendCode",
+            "value": "Renvoyer le code",
+            "label": "Resend code"
+        },
+        {
+            "constant": "resetPasswordHeader",
+            "value": "Reinitialiser le mot de passe",
+            "label": "Reset Password"
+        },
+        {
+            "constant": "pleaseEnterNewPassword",
+            "value": "Veuillez entrer votre nouveau mot de passe",
+            "label": "Please enter your new password"
+        },
+        {
+            "constant": "passwordMustContain",
+            "value": "Votre mot de passe doit contenir",
+            "label": "Your Password must contain: "
+        },
+        {
+            "constant": "atLeastSixChars",
+            "value": "Au moins 6 caractères",
+            "label": "At least 6 characters"
+        },
+        {
+            "constant": "containNumber",
+            "value": "Doit contenir",
+            "label": "Contains a number"
+        },
+        {
+            "constant": "validOtp",
+            "value": "S'il vous plaît entrer OTP",
+            "label": "Please Enter OTP"
+        },
+        {
+            "constant": "addVehicle",
+            "value": "S'il vous plaît ajouter votre véhicule.",
+            "label": "Please add your vehicle."
+        },
+        {
+            "constant": "backgroundPermission",
+            "value": "Voulez accéder à votre emplacement d'arrière-plan pour améliorer les micros, les départs, le suivi en temps réel et le service clientèle lorsque le pilote est en mode de suivi pendant la livraison.",
+            "label": "wants to access your background location for improve pickups, drop-offs, real-time tracking and customer service when driver is on tracking mode while delivery."
+        },
+        {
+            "constant": "allow",
+            "value": "Permettre",
+            "label": "Allow"
+        },
+        {
+            "constant": "dontAllow",
+            "value": "Ne pas autoriser",
+            "label": "Don't Allow"
+        },
+        {
+            "constant": "locationTitle",
+            "value": "Autorisation de localisation",
+            "label": "Location Permission"
+        },
+        {
+            "constant": "locationMessage",
+            "value": "Permet d'accéder à l'emplacement actuel pour obtenir des demandes à proximité!",
+            "label": "Allow to access current location to get nearby requestes!"
+        },
+        {
+            "constant": "searchAddress",
+            "value": "Adresse de recherche ...",
+            "label": "Search Address ..."
+        },
+        {
+            "constant": "yes",
+            "value": "Oui",
+            "label": "Yes"
+        },
+        {
+            "constant": "No",
+            "value": "NON",
+            "label": "NO"
+        },
+        {
+            "constant": "cancel",
+            "value": "Annuler",
+            "label": "Cancel"
+        },
+        {
+            "constant": "pickUp",
+            "value": "Récupérer",
+            "label": "Pick Up"
+        },
+        {
+            "constant": "start",
+            "value": "Démarrer",
+            "label": "Start"
+        },
+        {
+            "constant": "summary",
+            "value": "Sommaire",
+            "label": "Summary"
+        },
+        {
+            "constant": "scheduledBooking",
+            "value": "Réservation programmée",
+            "label": "Scheduled Booking"
+        },
+        {
+            "constant": "pickLocation",
+            "value": "Lieu de ramassage",
+            "label": "Pickup Location"
+        },
+        {
+            "constant": "accept",
+            "value": "J'accepte",
+            "label": "Accept"
+        },
+        {
+            "constant": "decline",
+            "value": "Déclin",
+            "label": "Decline"
+        },
+        {
+            "constant": "onlineReceive",
+            "value": "Se connecter pour recevoir des commandes",
+            "label": "Go Online To Receive"
+        },
+        {
+            "constant": "vehicleDetails",
+            "value": "Les détails du véhicule",
+            "label": "Vehicle Details"
+        },
+        {
+            "constant": "goOffline",
+            "value": "Se déconnecter",
+            "label": "Go Offline"
+        },
+        {
+            "constant": "goOnline",
+            "value": "Se connecter",
+            "label": "Go Online"
+        },
+        {
+            "constant": "cancelled",
+            "value": "Annulé",
+            "label": "Cancelled"
+        },
+        {
+            "constant": "completed",
+            "value": "Complété",
+            "label": "Completed"
+        },
+        {
+            "constant": "Done",
+            "value": "TERMINÉ",
+            "label": "DONE"
+        },
+        {
+            "constant": "selectVehicle",
+            "value": "Veuillez sélectionner le véhicule !!!",
+            "label": "Please Select Vehicle!!!"
+        },
+        {
+            "constant": "addVehicleDocuments",
+            "value": "Tanpri ranpli tout jaden yo",
+            "label": "Please fill in all fields"
+        },
+        {
+            "constant": "cardDetailsWrong",
+            "value": "Quelque chose a mal tourné",
+            "label": "Something Went Wrong"
+        },
+        {
+            "constant": "cardDetailsRequired",
+            "value": "S'il vous plaît entrer les détails de la carte requis !!",
+            "label": "Please enter required card detail!!"
+        },
+        {
+            "constant": "addMoneyMessage",
+            "value": "S'il vous plaît entrer de l'argent en premier",
+            "label": "Please Enter Money First"
+        },
+        {
+            "constant": "mobileCharacters",
+            "value": "Le numéro de mobile doit être composé de 7 à 15 chiffres",
+            "label": "Mobile Number should be 7 to 15 digits"
+        },
+        {
+            "constant": "otpNotMatched",
+            "value": "OTP n'a pas fait correspondre !!!",
+            "label": "OTP did not matched!!!"
+        },
+        {
+            "constant": "enterOtp",
+            "value": "Veuillez entrer OTP !!!",
+            "label": "Please Enter OTP!!!"
+        },
+        {
+            "constant": "removeVehicleMessage",
+            "value": "Êtes-vous sûr, vous voulez supprimer ce véhicule",
+            "label": "Are you sure, you want to remove this vehicle"
+        },
+        {
+            "constant": "deleteCard",
+            "value": "Êtes-vous sûr de vouloir supprimer cette carte !!!",
+            "label": "Are you sure you want to delete this card!!!"
+        },
+        {
+            "constant": "stripeUnlinkAlert",
+            "value": "Êtes-vous sûr de vouloir dissuader ce compte !!!",
+            "label": "Are you sure you want to unlink this account!!!"
+        },
+        {
+            "constant": "logoutMessage",
+            "value": "Êtes-vous sûr de vouloir vous déconnecter!",
+            "label": "Are you sure you want to logout!"
+        },
+        {
+            "constant": "exitAlertMessage",
+            "value": "Êtes-vous sûr de vouloir quitter!!!",
+            "label": "Are you sure you want to Exit!!!"
+        },
+        {
+            "constant": "alertOk",
+            "value": "D'accord",
+            "label": "Ok"
+        },
+        {
+            "constant": "alertCance",
+            "value": "Annuler",
+            "label": "Cancel"
+        },
+        {
+            "constant": "alertExitButton",
+            "value": "SORTIR",
+            "label": "EXIT"
+        },
+        {
+            "constant": "alertCancelButton",
+            "value": "ANNULER",
+            "label": "CANCEL"
+        },
+        {
+            "constant": "removeVehicleWarning",
+            "value": "Enlever le véhicule",
+            "label": "Remove Vehicle"
+        },
+        {
+            "constant": "deleteCardWarning",
+            "value": "Delete",
+            "label": "Delete Card"
+        },
+        {
+            "constant": "unlinkWarning",
+            "value": "Dislink PayPal",
+            "label": "Unlink Paypal"
+        },
+        {
+            "constant": "logoutWarning",
+            "value": "Se déconnecter",
+            "label": "Logout"
+        },
+        {
+            "constant": "exit",
+            "value": "Sortir",
+            "label": "Exit"
+        },
+        {
+            "constant": "commision",
+            "value": "Commission",
+            "label": "Commision"
+        },
+        {
+            "constant": "perMiles",
+            "value": "Par miles",
+            "label": "Per Miles"
+        },
+        {
+            "constant": "perMinute",
+            "value": "Par minute",
+            "label": "Per Minute"
+        },
+        {
+            "constant": "basePrice",
+            "value": "Prix de base",
+            "label": "Base Price"
+        },
+        {
+            "constant": "bookingAvailable",
+            "value": "Pas de réservation disponible",
+            "label": "No Booking Available"
+        },
+        {
+            "constant": "Track",
+            "value": "Pister",
+            "label": "Track"
+        },
+        {
+            "constant": "detail",
+            "value": "Détail",
+            "label": "Detail"
+        },
+        {
+            "constant": "cancelBooking",
+            "value": "Êtes-vous sûr de vouloir annuler cette réservation !!!",
+            "label": "Are you sure you want to Cancel this booking!!!"
+        },
+        {
+            "constant": "yourOrder",
+            "value": "Merci pour votre commande!",
+            "label": "Thanks for your order!"
+        },
+        {
+            "constant": "rateCustomer",
+            "value": "Tarifer le client",
+            "label": "Rate Customer"
+        },
+        {
+            "constant": "deliveryLocation",
+            "value": "Lieu de livraison",
+            "label": "Delivery Location"
+        },
+        {
+            "constant": "DropOfflocation",
+            "value": "Point de chute",
+            "label": "DropOff Location"
+        },
+        {
+            "constant": "enterOtpVerf",
+            "value": "Entrez OTP",
+            "label": "Enter OTP"
+        },
+        {
+            "constant": "searchPlaces",
+            "value": "Lieux de recherche",
+            "label": "Search Places"
+        },
+        {
+            "constant": "paymentHeader",
+            "value": "Détails de paiement",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "walletHeader",
+            "value": "Portefeuille",
+            "label": "Wallet"
+        },
+        {
+            "constant": "documentDrawer",
+            "value": "Documents",
+            "label": "Documents"
+        },
+        {
+            "constant": "vehicleHeader",
+            "value": "Véhicule",
+            "label": "Vehicle"
+        },
+        {
+            "constant": "bookingHeader",
+            "value": "Les détails de réservation",
+            "label": "Booking Details"
+        },
+        {
+            "constant": "dashboardDriver",
+            "value": "Conducteur",
+            "label": "Driver"
+        },
+        {
+            "constant": "vehicleTypeHeader",
+            "value": "Types de véhicules",
+            "label": "Vehicle Types"
+        },
+        {
+            "constant": "privacyPolicy",
+            "value": "La politique de confidentialité et",
+            "label": "Privacy Policy,"
+        },
+        {
+            "constant": "refundPolicy",
+            "value": "De remboursement",
+            "label": "Refund Policy"
+        },
+        {
+            "constant": "viewProfile",
+            "value": "Voir le profil",
+            "label": "View Profile"
+        },
+        {
+            "constant": "addAmountString",
+            "value": "Montant à ajouter",
+            "label": "Amount to Add"
+        },
+        {
+            "constant": "choosePayment",
+            "value": "Choisir le paiement",
+            "label": "Choose Payment"
+        },
+        {
+            "constant": "stripeLink",
+            "value": "Lien",
+            "label": "Link"
+        },
+        {
+            "constant": "stripeUnlink",
+            "value": "Dissimuler",
+            "label": "Unlink"
+        },
+        {
+            "constant": "addCard",
+            "value": "Ajouter une carte",
+            "label": "Add Card"
+        },
+        {
+            "constant": "upcoming",
+            "value": "A venir",
+            "label": "Upcoming"
+        },
+        {
+            "constant": "past",
+            "value": "Passé",
+            "label": "Past"
+        },
+        {
+            "constant": "bookingVehicleType",
+            "value": "Type de véhicule",
+            "label": "Vehicle Type"
+        },
+        {
+            "constant": "dateRide",
+            "value": "Date de conduite",
+            "label": "Date Of Ride"
+        },
+        {
+            "constant": "rideId",
+            "value": "Identifiant",
+            "label": "Ride Id"
+        },
+        {
+            "constant": "rideStatus",
+            "value": "Statut",
+            "label": "Status"
+        },
+        {
+            "constant": "fare",
+            "value": "Tarif",
+            "label": "Fare"
+        },
+        {
+            "constant": "distance",
+            "value": "Distance",
+            "label": "Distance"
+        },
+        {
+            "constant": "duration",
+            "value": "Durée",
+            "label": "Duration"
+        },
+        {
+            "constant": "kilometer",
+            "value": "Km",
+            "label": "Km"
+        },
+        {
+            "constant": "minutes",
+            "value": "Mines",
+            "label": "Minutes"
+        },
+        {
+            "constant": "date",
+            "value": "Date",
+            "label": "Date"
+        },
+        {
+            "constant": "total",
+            "value": "Totale",
+            "label": "Total"
+        },
+        {
+            "constant": "alertCancel",
+            "value": "Annuler",
+            "label": "Cancel"
+        },
+        {
+            "constant": "alert",
+            "value": "Alerte",
+            "label": "Alert"
+        },
+        {
+            "constant": "bad",
+            "value": "Mal",
+            "label": "Bad"
+        },
+        {
+            "constant": "oK",
+            "value": "D'accord",
+            "label": "OK"
+        },
+        {
+            "constant": "good",
+            "value": "Bien",
+            "label": "Good"
+        },
+        {
+            "constant": "veryGood",
+            "value": "Très bien",
+            "label": "Very Good"
+        },
+        {
+            "constant": "amazing",
+            "value": "Étonnante",
+            "label": "Amazing"
+        },
+        {
+            "constant": "feedback",
+            "value": "Retour d'information",
+            "label": "Feedback"
+        },
+        {
+            "constant": "takePhotoText",
+            "value": "Prendre une photo",
+            "label": "Take Photo"
+        },
+        {
+            "constant": "chooseLibraryText",
+            "value": "Choisissez la bibliothèque",
+            "label": "Choose Library"
+        },
+        {
+            "constant": "cancelLabel",
+            "value": "Annuler",
+            "label": "Cancel"
+        },
+        {
+            "constant": "selectPhotosText",
+            "value": "Sélectionner des photos",
+            "label": "Select Photos"
+        },
+        {
+            "constant": "delivery",
+            "value": "Livraison",
+            "label": "Delivery"
+        },
+        {
+            "constant": "pickupFrom",
+            "value": "Pick-up de",
+            "label": "Pickup From"
+        },
+        {
+            "constant": "deliverTo",
+            "value": "Livrer à",
+            "label": "Deliver To"
+        },
+        {
+            "constant": "orderDetails",
+            "value": "Détails de la commande",
+            "label": "Order Details"
+        },
+        {
+            "constant": "orderNo",
+            "value": "N ° de commande.",
+            "label": "Order No."
+        },
+        {
+            "constant": "itemDetails",
+            "value": "Détails de l'article",
+            "label": "Item Details"
+        },
+        {
+            "constant": "items",
+            "value": "Articles",
+            "label": "Items"
+        },
+        {
+            "constant": "submitText",
+            "value": "Soumettre",
+            "label": "Submit"
+        },
+        {
+            "constant": "orderInstructions",
+            "value": "Instructions",
+            "label": "Instructions"
+        },
+        {
+            "constant": "walletLimitMessage",
+            "value": "Veuillez ajouter du montant à votre portefeuille pour commencer à accepter les demandes.",
+            "label": "Please add amount to your wallet to start accepting requests."
+        },
+        {
+            "constant": "serviceCategories",
+            "value": "Sélectionnez les catégories de services",
+            "label": "Select Service Categories"
+        },
+        {
+            "constant": "service",
+            "value": "Un service",
+            "label": "Service"
+        },
+        {
+            "constant": "save",
+            "value": "Sauver",
+            "label": "Save"
+        },
+        {
+            "constant": "searchCategories",
+            "value": "Catégories de recherche",
+            "label": "Search Categories"
+        },
+        {
+            "constant": "optonalAddOn",
+            "value": "Ajouts optionnels disponibles!",
+            "label": "Optional Add-ons Available!"
+        },
+        {
+            "constant": "addOns",
+            "value": "Ajouter",
+            "label": "Add ons"
+        },
+        {
+            "constant": "manageServices",
+            "value": "Gérer les services",
+            "label": "Manage Services"
+        },
+        {
+            "constant": "anotherCategories",
+            "value": "Veuillez ajouter une autre catégorie cette catégorie déjà ajoutée",
+            "label": "Please add another category this category already added"
+        },
+        {
+            "constant": "serviceAddress",
+            "value": "Adresse de service",
+            "label": "Service Address"
+        },
+        {
+            "constant": "serviceDetails",
+            "value": "Détails du service",
+            "label": "Service Details"
+        },
+        {
+            "constant": "scheduled",
+            "value": "Programmé",
+            "label": "Scheduled"
+        },
+        {
+            "constant": "dateTime",
+            "value": "Date / heure",
+            "label": "Date / Time"
+        },
+        {
+            "constant": "subtotal",
+            "value": "Total",
+            "label": "Subtotal"
+        },
+        {
+            "constant": "discount",
+            "value": "Remise",
+            "label": "Discount"
+        },
+        {
+            "constant": "totalPay",
+            "value": "Salaire total",
+            "label": "Total Pay"
+        },
+        {
+            "constant": "inRoute",
+            "value": "In-Route",
+            "label": "In-Route"
+        },
+        {
+            "constant": "confirmed",
+            "value": "Confirmé",
+            "label": "Confirmed"
+        },
+        {
+            "constant": "location",
+            "value": "Emplacement",
+            "label": "Location"
+        },
+        {
+            "constant": "selectCategories",
+            "value": "Veuillez sélectionner des catégories",
+            "label": "Please select categories"
+        },
+        {
+            "constant": "noresult",
+            "value": "Aucun résultat trouvé",
+            "label": "No result found"
+        },
+        {
+            "constant": "paymentMethod",
+            "value": "Mode de paiement",
+            "label": "Payment Method"
+        },
+        {
+            "constant": "yourBooking",
+            "value": "Merci pour votre réservation!",
+            "label": "Thanks for your booking!"
+        },
+        {
+            "constant": "itemTotal",
+            "value": "Objet total",
+            "label": "Item Total"
+        },
+        {
+            "constant": "taxandFees",
+            "value": "Taxe et frais",
+            "label": "Tax and Fees"
+        },
+        {
+            "constant": "deliveryCharge",
+            "value": "Frais de livraison",
+            "label": "Delivery Charge"
+        },
+        {
+            "constant": "DateAndTime",
+            "value": "Date et heure",
+            "label": "Date & Time"
+        },
+        {
+            "constant": "payment",
+            "value": "Paiement",
+            "label": "Payment"
+        },
+        {
+            "constant": "deliveredTo",
+            "value": "Livré à",
+            "label": "Delivered To"
+        },
+        {
+            "constant": "selectAddOn",
+            "value": "Addons sélectionnés",
+            "label": "Selected Addons"
+        }
+    ],
+    "Insert_JSON_arr": [
+        {
+            "constant": "completeSharableLink",
+            "value": "Get everything you need with HLC Follow this link: {{link}} and use My code {{code}}.",
+            "label": "Referral Link"
+        },
+        {
+            "constant": "fundWalletText",
+            "value": "Portefeuille de fonds",
+            "label": "Fund Wallet"
+        },
+        {
+            "constant": "duringSignupText",
+            "value": "Lors de l'inscription",
+            "label": "while signup"
+        },
+        {
+            "constant": "useCodeText",
+            "value": "et utilisez ce code",
+            "label": "And use this code"
+        },
+        {
+            "constant": "areYouSureYouWantToPay",
+            "value": "Êtes-vous sûr de souhaiter payer avec une carte sélectionnée?",
+            "label": "Are you sure you want to Pay with selected Card?"
+        },
+        {
+            "constant": "paymentText",
+            "value": "Paiement",
+            "label": "Payment"
+        },
+        {
+            "constant": "tapOnLinkText",
+            "value": "Appuyez sur le lien suivant pour partager",
+            "label": "Tap on following link to Share"
+        },
+        {
+            "constant": "helpSupportHeader",
+            "value": "Support d'aide",
+            "label": "Help & Support"
+        },
+        {
+            "constant": "helpSupportDrawer",
+            "value": "Support d'aide",
+            "label": "Help & Support Drawer"
+        },
+        {
+            "constant": "inviteFriendsHeader",
+            "value": "Inviter des amis",
+            "label": "Invite Friends"
+        },
+        {
+            "constant": "creditHistory",
+            "value": "Histoire de credit",
+            "label": "Credit History"
+        },
+        {
+            "constant": "transactionHeader",
+            "value": "Historique des transactions",
+            "label": "Transaction History"
+        },
+        {
+            "constant": "noTransactionHistory",
+            "value": "Aucun historique de transaction",
+            "label": "No Transaction History"
+        },
+        {
+            "constant": "seeAll",
+            "value": "Voir tout",
+            "label": "See All"
+        },
+        {
+            "constant": "notAvailableText",
+            "value": "Pas disponible",
+            "label": "Not Available"
+        },
+        {
+            "constant": "amount",
+            "value": "Quantité",
+            "label": "Amount"
+        },
+        {
+            "constant": "descriptionText",
+            "value": "La description",
+            "label": "Description"
+        },
+        {
+            "constant": "inviteYourFriendsText",
+            "value": "INVITE TES AMIS",
+            "label": "INVITE YOUR FRIENDS"
+        },
+        {
+            "constant": "inviteFriendsText",
+            "value": "Inviter des amis",
+            "label": "Invite Friends"
+        },
+        {
+            "constant": "referPlaceholder",
+            "value": "Histoire de credit",
+            "label": "Refer Code"
+        },
+        {
+            "constant": "FAQ",
+            "value": "Historique des transactions",
+            "label": "FAQ"
+        },
+        {
+            "constant": "FAQHeader",
+            "value": "Historique des transactions",
+            "label": "FAQ Header"
+        },
+        {
+            "constant": "addPaymentText",
+            "value": "Aucun historique de transaction",
+            "label": "Add Payment Details"
+        },
+        {
+            "constant": "updatePaymentText",
+            "value": "Voir tout",
+            "label": "Update Payment Details"
+        },
+        {
+            "constant": "registrationSuccessText",
+            "value": "Pas disponible",
+            "label": "Your Registration is Successfull."
+        },
+        {
+            "constant": "waitingAdminApprovalText",
+            "value": "Quantité",
+            "label": "Waiting Admin's Approval."
+        },
+        {
+            "constant": "thanksDrop",
+            "value": "La description",
+            "label": "Thank you for the drop!"
+        },
+        {
+            "constant": "earningHeader",
+            "value": "INVITE TES AMIS",
+            "label": "Earning"
+        },
+        {
+            "constant": "bookings",
+            "value": "Référer le code",
+            "label": "Bookings"
+        },
+        {
+            "constant": "tripRequest",
+            "value": "FAQ",
+            "label": "Trip Request"
+        },
+        {
+            "constant": "thankContactUsText",
+            "value": "Ajouter les détails du paiement",
+            "label": "Thanks for choosing Meal here."
+        },
+        {
+            "constant": "querryContactUsText",
+            "value": "Mettre à jour les détails du paiement",
+            "label": "For any query, please contact us on the below details"
+        },
+        {
+            "constant": "orderPreparedText",
+            "value": "Votre inscription est réussie.",
+            "label": "Order being Prepared"
+        },
+        {
+            "constant": "prepareOrderText",
+            "value": "Approbation de l'administrateur en attente.",
+            "label": "We are preparing your order"
+        },
+        {
+            "constant": "readyToPickupText",
+            "value": "Merci pour la goutte!",
+            "label": "Ready to Pickup"
+        },
+        {
+            "constant": "orderReadyToPickupText",
+            "value": "Revenus",
+            "label": "Your Order is ready to pickup"
+        },
+        {
+            "constant": "pickupText",
+            "value": "Réservations",
+            "label": "Pickup"
+        },
+        {
+            "constant": "delieveryLocationText",
+            "value": "Demande de voyage",
+            "label": "Delievery Location"
+        },
+        {
+            "constant": "orderSuccessfullDelieveredText",
+            "value": "Merci d'avoir choisi le repas ici.",
+            "label": "Your order has been successfully delievered"
+        },
+        {
+            "constant": "isAgreeText",
+            "value": "Pour toute question, veuillez nous contacter sur les détails ci-dessous",
+            "label": "I agree to the"
+        },
+        {
+            "constant": "pleaseAcceptTerms",
+            "value": "Commandez en préparation",
+            "label": "Please Acccept Terms & Conditions"
+        },
+        {
+            "constant": "terms_condition",
+            "value": "Nous préparons votre commande",
+            "label": "Terms & Condition"
+        }
+    ]
+}

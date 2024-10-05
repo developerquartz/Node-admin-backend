@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <title>
+        <%= title %>
+    </title>
+    <style>
+        body {
+            overflow: unset !important;
+        }
+
+        .jumbotron {
+            position: relative;
+            top: 100%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+    <link rel='stylesheet' href='/css/style.css' />
+</head>
+
+<body>
+    <div class="container d-flex h-100">
+        <div class="row align-self-center w-100">
+            <div class="col-12 mx-auto">
+                <div class="jumbotron">
+                    <h1 class="display-8 text-truncate"></h1>
+                    <p class="lead">
+                    <div class="spinner-border" role="status">
+                        <span class="sr-only">Loading...</span>
+                    </div>
+                    </p>
+                    <!-- <p class="lead">
+                        <a class="btn btn-primary btn-lg" href="#" role="button">Remove Account</a>
+                    </p> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- * App Capsule -->
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+    <script>
+        var options = {
+            "key": '<%- chargeData.KEY_ID %>', // Enter the Key ID generated from the Dashboard
+            "amount": '<%- razorpay_response.amount %>', // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
+            "currency": '<%- chargeData.currency %>',
+            "name": '<%- chargeData.name %>',
+            "description": "Transaction",
+            "image": "<%- chargeData.logo %>",
+            "order_id": '<%- razorpay_response.id %>', //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
+            "callback_url": '<%- chargeData.callback_url %>',
+            "prefill": {
+                "name": '<%- chargeData.C_name %>',
+                "email": '<%- chargeData.C_email %>',
+                "contact": '<%- chargeData.C_mobileNumber %>'
+            },
+            "notes": {
+                "address": '<%- chargeData.address %>'
+            },
+            "theme": {
+                "color": '<%- chargeData.theme %>'
+            },
+            "modal": {
+                "backdropclose": false,
+                "ondismiss": function () {
+                    if (typeof window.ReactNativeWebView != "undefined") {
+                        callToRN({ status: "error", message: "Payment Cancelled" });
+                    } else {
+                        window.location.href = '<%- chargeData.return_url %>';
+                    }
+                }
+            }
+        };
+        var rzp1 = new Razorpay(options);
+        window.addEventListener('load', function () {
+            document.querySelectorAll(".spinner-border").forEach(el => el.remove());
+            rzp1.open();
+        });
+
+        function callToRN(order) {
+            window.ReactNativeWebView.postMessage(JSON.stringify(order));
+        }
+    </script>
+</body>
+
+</html>

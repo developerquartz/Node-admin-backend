@@ -1,0 +1,3590 @@
+{
+    "langJSON_arr": [
+        {
+            "constant": "paymentDetailsText",
+            "value": "付款详情",
+            "label": "Payment Details"
+        },
+        {
+            "constant": "delivery",
+            "value": "送货",
+            "label": "Delivery"
+        },
+        {
+            "constant": "exploreCategories",
+            "value": "看起来您还没有添加任何东西到您的购物车。 继续探索热门类别",
+            "label": "Look like you have not added anything to your cart. Go ahead & explore top categories"
+        },
+        {
+            "constant": "productLabel",
+            "value": "产品",
+            "label": "Product"
+        },
+        {
+            "constant": "addAddressText",
+            "value": "添加地址",
+            "label": "Add Address"
+        },
+        {
+            "constant": "myAddressText",
+            "value": "我的地址",
+            "label": "My Address"
+        },
+        {
+            "constant": "addLabel",
+            "value": "添加",
+            "label": "Add"
+        },
+        {
+            "constant": "totalAmountText",
+            "value": "总金额",
+            "label": "Total Amount"
+        },
+        {
+            "constant": "confirmOrderText",
+            "value": "确认订单",
+            "label": "Confirm Order"
+        },
+        {
+            "constant": "subTotalText",
+            "value": "小计",
+            "label": "Subtotal"
+        },
+        {
+            "constant": "serviceChargeText",
+            "value": "服务费",
+            "label": "Service Charge"
+        },
+        {
+            "constant": "today",
+            "value": "今天",
+            "label": "Today"
+        },
+        {
+            "constant": "scheduleInAdvance",
+            "value": "提前预定",
+            "label": "Scheduled In Advance"
+        },
+        {
+            "constant": "addCardLabel",
+            "value": "+加卡",
+            "label": "Add Card"
+        },
+        {
+            "constant": "amountToSendLabel",
+            "value": "输入金额",
+            "label": "Enter Amount"
+        },
+        {
+            "constant": "noUsersAvailable",
+            "value": "没有用户",
+            "label": "No Users"
+        },
+        {
+            "constant": "searchUserPlaceholder",
+            "value": "通过电子邮件搜索用户",
+            "label": "Search User By Email"
+        },
+        {
+            "constant": "sendMoneyText",
+            "value": "寄钱",
+            "label": "Send Money"
+        },
+        {
+            "constant": "referCodePlaceholderText",
+            "value": "参考代码",
+            "label": "Refer Code"
+        },
+        {
+            "constant": "addPickupDetailsText",
+            "value": "添加取件详细信息",
+            "label": "Add Pickup Details"
+        },
+        {
+            "constant": "hourlyDeliveryLabel",
+            "value": "每小时",
+            "label": "Hourly"
+        },
+        {
+            "constant": "selectLanguage",
+            "value": "选择语言",
+            "label": "Select Language"
+        },
+        {
+            "constant": "Continue",
+            "value": "继续",
+            "label": "Continue"
+        },
+        {
+            "constant": "changeLanguage",
+            "value": "改变语言",
+            "label": "Change Language"
+        },
+        {
+            "constant": "enterPassword",
+            "value": "输入密码",
+            "label": "Enter password"
+        },
+        {
+            "constant": "item_specification",
+            "value": "产品尺寸",
+            "label": "Product Dimenstions"
+        },
+        {
+            "constant": "pay360Header",
+            "value": "支付工资360",
+            "label": "Pay with Pay360"
+        },
+        {
+            "constant": "popularDestinations",
+            "value": "流行目的地",
+            "label": "Popular Destinations"
+        },
+        {
+            "constant": "seeAll",
+            "value": "看到所有",
+            "label": "See All"
+        },
+        {
+            "constant": "property",
+            "value": "财产",
+            "label": "Property"
+        },
+        {
+            "constant": "search",
+            "value": "搜索",
+            "label": "Search"
+        },
+        {
+            "constant": "cardNoLessThan14Valid",
+            "value": "请输入有效的卡号",
+            "label": "Please enter Valid card number"
+        },
+        {
+            "constant": "unavailableText",
+            "value": "不可用",
+            "label": "Unavailable"
+        },
+        {
+            "constant": "inviteYourFriendsText",
+            "value": "邀请你的朋友",
+            "label": "INVITE YOUR FRIENDS"
+        },
+        {
+            "constant": "inviteFriendsText",
+            "value": "邀请朋友",
+            "label": "Invite Friends"
+        },
+        {
+            "constant": "referFriendsHeader",
+            "value": "推荐朋友",
+            "label": "Refer Friends"
+        },
+        {
+            "constant": "ReservationText",
+            "value": "预订",
+            "label": "Reservation"
+        },
+        {
+            "constant": "cityText",
+            "value": "城市",
+            "label": "City"
+        },
+        {
+            "constant": "postalCode",
+            "value": "zip/pastal代码",
+            "label": "Zip/Pastal Code"
+        },
+        {
+            "constant": "firstNameText",
+            "value": "名",
+            "label": "First Name"
+        },
+        {
+            "constant": "middleNameText",
+            "value": "中间名字",
+            "label": "Middle Name"
+        },
+        {
+            "constant": "lastNameText",
+            "value": "姓",
+            "label": "Last Name"
+        },
+        {
+            "constant": "placeOffersText",
+            "value": "这个地方提供了什么",
+            "label": "What this place offers"
+        },
+        {
+            "constant": "bedsText",
+            "value": "床",
+            "label": "Bed"
+        },
+        {
+            "constant": "roomsText",
+            "value": "房间",
+            "label": "Rooms"
+        },
+        {
+            "constant": "guestsText",
+            "value": "客人",
+            "label": "Guests"
+        },
+        {
+            "constant": "CheckInDateValid",
+            "value": "请选择检查日期",
+            "label": "Please Select CheckIn Date"
+        },
+        {
+            "constant": "CheckOutDateValid",
+            "value": "请选择结帐日期",
+            "label": "Please Select CheckOut Date"
+        },
+        {
+            "constant": "guestDetailValid",
+            "value": "请输入有效的客人细节",
+            "label": "Please Enter Valid Guest Detail"
+        },
+        {
+            "constant": "CheckInText",
+            "value": "Check-In",
+            "label": "Check-In"
+        },
+        {
+            "constant": "CheckOutText",
+            "value": "Check-Out",
+            "label": "Check-Out"
+        },
+        {
+            "constant": "deleteYourAccountText",
+            "value": "删除您的帐户",
+            "label": "Delete Your Account"
+        },
+        {
+            "constant": "deleteAccountPermission",
+            "value": "您确定要删除帐户吗？",
+            "label": "Are you sure you want to Delete Your Account?"
+        },
+        {
+            "constant": "allText",
+            "value": "全部",
+            "label": "All"
+        },
+        {
+            "constant": "customTipText",
+            "value": "自定义提示",
+            "label": "Custom Tip"
+        },
+        {
+            "constant": "monCashHeader",
+            "value": "由moncash付款",
+            "label": "Pay By Moncash"
+        },
+        {
+            "constant": "docHeader",
+            "value": "文件",
+            "label": "Documents"
+        },
+        {
+            "constant": "noDocumentsText",
+            "value": "没有文件",
+            "label": "No Documents"
+        },
+        {
+            "constant": "totalTipText",
+            "value": "总小费",
+            "label": "Total Tip"
+        },
+        {
+            "constant": "addDateText",
+            "value": "添加日期",
+            "label": "Add Dates"
+        },
+        {
+            "constant": "addGuestText",
+            "value": "添加客人",
+            "label": "Add Guests"
+        },
+        {
+            "constant": "guestDetailsText",
+            "value": "来宾详细信息",
+            "label": "Guest Details"
+        },
+        {
+            "constant": "noGuideLinesText",
+            "value": "没有准则",
+            "label": "No GuideLines"
+        },
+        {
+            "constant": "noVehicleFoundText",
+            "value": "找不到车辆",
+            "label": "No Vehicle Found"
+        },
+        {
+            "constant": "enterdestinationAddressValid",
+            "value": "请输入目标地址",
+            "label": "Please Enter Destination Address"
+        },
+        {
+            "constant": "PassGreaterSixText",
+            "value": "密码应大于5位。",
+            "label": "The password should be greater than 5 digits."
+        },
+        {
+            "constant": "paystackStackPaymentText",
+            "value": "工资堆",
+            "label": "Paystack"
+        },
+        {
+            "constant": "PassContainNumberText",
+            "value": "你的密码中必须包含数字",
+            "label": "Your Password must contain a number"
+        },
+        {
+            "constant": "RememberMeText",
+            "value": "记得我",
+            "label": "Remember me"
+        },
+        {
+            "constant": "ContainsNumberText",
+            "value": "包含一个数字",
+            "label": "Contains a number"
+        },
+        {
+            "constant": "AtLeastSixText",
+            "value": "至少6个字符",
+            "label": "At least 6 characters"
+        },
+        {
+            "constant": "PasswordMustContain",
+            "value": "您的密码必须包含：",
+            "label": "Your Password must contain:"
+        },
+        {
+            "constant": "EnterNewPassword",
+            "value": "请输入您的新密码",
+            "label": "Please enter your new password"
+        },
+        {
+            "constant": "WebViewerror",
+            "value": "WebView收到错误状态代码：",
+            "label": "WebView received error status code:"
+        },
+        {
+            "constant": "endDateText",
+            "value": "结束旅行",
+            "label": "End Trip"
+        },
+        {
+            "constant": "planDateText",
+            "value": "计划旅行",
+            "label": "Plan Trip"
+        },
+        {
+            "constant": "PeopleText",
+            "value": "人们",
+            "label": "People"
+        },
+        {
+            "constant": "DoorsText",
+            "value": "门",
+            "label": "Doors"
+        },
+        {
+            "constant": "ModelText",
+            "value": "模型",
+            "label": "Model"
+        },
+        {
+            "constant": "CityTaxText",
+            "value": "城市税",
+            "label": "City Tax"
+        },
+        {
+            "constant": "OccupancyTaxText",
+            "value": "入住税",
+            "label": "Occupancy Tax"
+        },
+        {
+            "constant": "AmenityFeeText",
+            "value": "便利费",
+            "label": "Amenity fee"
+        },
+        {
+            "constant": "TaxesFeeText",
+            "value": "税收和费用",
+            "label": "Taxes and Fee"
+        },
+        {
+            "constant": "guidelinesText",
+            "value": "准则",
+            "label": "Guidelines"
+        },
+        {
+            "constant": "carDetailText",
+            "value": "细节",
+            "label": "Details"
+        },
+        {
+            "constant": "carsText",
+            "value": "汽车",
+            "label": "Cars"
+        },
+        {
+            "constant": "categoriesText",
+            "value": "类别",
+            "label": "Categories"
+        },
+        {
+            "constant": "barndsText",
+            "value": "品牌",
+            "label": "Brands"
+        },
+        {
+            "constant": "seAllText",
+            "value": "看到所有",
+            "label": "See All"
+        },
+        {
+            "constant": "findCarText",
+            "value": "找到汽车",
+            "label": "Find Car"
+        },
+        {
+            "constant": "enterPickupLocationText",
+            "value": "输入拾取位置",
+            "label": "Enter Pickup Location"
+        },
+        {
+            "constant": "selectVehicleText",
+            "value": "选择车辆",
+            "label": "Select Vehicle"
+        },
+        {
+            "constant": "toText",
+            "value": "至",
+            "label": "TO"
+        },
+        {
+            "constant": "enterPickupAddressValid",
+            "value": "请输入接送地址",
+            "label": "Please Enter Pickup Address"
+        },
+        {
+            "constant": "destinationReachTimeText",
+            "value": "将到达目的地",
+            "label": "Will Reach At Destination"
+        },
+        {
+            "constant": "userText",
+            "value": "用户",
+            "label": "User"
+        },
+        {
+            "constant": "password",
+            "value": "密码",
+            "label": "Password"
+        },
+        {
+            "constant": "forgotPassword",
+            "value": "忘记密码",
+            "label": "Forgot password"
+        },
+        {
+            "constant": "confirmPassword",
+            "value": "确认密码",
+            "label": "Confirm password"
+        },
+        {
+            "constant": "oldPassword",
+            "value": "旧密码",
+            "label": "Old password"
+        },
+        {
+            "constant": "newPassword",
+            "value": "新密码",
+            "label": "New password"
+        },
+        {
+            "constant": "enterOptCode",
+            "value": "输入发送到的四位数代码",
+            "label": "Enter the four-digit code sent to"
+        },
+        {
+            "constant": "resendCode",
+            "value": "重新发送验证码",
+            "label": "Resend code"
+        },
+        {
+            "constant": "personalInfo",
+            "value": "请输入您的详细信息",
+            "label": "Please enter your details"
+        },
+        {
+            "constant": "noInternet",
+            "value": "请检查您的互联网连接",
+            "label": "Please check your internet connection"
+        },
+        {
+            "constant": "alreadyHaveAccount",
+            "value": "已经有一个帐户？",
+            "label": "Already have an account?"
+        },
+        {
+            "constant": "signInText",
+            "value": "登入",
+            "label": "Sign In"
+        },
+        {
+            "constant": "changePasswordProfile",
+            "value": "更改密码",
+            "label": "Change Password"
+        },
+        {
+            "constant": "expDate",
+            "value": "经验。日期 (mm/yy)",
+            "label": "Exp. Date(MM/YY)"
+        },
+        {
+            "constant": "thankyouText",
+            "value": "谢谢你",
+            "label": "Thank You"
+        },
+        {
+            "constant": "registerRequestSentText",
+            "value": "您的要求已成功发送",
+            "label": "Your request has been sent succesfully"
+        },
+        {
+            "constant": "goToDashboard",
+            "value": "去仪表板",
+            "label": "Go To Dashboard"
+        },
+        {
+            "constant": "specialCharacterError",
+            "value": "不允许特殊字符",
+            "label": "Special characters not allowed"
+        },
+        {
+            "constant": "updateAddress",
+            "value": "更新地址",
+            "label": "Update Address"
+        },
+        {
+            "constant": "saveAddress",
+            "value": "保存地址",
+            "label": "Save Address"
+        },
+        {
+            "constant": "locationHeader",
+            "value": "搜索地址",
+            "label": "Search Address"
+        },
+        {
+            "constant": "exit",
+            "value": "出口",
+            "label": "Exit"
+        },
+        {
+            "constant": "ExitAppPermission",
+            "value": "您确定要退出应用程序吗？",
+            "label": "Are you sure you want to Exit App?"
+        },
+        {
+            "constant": "somethingWentWrong",
+            "value": "出问题了",
+            "label": "Something went wrong"
+        },
+        {
+            "constant": "accessLocationPermission",
+            "value": "需要访问位置",
+            "label": "Need to access Location"
+        },
+        {
+            "constant": "useCurrentLocation",
+            "value": "使用当前位置",
+            "label": "Use current Location"
+        },
+        {
+            "constant": "arrivingText",
+            "value": "到达",
+            "label": "ARRIVING"
+        },
+        {
+            "constant": "arrivingMinsText",
+            "value": "分钟",
+            "label": "mins"
+        },
+        {
+            "constant": "viewOrder",
+            "value": "查看订单",
+            "label": "View Order"
+        },
+        {
+            "constant": "restaurant",
+            "value": "小贩",
+            "label": "Vendor"
+        },
+        {
+            "constant": "quickLinksText",
+            "value": "快速链接",
+            "label": "Quick Links"
+        },
+        {
+            "constant": "editProfileText",
+            "value": "编辑个人资料",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "noCardAddedText",
+            "value": "没有添加卡",
+            "label": "No Card Added"
+        },
+        {
+            "constant": "liveStatusText",
+            "value": "现场状态",
+            "label": "Live Status"
+        },
+        {
+            "constant": "driverText",
+            "value": "司机",
+            "label": "Driver"
+        },
+        {
+            "constant": "setLocationText",
+            "value": "设置交货位置",
+            "label": "Set Delivery Location"
+        },
+        {
+            "constant": "setDefault",
+            "value": "设为默认",
+            "label": "Set As Default"
+        },
+        {
+            "constant": "enterStore",
+            "value": "类型商店",
+            "label": "Type Store"
+        },
+        {
+            "constant": "mobilePlaceholderText",
+            "value": "输入你的手机号码",
+            "label": "Enter your mobile number"
+        },
+        {
+            "constant": "phonePlaceholderText",
+            "value": "电话号码",
+            "label": "Phone Number"
+        },
+        {
+            "constant": "emailPlaceholderText",
+            "value": "e-mail",
+            "label": "Email"
+        },
+        {
+            "constant": "addressPlaceholderText",
+            "value": "地址",
+            "label": "Address"
+        },
+        {
+            "constant": "cardNumberPlaceholderText",
+            "value": "卡号",
+            "label": "Card Number"
+        },
+        {
+            "constant": "cvvPlaceholderText",
+            "value": "CVV",
+            "label": "CVV"
+        },
+        {
+            "constant": "cardNamePlaceholderText",
+            "value": "输入名字",
+            "label": "Enter Name"
+        },
+        {
+            "constant": "namePlaceholderText",
+            "value": "姓名",
+            "label": "Name"
+        },
+        {
+            "constant": "mobileNumberEmptyValid",
+            "value": "输入你的手机号码",
+            "label": "Enter your mobile number"
+        },
+        {
+            "constant": "emailEmptyValid",
+            "value": "电话号码",
+            "label": "Enter Your Email"
+        },
+        {
+            "constant": "emailValid",
+            "value": "地址",
+            "label": "This email is not valid"
+        },
+        {
+            "constant": "otpEmptyValid",
+            "value": "卡号",
+            "label": "Enter the 4-digit OTP"
+        },
+        {
+            "constant": "otpValid",
+            "value": "CVV",
+            "label": "Please enter a valid OTP"
+        },
+        {
+            "constant": "phoneNumberValid",
+            "value": "输入名字",
+            "label": "The mobile number must be longer"
+        },
+        {
+            "constant": "oldPasswordValid",
+            "value": "姓名",
+            "label": "Enter the old password"
+        },
+        {
+            "constant": "newPasswordValid",
+            "value": "输入你的电子邮箱",
+            "label": "Enter new password"
+        },
+        {
+            "constant": "confirmPasswordValid",
+            "value": "该电子邮件无效",
+            "label": "Enter confirm password"
+        },
+        {
+            "constant": "passwordMismatchValid",
+            "value": "输入4位OTP",
+            "label": "New and Confirm Password doesn't match"
+        },
+        {
+            "constant": "passwordEmptyValid",
+            "value": "请输入有效的OTP",
+            "label": "Enter your password"
+        },
+        {
+            "constant": "cardNoEmptyValid",
+            "value": "手机号必须更长",
+            "label": "Please enter card number"
+        },
+        {
+            "constant": "cardNoValid",
+            "value": "输入旧密码",
+            "label": "Please enter 16 digits card number"
+        },
+        {
+            "constant": "expDateEmptyValid",
+            "value": "输入新密码",
+            "label": "Please enter exp month and year"
+        },
+        {
+            "constant": "cvvEmptyValid",
+            "value": "输入确认密码",
+            "label": "Please enter cvv number"
+        },
+        {
+            "constant": "cvvValid",
+            "value": "新的和确认密码不匹配",
+            "label": "Please enter 3 digits cvv number"
+        },
+        {
+            "constant": "nameEmptyValid",
+            "value": "输入您的密码",
+            "label": "Enter Your Name"
+        },
+        {
+            "constant": "addressTypeEmptyValid",
+            "value": "请输入卡号",
+            "label": "Please Select Address Type"
+        },
+        {
+            "constant": "areaEmptyValid",
+            "value": "请输入16位数字卡号",
+            "label": "Please Enter Area"
+        },
+        {
+            "constant": "landMarkEmptyValid",
+            "value": "请输入EXP月份和年度",
+            "label": "Please Enter LandMark"
+        },
+        {
+            "constant": "houseNumberEmptyValid",
+            "value": "请输入CVV号码",
+            "label": "Please Enter House Number"
+        },
+        {
+            "constant": "passwordHeader",
+            "value": "密码",
+            "label": "Password"
+        },
+        {
+            "constant": "paymentHeader",
+            "value": "忘记密码",
+            "label": "My Payments"
+        },
+        {
+            "constant": "profileHeader",
+            "value": "确认密码",
+            "label": "Profile"
+        },
+        {
+            "constant": "changePasswordHeader",
+            "value": "更改密码",
+            "label": "Change Password"
+        },
+        {
+            "constant": "forgotPaswordHeader",
+            "value": "更改密码",
+            "label": "Change Password"
+        },
+        {
+            "constant": "addCardHeader",
+            "value": "经验。日期 (mm/yy)",
+            "label": "Add Card"
+        },
+        {
+            "constant": "editProfileHeader",
+            "value": "编辑个人资料",
+            "label": "Edit Profile"
+        },
+        {
+            "constant": "loginHeader",
+            "value": "没有添加卡",
+            "label": "Login"
+        },
+        {
+            "constant": "loginToContinueText",
+            "value": "现场状态",
+            "label": "Login To Continue"
+        },
+        {
+            "constant": "homeHeader",
+            "value": "司机",
+            "label": "Home"
+        },
+        {
+            "constant": "addAddressHeader",
+            "value": "设置交货位置",
+            "label": "Add Address"
+        },
+        {
+            "constant": "myAddressesHeader",
+            "value": "设为默认",
+            "label": "My Addresses"
+        },
+        {
+            "constant": "restaurantDetailsHeader",
+            "value": "类型商店",
+            "label": "Vendor Details"
+        },
+        {
+            "constant": "myCartHeader",
+            "value": "输入你的手机号码",
+            "label": "My Cart"
+        },
+        {
+            "constant": "orderDetailsHeader",
+            "value": "电话号码",
+            "label": "Order Details"
+        },
+        {
+            "constant": "foodDelieveryHeader",
+            "value": "地址",
+            "label": "Food Delivery"
+        },
+        {
+            "constant": "trackOrderHeader",
+            "value": "卡号",
+            "label": "Track Order"
+        },
+        {
+            "constant": "myOrderHeader",
+            "value": "CVV",
+            "label": "My Orders"
+        },
+        {
+            "constant": "verifyOtpHeader",
+            "value": "输入名字",
+            "label": "Verify OTP"
+        },
+        {
+            "constant": "groceryHeader",
+            "value": "姓名",
+            "label": "Grocery Delivery"
+        },
+        {
+            "constant": "updateAddressHeader",
+            "value": "更新地址",
+            "label": "Update Address"
+        },
+        {
+            "constant": "categoryListHeader",
+            "value": "保存地址",
+            "label": "Category List"
+        },
+        {
+            "constant": "medicineHeader",
+            "value": "搜索地址",
+            "label": "Medicine Delivery"
+        },
+        {
+            "constant": "walletHeader",
+            "value": "出口",
+            "label": "My Wallet"
+        },
+        {
+            "constant": "homeDrawer",
+            "value": "司机",
+            "label": "Home"
+        },
+        {
+            "constant": "profileDrawer",
+            "value": "确认密码",
+            "label": "Profile"
+        },
+        {
+            "constant": "loginDrawer",
+            "value": "没有添加卡",
+            "label": "Login"
+        },
+        {
+            "constant": "storeDrawer",
+            "value": "现场状态",
+            "label": "Store"
+        },
+        {
+            "constant": "myAddressesDrawer",
+            "value": "设为默认",
+            "label": "My Addresses"
+        },
+        {
+            "constant": "myOrdersDrawer",
+            "value": "CVV",
+            "label": "My Orders"
+        },
+        {
+            "constant": "paymentDrawer",
+            "value": "输入名字",
+            "label": "Payment Method"
+        },
+        {
+            "constant": "supportDrawer",
+            "value": "旧密码",
+            "label": "Help & Support"
+        },
+        {
+            "constant": "logoutDrawer",
+            "value": "新密码",
+            "label": "Logout"
+        },
+        {
+            "constant": "walletDrawer",
+            "value": "出口",
+            "label": "My Wallet"
+        },
+        {
+            "constant": "resetSuccessToast",
+            "value": "您确定要退出应用程序吗？",
+            "label": "Password has been reset successfully."
+        },
+        {
+            "constant": "addAddressSuccessToast",
+            "value": "出问题了",
+            "label": "Address has been saved successfully"
+        },
+        {
+            "constant": "updateAddressSuccessToast",
+            "value": "需要访问位置",
+            "label": "Address has been updated successfully"
+        },
+        {
+            "constant": "onTheWayStatus",
+            "value": "使用当前位置",
+            "label": "Your driver is on the way to pickup your order."
+        },
+        {
+            "constant": "restaurantWaitingStatus",
+            "value": "到达",
+            "label": "Vendor is waiting for you."
+        },
+        {
+            "constant": "orderPreparingStatus",
+            "value": "分钟",
+            "label": "Your order is being prepared."
+        },
+        {
+            "constant": "orderOnTheWayStatus",
+            "value": "查看订单",
+            "label": "Your order is on the way."
+        },
+        {
+            "constant": "waitingRestaurantAcceptanceStatus",
+            "value": "数量",
+            "label": "Waiting for Vendor to accept."
+        },
+        {
+            "constant": "storeLabel",
+            "value": "现场状态",
+            "label": "Store"
+        },
+        {
+            "constant": "mobileCountryPlaceholderText",
+            "value": "司机",
+            "label": "Country Code"
+        },
+        {
+            "constant": "bikeBrandPlaceholderText",
+            "value": "设置交货位置",
+            "label": "Bike Name"
+        },
+        {
+            "constant": "bikeNumberPlaceholderText",
+            "value": "设为默认",
+            "label": "Bike License Number"
+        },
+        {
+            "constant": "menu",
+            "value": "类型商店",
+            "label": "Menu"
+        },
+        {
+            "constant": "aboutus",
+            "value": "输入你的手机号码",
+            "label": "About Us"
+        },
+        {
+            "constant": "contactus",
+            "value": "电话号码",
+            "label": "Contact Us"
+        },
+        {
+            "constant": "careers",
+            "value": "地址",
+            "label": "Careers"
+        },
+        {
+            "constant": "privacy_policy",
+            "value": "卡号",
+            "label": "Privacy Policy"
+        },
+        {
+            "constant": "refund_policy",
+            "value": "CVV",
+            "label": "Refund Policy"
+        },
+        {
+            "constant": "signup",
+            "value": "输入名字",
+            "label": "Create an account"
+        },
+        {
+            "constant": "signupDesc",
+            "value": "姓名",
+            "label": "it's easy to login or create an account with"
+        },
+        {
+            "constant": "signupBtn",
+            "value": "输入名字",
+            "label": "Create an account"
+        },
+        {
+            "constant": "submitBtn",
+            "value": "姓名",
+            "label": "Submit"
+        },
+        {
+            "constant": "order",
+            "value": "订单",
+            "label": "Orders"
+        },
+        {
+            "constant": "track",
+            "value": "追踪",
+            "label": "Track"
+        },
+        {
+            "constant": "faqs",
+            "value": "常见问题解答",
+            "label": "FAQs"
+        },
+        {
+            "constant": "mobileapps",
+            "value": "移动应用程序",
+            "label": "Mobile Apps"
+        },
+        {
+            "constant": "quicklinks",
+            "value": "快速链接",
+            "label": "Quick Links"
+        },
+        {
+            "constant": "customerservice",
+            "value": "客户服务",
+            "label": "Customer Service"
+        },
+        {
+            "constant": "homeIntro",
+            "value": "您最喜欢的食物<br>送来了新鲜的食物",
+            "label": "Your Favourite Food<br>Delivered Hot and Fresh"
+        },
+        {
+            "constant": "homeIntroDesc",
+            "value": "您附近最好的地方",
+            "label": "The best places near you"
+        },
+        {
+            "constant": "homeAppIntro1",
+            "value": "下载",
+            "label": "Download the"
+        },
+        {
+            "constant": "homeAppIntro2",
+            "value": "App!",
+            "label": "App!"
+        },
+        {
+            "constant": "homeAppIntroDesc",
+            "value": "获取实时订单更新，实时聊天支持以及仅独家应用程序的优惠。",
+            "label": "Get real-time order updates, live chat support, and exclusive app-only offers."
+        },
+        {
+            "constant": "categories",
+            "value": "类别",
+            "label": "Categories"
+        },
+        {
+            "constant": "categoryDesc",
+            "value": "neque porro quisquam est qui dolorem ipsum quia dolor sit amet",
+            "label": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet"
+        },
+        {
+            "constant": "account",
+            "value": "我的帐户",
+            "label": "My Account"
+        },
+        {
+            "constant": "logout",
+            "value": "登出",
+            "label": "Logout"
+        },
+        {
+            "constant": "iAgree",
+            "value": "我同意公司的",
+            "label": "I agree to Company's"
+        },
+        {
+            "constant": "sendOtp",
+            "value": "发送一次密码",
+            "label": "Send One Time Password"
+        },
+        {
+            "constant": "notReciveCode",
+            "value": "未收到OTP ?",
+            "label": "Not received OTP ?"
+        },
+        {
+            "constant": "otpHeader",
+            "value": "OTP验证",
+            "label": "OTP Verification"
+        },
+        {
+            "constant": "verifyOtp",
+            "value": "验证OTP",
+            "label": "Verify OTP"
+        },
+        {
+            "constant": "isValidCountryCode",
+            "value": "请选择国家代码",
+            "label": "Please select country code"
+        },
+        {
+            "constant": "isValidMobile",
+            "value": "请输入有效的手机号码",
+            "label": "Please enter valid mobile number"
+        },
+        {
+            "constant": "isValidPassword",
+            "value": "密码必须至少包含一个数字和一个字母字符。",
+            "label": "Password must contain at least one numeric and one alphabetic character."
+        },
+        {
+            "constant": "notFound",
+            "value": "未找到 !",
+            "label": "Not Found !"
+        },
+        {
+            "constant": "uploadFailed",
+            "value": "无法上传，请重试。",
+            "label": "Unable to upload, Please try again."
+        },
+        {
+            "constant": "changeFile",
+            "value": "更改文件",
+            "label": "Change File"
+        },
+        {
+            "constant": "pleaseWait",
+            "value": "请稍等 ...",
+            "label": "Please Wait ..."
+        },
+        {
+            "constant": "orderPlaced",
+            "value": "订单成功地放置",
+            "label": "Order Placed Successfully"
+        },
+        {
+            "constant": "contactUsBtn",
+            "value": "发信息",
+            "label": "Send Message"
+        },
+        {
+            "constant": "contactUsfull_name",
+            "value": "全名",
+            "label": "Full Name"
+        },
+        {
+            "constant": "contactUsemail_address",
+            "value": "电子邮件地址",
+            "label": "E-Mail Address"
+        },
+        {
+            "constant": "contactUsmobile_number",
+            "value": "手机号码",
+            "label": "Mobile Number"
+        },
+        {
+            "constant": "contactUsmessage",
+            "value": "你的信息",
+            "label": "Your Message"
+        },
+        {
+            "constant": "contactUsrequired",
+            "value": "请输入",
+            "label": "Please enter"
+        },
+        {
+            "constant": "contactUsvalid",
+            "value": "请输入有效",
+            "label": "Please enter valid"
+        },
+        {
+            "constant": "contactUslength",
+            "value": "您的{field}必须至少由{digits}字符组成",
+            "label": "Your {field} must consist of at least {digits} character"
+        },
+        {
+            "constant": "productLising",
+            "value": "显示清单",
+            "label": "Showing Listing"
+        },
+        {
+            "constant": "filters",
+            "value": "过滤器",
+            "label": "Filters"
+        },
+        {
+            "constant": "sortBy",
+            "value": "排序方式",
+            "label": "Sort by"
+        },
+        {
+            "constant": "relevance",
+            "value": "关联",
+            "label": "Relevance"
+        },
+        {
+            "constant": "rating",
+            "value": "评分",
+            "label": "Rating"
+        },
+        {
+            "constant": "time",
+            "value": "时间",
+            "label": "Time"
+        },
+        {
+            "constant": "lowPrice",
+            "value": "低成本到高成本",
+            "label": "Low to High Cost"
+        },
+        {
+            "constant": "highPrice",
+            "value": "高成本至低成本",
+            "label": "High to Low Cost"
+        },
+        {
+            "constant": "resetAll",
+            "value": "重置全部",
+            "label": "Reset All"
+        },
+        {
+            "constant": "cuisines",
+            "value": "美食",
+            "label": "Cuisines"
+        },
+        {
+            "constant": "nearBy",
+            "value": "附近",
+            "label": "Near By"
+        },
+        {
+            "constant": "reviewLabel",
+            "value": "评论",
+            "label": "Reviews"
+        },
+        {
+            "constant": "addLabel",
+            "value": "添加 +",
+            "label": "Add +"
+        },
+        {
+            "constant": "removeLabel",
+            "value": "消除",
+            "label": "Remove"
+        },
+        {
+            "constant": "addNewLabel",
+            "value": "添新",
+            "label": "Add New"
+        },
+        {
+            "constant": "addOnLabel",
+            "value": "添加在",
+            "label": "Addon"
+        },
+        {
+            "constant": "applyCouponlabel",
+            "value": "应用优惠券",
+            "label": "Apply Coupon"
+        },
+        {
+            "constant": "repeatLastLabel",
+            "value": "最后重复",
+            "label": "Repeat Last"
+        },
+        {
+            "constant": "removeItemsLabel",
+            "value": "删除项目",
+            "label": "Remove Items"
+        },
+        {
+            "constant": "cartItemText",
+            "value": "项目",
+            "label": "Items"
+        },
+        {
+            "constant": "availableOffers",
+            "value": "可用优惠",
+            "label": "Available Offers"
+        },
+        {
+            "constant": "applyOffers",
+            "value": "申请",
+            "label": "Apply"
+        },
+        {
+            "constant": "tipLabel",
+            "value": "选择提示",
+            "label": "Select Tip"
+        },
+        {
+            "constant": "deliveryAddressLabelDesc",
+            "value": "登录以选择地址",
+            "label": "Login to choose address"
+        },
+        {
+            "constant": "paymentLabel",
+            "value": "付款方式",
+            "label": "Payment Method"
+        },
+        {
+            "constant": "paymentLabelDesc",
+            "value": "登录并选择输送地址以选择付款方式",
+            "label": "Login and select delivery address to select payment methods"
+        },
+        {
+            "constant": "changeLabel",
+            "value": "改变",
+            "label": "Change"
+        },
+        {
+            "constant": "cancelLabel",
+            "value": "取消",
+            "label": "Cancel"
+        },
+        {
+            "constant": "orderWatingMsg",
+            "value": "等待接受...",
+            "label": "Waiting for Acceptance..."
+        },
+        {
+            "constant": "orderStatusLabel",
+            "value": "订单状态",
+            "label": "Order Status"
+        },
+        {
+            "constant": "acceptLabel",
+            "value": "公认",
+            "label": "Accepted"
+        },
+        {
+            "constant": "confirmedLabel",
+            "value": "确认的",
+            "label": "Confirmed"
+        },
+        {
+            "constant": "onWayLabel",
+            "value": "在途中",
+            "label": "On the way"
+        },
+        {
+            "constant": "cancelledLabel",
+            "value": "取消",
+            "label": "Cancelled"
+        },
+        {
+            "constant": "deliveredLabel",
+            "value": "发表",
+            "label": "Delivered"
+        },
+        {
+            "constant": "call",
+            "value": "称呼",
+            "label": "Call"
+        },
+        {
+            "constant": "orderNumberLabel",
+            "value": "订单号",
+            "label": "Order Number"
+        },
+        {
+            "constant": "paymentModeLabel",
+            "value": "支付",
+            "label": "Payment"
+        },
+        {
+            "constant": "orderDateLabel",
+            "value": "订购日期",
+            "label": "Order Date"
+        },
+        {
+            "constant": "orderPhoneLabel",
+            "value": "电话号码",
+            "label": "Phone Number"
+        },
+        {
+            "constant": "orderAddressLabel",
+            "value": "送到了（送去了",
+            "label": "Delivered to"
+        },
+        {
+            "constant": "detailsText",
+            "value": "细节",
+            "label": "DETAILS"
+        },
+        {
+            "constant": "preOrderitemText",
+            "value": "物品",
+            "label": "Item"
+        },
+        {
+            "constant": "preOrderitemsText",
+            "value": "项目",
+            "label": "Items"
+        },
+        {
+            "constant": "quickFilter",
+            "value": "可用优惠",
+            "label": "Quick Filter"
+        },
+        {
+            "constant": "categoryLabel",
+            "value": "申请",
+            "label": "Category"
+        },
+        {
+            "constant": "availableOptionsLabel",
+            "value": "选择提示",
+            "label": "Available Options"
+        },
+        {
+            "constant": "pleaseSelectLabel",
+            "value": "登录以选择地址",
+            "label": "Please Select"
+        },
+        {
+            "constant": "viewAll",
+            "value": "付款方式",
+            "label": "View All"
+        },
+        {
+            "constant": "outofStockLabel",
+            "value": "登录并选择输送地址以选择付款方式",
+            "label": "Currently this selection is out of stock, Please try other's."
+        },
+        {
+            "constant": "selectVariationLabel",
+            "value": "改变",
+            "label": "Please product variation first."
+        },
+        {
+            "constant": "addtoCartSuccess",
+            "value": "取消",
+            "label": "Added Successfully"
+        },
+        {
+            "constant": "driverRegistr",
+            "value": "等待接受...",
+            "label": "Driver Registration"
+        },
+        {
+            "constant": "venderRegistr",
+            "value": "订单状态",
+            "label": "Vendor Registration"
+        },
+        {
+            "constant": "errorCartEmpty",
+            "value": "公认",
+            "label": "Your cart is empty"
+        },
+        {
+            "constant": "continueShoppingBtn",
+            "value": "确认的",
+            "label": "Click here to continue order"
+        },
+        {
+            "constant": "addressHomeTypeLabel",
+            "value": "取消",
+            "label": "Home"
+        },
+        {
+            "constant": "addressOfficeTypeLabel",
+            "value": "发表",
+            "label": "Office"
+        },
+        {
+            "constant": "addressOtherTypeLabel",
+            "value": "称呼",
+            "label": "Other"
+        },
+        {
+            "constant": "venderTypeLabel",
+            "value": "订单号",
+            "label": "Vendor Type"
+        },
+        {
+            "constant": "variationLabel",
+            "value": "支付",
+            "label": "Variations"
+        },
+        {
+            "constant": "cartTotalPaidLabel",
+            "value": "订购日期",
+            "label": "Total Paid"
+        },
+        {
+            "constant": "dateTimeLabel",
+            "value": "电话号码",
+            "label": "Date, Time"
+        },
+        {
+            "constant": "prepareLabel",
+            "value": "送到了（送去了",
+            "label": "Your order is preparing."
+        },
+        {
+            "constant": "preparedLabel",
+            "value": "细节",
+            "label": "Order is Ready"
+        },
+        {
+            "constant": "loadMoreLabel",
+            "value": "物品",
+            "label": "Load More"
+        },
+        {
+            "constant": "webPreviewMode",
+            "value": "快速过滤器",
+            "label": "Currently website is in preview mode, Please update settings to make it live."
+        },
+        {
+            "constant": "noPaymentsLabel",
+            "value": "类别",
+            "label": "No Payment Methods Added Yet!"
+        },
+        {
+            "constant": "deleteLabel",
+            "value": "可用选项",
+            "label": "Delete"
+        },
+        {
+            "constant": "sureLabel",
+            "value": "请选择",
+            "label": "Are you sure?"
+        },
+        {
+            "constant": "sureLabelText",
+            "value": "查看全部",
+            "label": "You won't be able to revert this!"
+        },
+        {
+            "constant": "walletValidLabel",
+            "value": "目前，此选择缺货，请尝试其他选择。",
+            "label": "Please Add Amount"
+        },
+        {
+            "constant": "amountAddLabel",
+            "value": "请先产品变化。",
+            "label": "Amount to Add"
+        },
+        {
+            "constant": "addMoneyLabel",
+            "value": "成功添加",
+            "label": "Add Money"
+        },
+        {
+            "constant": "walletLabel",
+            "value": "驾驶员注册",
+            "label": "My Wallet"
+        },
+        {
+            "constant": "loyaltyDrawer",
+            "value": "供应商注册",
+            "label": "Loyalty Points"
+        },
+        {
+            "constant": "loyaltyHeader",
+            "value": "供应商注册",
+            "label": "Loyalty Points"
+        },
+        {
+            "constant": "totalText",
+            "value": "您的购物车是空的",
+            "label": "Total"
+        },
+        {
+            "constant": "currentPointsText",
+            "value": "单击此处继续订购",
+            "label": "Current Points"
+        },
+        {
+            "constant": "maxRedeemLabel",
+            "value": "反馈",
+            "label": "Maximum Loyalty Points you can redeem"
+        },
+        {
+            "constant": "redeemLabel",
+            "value": "家",
+            "label": "Redeem"
+        },
+        {
+            "constant": "loyaltyAmountLabel",
+            "value": "办公室",
+            "label": "Loyalty Redeemed"
+        },
+        {
+            "constant": "loyaltyPointsBalance",
+            "value": "其他",
+            "label": "Points Balance"
+        },
+        {
+            "constant": "loyaltyPointsPlaceholder",
+            "value": "类型",
+            "label": "Enter Points To Redeem"
+        },
+        {
+            "constant": "totalBalanceText",
+            "value": "变化",
+            "label": "Total Balance"
+        },
+        {
+            "constant": "amountValid",
+            "value": "总支付",
+            "label": "Please Add Some Amount First"
+        },
+        {
+            "constant": "paypalLabel",
+            "value": "约会时间",
+            "label": "Paypal"
+        },
+        {
+            "constant": "orangeMoneyLabel",
+            "value": "您的订单正在准备。",
+            "label": "Orange Money"
+        },
+        {
+            "constant": "stripeLabel",
+            "value": "订单准备就绪",
+            "label": "Card"
+        },
+        {
+            "constant": "codLabel",
+            "value": "装载更多",
+            "label": "Cash on Delivery"
+        },
+        {
+            "constant": "phoneNumberEmptyValid",
+            "value": "当前网站处于预览模式，请更新设置以使其实时。",
+            "label": "Please Provide MobileNumber"
+        },
+        {
+            "constant": "notLinkedText",
+            "value": "尚未添加付款方式！",
+            "label": "Not Linked"
+        },
+        {
+            "constant": "paypalHeader",
+            "value": "删除",
+            "label": "Paypal Link"
+        },
+        {
+            "constant": "chooseFromCategory",
+            "value": "你确定吗？",
+            "label": "Choose from various categories"
+        },
+        {
+            "constant": "filterHeader",
+            "value": "您将无法恢复此问题！",
+            "label": "Filter"
+        },
+        {
+            "constant": "sortByText",
+            "value": "请添加金额",
+            "label": "Sort By"
+        },
+        {
+            "constant": "deliveryTypeText",
+            "value": "添加的数量",
+            "label": "Delivery Type"
+        },
+        {
+            "constant": "quickFilterText",
+            "value": "可用优惠",
+            "label": "Quick Filter"
+        },
+        {
+            "constant": "applyText",
+            "value": "申请",
+            "label": "Apply"
+        },
+        {
+            "constant": "searchHeader",
+            "value": "选择提示",
+            "label": "Search"
+        },
+        {
+            "constant": "typeText",
+            "value": "订单号",
+            "label": "Type"
+        },
+        {
+            "constant": "trackOrderText",
+            "value": "支付",
+            "label": "Track Order"
+        },
+        {
+            "constant": "viewOrderText",
+            "value": "订购日期",
+            "label": "View Order"
+        },
+        {
+            "constant": "viewProfileText",
+            "value": "电话号码",
+            "label": "View Profile"
+        },
+        {
+            "constant": "noAddressAvailableText",
+            "value": "送到了（送去了",
+            "label": "No Addresses Available"
+        },
+        {
+            "constant": "noProductsAvailableText",
+            "value": "细节",
+            "label": "No Products Available"
+        },
+        {
+            "constant": "noOrdersText",
+            "value": "物品",
+            "label": "No Orders"
+        },
+        {
+            "constant": "deliveredByText",
+            "value": "快速过滤器",
+            "label": "Delivered By"
+        },
+        {
+            "constant": "deliveredToText",
+            "value": "类别",
+            "label": "Delivered To"
+        },
+        {
+            "constant": "dateAndTimeText",
+            "value": "可用选项",
+            "label": "Date & Time"
+        },
+        {
+            "constant": "feedbackText",
+            "value": "在途中",
+            "label": "Feedback"
+        },
+        {
+            "constant": "describeExperienceText",
+            "value": "取消",
+            "label": "Describe your experience"
+        },
+        {
+            "constant": "pleaseReviewValid",
+            "value": "发表",
+            "label": "Please Provide Review"
+        },
+        {
+            "constant": "pleaseRateText",
+            "value": "称呼",
+            "label": "Please Rate First"
+        },
+        {
+            "constant": "thankYouOrderText",
+            "value": "订单号",
+            "label": "Thank you for your order"
+        },
+        {
+            "constant": "menuHeader",
+            "value": "支付",
+            "label": "Menu"
+        },
+        {
+            "constant": "areYouSureYouWantToPay",
+            "value": "订购日期",
+            "label": "Are you sure you want to Pay with selected Card?"
+        },
+        {
+            "constant": "restaurantCatListingHeader",
+            "value": "电话号码",
+            "label": "Category List"
+        },
+        {
+            "constant": "minutesText",
+            "value": "送到了（送去了",
+            "label": "minutes"
+        },
+        {
+            "constant": "exploreMenuText",
+            "value": "细节",
+            "label": "Explore Menu"
+        },
+        {
+            "constant": "svOrderButton",
+            "value": "物品",
+            "label": "Order Online"
+        },
+        {
+            "constant": "isAgreeText",
+            "value": "快速过滤器",
+            "label": "I agree to the"
+        },
+        {
+            "constant": "pleaseAcceptTerms",
+            "value": "类别",
+            "label": "Please Acccept Terms & Conditions"
+        },
+        {
+            "constant": "terms_condition",
+            "value": "可用选项",
+            "label": "Terms & Condition"
+        },
+        {
+            "constant": "choosePaymentHeader",
+            "value": "请选择",
+            "label": "Choose Payment"
+        },
+        {
+            "constant": "paymentMethodHeader",
+            "value": "查看全部",
+            "label": "My Payments Methods"
+        },
+        {
+            "constant": "exploreFeatureProduct",
+            "value": "目前，此选择缺货，请尝试其他选择。",
+            "label": "Featured Products"
+        },
+        {
+            "constant": "bestSellerText",
+            "value": "请先产品变化。",
+            "label": "Best Sellers"
+        },
+        {
+            "constant": "enterDestinationText",
+            "value": "成功添加",
+            "label": "Enter Destination?"
+        },
+        {
+            "constant": "enterPickupText",
+            "value": "驾驶员注册",
+            "label": "Enter Pickup?"
+        },
+        {
+            "constant": "selectAddressHeader",
+            "value": "供应商注册",
+            "label": "Select Address"
+        },
+        {
+            "constant": "setLocationOnMapText",
+            "value": "您的购物车是空的",
+            "label": "Set Location on Map"
+        },
+        {
+            "constant": "savedAddressText",
+            "value": "单击此处继续订购",
+            "label": "Saved Address"
+        },
+        {
+            "constant": "noCategoriesText",
+            "value": "反馈",
+            "label": "No Categories"
+        },
+        {
+            "constant": "rideOptionsText",
+            "value": "家",
+            "label": "Ride Options"
+        },
+        {
+            "constant": "noPaymentMethodSelectedText",
+            "value": "办公室",
+            "label": "No Payment Method Selected"
+        },
+        {
+            "constant": "promoCodeText",
+            "value": "其他",
+            "label": "Promo Code"
+        },
+        {
+            "constant": "loyaltyPointsText",
+            "value": "供应商注册",
+            "label": "Loyalty Points"
+        },
+        {
+            "constant": "confirmText",
+            "value": "您的购物车是空的",
+            "label": "Confirm"
+        },
+        {
+            "constant": "scheduleText",
+            "value": "单击此处继续订购",
+            "label": "Schedule"
+        },
+        {
+            "constant": "linkText",
+            "value": "反馈",
+            "label": "Link"
+        },
+        {
+            "constant": "closedText",
+            "value": "家",
+            "label": "Closed"
+        },
+        {
+            "constant": "internetConnectivityText",
+            "value": "办公室",
+            "label": "Please check your internet connectivity."
+        },
+        {
+            "constant": "versionText",
+            "value": "其他",
+            "label": "Version"
+        },
+        {
+            "constant": "venderTypeLabel",
+            "value": "订单号",
+            "label": "Vendor Type"
+        },
+        {
+            "constant": "venderEmailLabel",
+            "value": "类型",
+            "label": "Vendor Email"
+        },
+        {
+            "constant": "venderCountryLabel",
+            "value": "变化",
+            "label": "Vendor Country"
+        },
+        {
+            "constant": "venderMobileLabel",
+            "value": "手机号码",
+            "label": "Vendor Mobile"
+        },
+        {
+            "constant": "venderPasswordLabel",
+            "value": "你的信息",
+            "label": "Vendor Password"
+        },
+        {
+            "constant": "venderAddressLabel",
+            "value": "请输入",
+            "label": "Vendor Address"
+        },
+        {
+            "constant": "driverNameLabel",
+            "value": "请输入有效",
+            "label": "Driver Name"
+        },
+        {
+            "constant": "driverEmailLabel",
+            "value": "类型",
+            "label": "Driver Email"
+        },
+        {
+            "constant": "driverCountryLabel",
+            "value": "变化",
+            "label": "Driver Country"
+        },
+        {
+            "constant": "driverMobileLabel",
+            "value": "手机号码",
+            "label": "Driver Mobile"
+        },
+        {
+            "constant": "driverPasswordLabel",
+            "value": "你的信息",
+            "label": "Driver Password"
+        },
+        {
+            "constant": "driverAddressLabel",
+            "value": "请输入",
+            "label": "Driver Address"
+        },
+        {
+            "constant": "driverFormLabel",
+            "value": "请输入有效",
+            "label": "Driver From"
+        },
+        {
+            "constant": "checkoutHeading",
+            "value": "您的{field}必须至少由{digits}字符组成",
+            "label": "Secure Checkout"
+        },
+        {
+            "constant": "checkoutSummary",
+            "value": "显示清单",
+            "label": "Summary"
+        },
+        {
+            "constant": "closeLabel",
+            "value": "过滤器",
+            "label": "Close"
+        },
+        {
+            "constant": "carDetailsText",
+            "value": "排序方式",
+            "label": "Car Details"
+        },
+        {
+            "constant": "contactsText",
+            "value": "关联",
+            "label": "Contacts"
+        },
+        {
+            "constant": "noEmergencyContactsText",
+            "value": "没有紧急联系",
+            "label": "No Emergency Contacts"
+        },
+        {
+            "constant": "emergencyDrawer",
+            "value": "紧急联系人",
+            "label": "Emergency Contacts"
+        },
+        {
+            "constant": "noPreferredDriverAvailableText",
+            "value": "没有首选的驱动程序",
+            "label": "No Preferred Driver"
+        },
+        {
+            "constant": "bookNowText",
+            "value": "现在预订",
+            "label": "Book Now"
+        },
+        {
+            "constant": "preferredDriversHeader",
+            "value": "首选驱动程序",
+            "label": "Preferred Drivers"
+        },
+        {
+            "constant": "preferredDriverDrawer",
+            "value": "首选驱动程序",
+            "label": "Preferred Drivers"
+        },
+        {
+            "constant": "okText",
+            "value": "好的",
+            "label": "Ok"
+        },
+        {
+            "constant": "logoutPermission",
+            "value": "您确定要注销吗？",
+            "label": "Are you sure you want to logout?"
+        },
+        {
+            "constant": "logoutText",
+            "value": "登出",
+            "label": "Logout"
+        },
+        {
+            "constant": "alertText",
+            "value": "警报",
+            "label": "Alert"
+        },
+        {
+            "constant": "locationPermissionDenied",
+            "value": "位置许可拒绝",
+            "label": "Location permission denied"
+        },
+        {
+            "constant": "addPrefDriverPermission",
+            "value": "您确定要添加此驱动程序吗？",
+            "label": "Are you sure you want to Add this Driver?"
+        },
+        {
+            "constant": "sendSOSPermission",
+            "value": "您确定要发送SOS吗?",
+            "label": "Are you sure you want to send SOS?"
+        },
+        {
+            "constant": "cancelOrderPermission",
+            "value": "你确定要取消订单？",
+            "label": "Are you sure you want to cancel Order?"
+        },
+        {
+            "constant": "vehicleTypeText",
+            "value": "服务类型",
+            "label": "Service Type"
+        },
+        {
+            "constant": "dateOfRideText",
+            "value": "骑行日期",
+            "label": "Date Of Ride"
+        },
+        {
+            "constant": "rideIdText",
+            "value": "乘坐ID",
+            "label": "Ride Id"
+        },
+        {
+            "constant": "statusText",
+            "value": "地位",
+            "label": "Status"
+        },
+        {
+            "constant": "pointsText",
+            "value": "点",
+            "label": "Points"
+        },
+        {
+            "constant": "picupTime",
+            "value": "接送时间",
+            "label": "Pickup Time"
+        },
+        {
+            "constant": "Cancel Schedule",
+            "value": "取消时间表",
+            "label": "Cancel Schedule"
+        },
+        {
+            "constant": "otpText",
+            "value": "OTP",
+            "label": "OTP"
+        },
+        {
+            "constant": "sosText",
+            "value": "SOS",
+            "label": "SOS"
+        },
+        {
+            "constant": "addDriverToPrefferedListText",
+            "value": "将驱动程序添加到您的预先列表中？",
+            "label": "Add driver to your preffered list?"
+        },
+        {
+            "constant": "scheduleTimeValid",
+            "value": "请输入时间表时间",
+            "label": "Please Enter Schedule Time"
+        },
+        {
+            "constant": "scheduleDateValid",
+            "value": "请输入时间表日期",
+            "label": "Please Enter Schedule Date"
+        },
+        {
+            "constant": "selectCarTypeValid",
+            "value": "请先选择汽车类型",
+            "label": "Please Select Car Type First"
+        },
+        {
+            "constant": "onItsWayToYouText",
+            "value": "在去你的路上",
+            "label": "On its way to you"
+        },
+        {
+            "constant": "powererd_By",
+            "value": "驱动器",
+            "label": "Powererd by"
+        },
+        {
+            "constant": "onTripText",
+            "value": "旅行",
+            "label": "On Trip"
+        },
+        {
+            "constant": "baseFareText",
+            "value": "基本票价",
+            "label": "Base Fare"
+        },
+        {
+            "constant": "perMilesText",
+            "value": "每英里",
+            "label": "Per Miles"
+        },
+        {
+            "constant": "perMinuteText",
+            "value": "每分钟",
+            "label": "Per Minutes"
+        },
+        {
+            "constant": "pointsBalanceText",
+            "value": "积分平衡",
+            "label": "Points Balance"
+        },
+        {
+            "constant": "enterPointsToRedeem",
+            "value": "输入兑换点",
+            "label": "Enter Points to Redeem"
+        },
+        {
+            "constant": "redeemText",
+            "value": "赎回",
+            "label": "Redeem"
+        },
+        {
+            "constant": "cancelRidePermission",
+            "value": "您确定要取消骑车吗？",
+            "label": "Are you sure you want to cancel Ride?"
+        },
+        {
+            "constant": "bookingDetailsHeader",
+            "value": "预订细节",
+            "label": "Booking Details"
+        },
+        {
+            "constant": "addNewLabel",
+            "value": "添新",
+            "label": "Add New"
+        },
+        {
+            "constant": "noText",
+            "value": "不",
+            "label": "No"
+        },
+        {
+            "constant": "yesText",
+            "value": "是的",
+            "label": "Yes"
+        },
+        {
+            "constant": "enterPointsValid",
+            "value": "请输入点",
+            "label": "Please Enter Points"
+        },
+        {
+            "constant": "selectCarTypeFirstValid",
+            "value": "请先选择车辆类型",
+            "label": "Please Select Vehicle Type First"
+        },
+        {
+            "constant": "enterPointsLessValid",
+            "value": "点必须小于或等于",
+            "label": "Points must be less than or equal to"
+        },
+        {
+            "constant": "notEligibleForRedeemPoints",
+            "value": "您没有资格赎回此票价",
+            "label": "You are not eligible to redeem points for this Fare"
+        },
+        {
+            "constant": "noWalletBalanceValid",
+            "value": "请在钱包里加钱",
+            "label": "Please Add Money in Wallet"
+        },
+        {
+            "constant": "removePrefDriverPermission",
+            "value": "您确定要删除此首选驱动程序吗？",
+            "label": "Are you sure you want to remove this preferred driver?"
+        },
+        {
+            "constant": "selectAddressText",
+            "value": "选择地址",
+            "label": "Select Address"
+        },
+        {
+            "constant": "validMobileNumberValid",
+            "value": "输入有效的手机号码",
+            "label": "Enter valid mobile number"
+        },
+        {
+            "constant": "sufficientLoyaltyPointsValid",
+            "value": "您没有足够的忠诚度",
+            "label": "You don't have sufficient Loyalty Points"
+        },
+        {
+            "constant": "deliveryTypeHeader",
+            "value": "送货类型",
+            "label": "Delivery Type"
+        },
+        {
+            "constant": "noDeliveryTypesText",
+            "value": "没有交货类型",
+            "label": "No Delivery Types"
+        },
+        {
+            "constant": "publishableKeyValid",
+            "value": "要求管理员提供有效的条纹可发布密钥",
+            "label": "Ask Admin to provide valid stripe Publishable Key"
+        },
+        {
+            "constant": "confirmPasswordMismatchValid",
+            "value": "密码和确认密码不匹配",
+            "label": "Password and Confirm Password is mismatched"
+        },
+        {
+            "constant": "Dispute",
+            "value": "争议",
+            "label": "Dispute"
+        },
+        {
+            "constant": "Send",
+            "value": "发送",
+            "label": "Send"
+        },
+        {
+            "constant": "Reason",
+            "value": "原因",
+            "label": "Reason"
+        },
+        {
+            "constant": "Message",
+            "value": "信息",
+            "label": "Message"
+        },
+        {
+            "constant": "disputeFor",
+            "value": "争议",
+            "label": "Dispute For"
+        },
+        {
+            "constant": "reasonForDisputeText",
+            "value": "争议的原因",
+            "label": "Reason For Dispute"
+        },
+        {
+            "constant": "disputedDateAndTimeText",
+            "value": "有争议的日期/时间：",
+            "label": "Disputed Date/Time:"
+        },
+        {
+            "constant": "statusText",
+            "value": "地位",
+            "label": "Status"
+        },
+        {
+            "constant": "replyText",
+            "value": "Reply:",
+            "label": "Reply:"
+        },
+        {
+            "constant": "typeSomethingText",
+            "value": "输入一些东西",
+            "label": "Type Something"
+        },
+        {
+            "constant": "editText",
+            "value": "编辑",
+            "label": "Edit"
+        },
+        {
+            "constant": "deleteText",
+            "value": "删除",
+            "label": "Delete"
+        },
+        {
+            "constant": "disputeForValid",
+            "value": "请选择会员",
+            "label": "Please Select member"
+        },
+        {
+            "constant": "desputeReasonValid",
+            "value": "请输入争议的理由",
+            "label": "Please Enter Reason for Dispute"
+        },
+        {
+            "constant": "desputeDescriptionValid",
+            "value": "请输入说明争议",
+            "label": "Please Enter Description for Dispute"
+        },
+        {
+            "constant": "noMessagesText",
+            "value": "没有消息",
+            "label": "No Messages"
+        },
+        {
+            "constant": "noDataText",
+            "value": "没有数据",
+            "label": "No Data"
+        },
+        {
+            "constant": "somethingWentWrong",
+            "value": "出问题了",
+            "label": "Something Went Wrong"
+        },
+        {
+            "constant": "selectPhotosText",
+            "value": "选择照片",
+            "label": "Select Photos"
+        },
+        {
+            "constant": "takePhotoText",
+            "value": "拍照",
+            "label": "Take Photo"
+        },
+        {
+            "constant": "chooseLibraryText",
+            "value": "选择库",
+            "label": "Choose Library"
+        },
+        {
+            "constant": "attachmentText",
+            "value": "附件",
+            "label": "Attachments"
+        },
+        {
+            "constant": "noAttachmentText",
+            "value": "没有附件",
+            "label": "No Attachment"
+        },
+        {
+            "constant": "removeReplyPermission",
+            "value": "您确定要删除此消息吗",
+            "label": "Are you sure you want to remove this message"
+        },
+        {
+            "constant": "minText",
+            "value": "分钟",
+            "label": "mins"
+        },
+        {
+            "constant": "itemDetailsText",
+            "value": "项目详细信息",
+            "label": "Item Details"
+        },
+        {
+            "constant": "addDropOffDetailsText",
+            "value": "添加删除详细信息",
+            "label": "Add Drop Details"
+        },
+        {
+            "constant": "addItemDetailsText",
+            "value": "添加项目详细信息",
+            "label": "Add Item Details"
+        },
+        {
+            "constant": "editItemDetailsText",
+            "value": "编辑项目详细信息",
+            "label": "Edit Item Details"
+        },
+        {
+            "constant": "optionalText",
+            "value": "可选的",
+            "label": "Optional"
+        },
+        {
+            "constant": "quantityPlaceholderText",
+            "value": "数量",
+            "label": "Quantity"
+        },
+        {
+            "constant": "doneText",
+            "value": "完毕",
+            "label": "Done"
+        },
+        {
+            "constant": "noFieldsText",
+            "value": "没有字段",
+            "label": "No Fields"
+        },
+        {
+            "constant": "addItemsText",
+            "value": "添加项目",
+            "label": "Add Items"
+        },
+        {
+            "constant": "completeFieldsValid",
+            "value": "请填写所有项目详细信息",
+            "label": "Please Fill All Fields of Item Details"
+        },
+        {
+            "constant": "nameText",
+            "value": "姓名",
+            "label": "Name"
+        },
+        {
+            "constant": "instructionsText",
+            "value": "指示",
+            "label": "Instructions"
+        },
+        {
+            "constant": "quantityText",
+            "value": "数量",
+            "label": "Quantity"
+        },
+        {
+            "constant": "mobileLengthValid",
+            "value": "完毕",
+            "label": "Please Enter Valid Number"
+        },
+        {
+            "constant": "arrivedHeader",
+            "value": "没有字段",
+            "label": "Arrived"
+        },
+        {
+            "constant": "foundNoRidersText",
+            "value": "添加项目",
+            "label": "Finding Riders"
+        },
+        {
+            "constant": "iAmLookingForText",
+            "value": "请填写所有项目详细信息",
+            "label": "I'm looking for a "
+        },
+        {
+            "constant": "chooseVariousCategoriesText",
+            "value": "姓名",
+            "label": "Choose From Various Categories"
+        },
+        {
+            "constant": "noSubCategoriesText",
+            "value": "指示",
+            "label": "No Sub Categories"
+        },
+        {
+            "constant": "addOnsText",
+            "value": "请输入有效号码",
+            "label": "Add ons"
+        },
+        {
+            "constant": "addText",
+            "value": "到达的",
+            "label": "Add"
+        },
+        {
+            "constant": "welocomeText",
+            "value": "寻找车手",
+            "label": "Welcome to"
+        },
+        {
+            "constant": "loginCancelledByUser",
+            "value": "我正在寻找",
+            "label": "Login cancelled by User"
+        },
+        {
+            "constant": "loginFailWithError",
+            "value": "从各个类别中进行选择",
+            "label": "Login fail with error"
+        },
+        {
+            "constant": "registerHeader",
+            "value": "没有子类别",
+            "label": "Register"
+        },
+        {
+            "constant": "deletePermission",
+            "value": "添加ons",
+            "label": "Are you sure you want to Delete?"
+        },
+        {
+            "constant": "addressEmptyValid",
+            "value": "添加",
+            "label": "Please Enter Address"
+        },
+        {
+            "constant": "pickupDetailsNameValid",
+            "value": "欢迎来到",
+            "label": "Please Enter Name at Pickup"
+        },
+        {
+            "constant": "pickupMobileNumberValid",
+            "value": "用户取消登录",
+            "label": "Please Enter Mobile Number at Pickup"
+        },
+        {
+            "constant": "pickupBuildingNumberValid",
+            "value": "登录失败与错误",
+            "label": "Please Enter Pickup Building Number"
+        },
+        {
+            "constant": "dropOffDetailsNameValid",
+            "value": "登记",
+            "label": "Please Enter Name at Dropoff"
+        },
+        {
+            "constant": "dropoffMobileNumberValid",
+            "value": "你确定你要删除？",
+            "label": "Please Enter Mobile Number at dropoff"
+        },
+        {
+            "constant": "dropoffBuildingNumberValid",
+            "value": "请输入地址",
+            "label": "Please Enter dropoff Building Number"
+        },
+        {
+            "constant": "paymentText",
+            "value": "请在拾音器上输入名称",
+            "label": "Payment"
+        },
+        {
+            "constant": "promotionsHeader",
+            "value": "请在接送处输入手机号码",
+            "label": "Promotions"
+        },
+        {
+            "constant": "noPromotionsText",
+            "value": "请输入接送建筑号码",
+            "label": "No Promotions"
+        },
+        {
+            "constant": "maxLoyaltyPointsUsedText",
+            "value": "请在Dropoff中输入名称",
+            "label": "Maximum Loyalty Points you can redeem"
+        },
+        {
+            "constant": "cancelScheduleText",
+            "value": "取消时间表",
+            "label": "Cancel Schedule"
+        },
+        {
+            "constant": "pendingOrderStatus",
+            "value": "OTP",
+            "label": "Pending"
+        },
+        {
+            "constant": "confirmOrderStatus",
+            "value": "SOS",
+            "label": "Confirmed"
+        },
+        {
+            "constant": "cancelledOrderStatus",
+            "value": "将驱动程序添加到您的预先列表中？",
+            "label": "Cancelled"
+        },
+        {
+            "constant": "rejectedOrderStatus",
+            "value": "请输入时间表时间",
+            "label": "Rejected"
+        },
+        {
+            "constant": "completedOrderStatus",
+            "value": "请输入时间表日期",
+            "label": "Completed"
+        },
+        {
+            "constant": "inrouteOrderStatus",
+            "value": "请先选择汽车类型",
+            "label": "Inroute"
+        },
+        {
+            "constant": "fareText",
+            "value": "在去你的路上",
+            "label": "Fare"
+        },
+        {
+            "constant": "scheduledOrderStatus",
+            "value": "驱动器",
+            "label": "Scheduled"
+        },
+        {
+            "constant": "privacyPolicyText",
+            "value": "旅行",
+            "label": "Privacy Policy"
+        },
+        {
+            "constant": "refundPolicyText",
+            "value": "基本票价",
+            "label": "Refund Policy"
+        },
+        {
+            "constant": "emergencyContactsHeader",
+            "value": "紧急联系人",
+            "label": "Emergency Contacts"
+        },
+        {
+            "constant": "dateText",
+            "value": "每英里",
+            "label": "Date"
+        },
+        {
+            "constant": "vehicleDetailsText",
+            "value": "每分钟",
+            "label": "Vehicle Details"
+        },
+        {
+            "constant": "upcoming",
+            "value": "积分平衡",
+            "label": "Upcoming"
+        },
+        {
+            "constant": "past",
+            "value": "输入兑换点",
+            "label": "Past"
+        },
+        {
+            "constant": "durationText",
+            "value": "赎回",
+            "label": "Duration"
+        },
+        {
+            "constant": "distanceText",
+            "value": "您确定要取消骑车吗？",
+            "label": "Distance"
+        },
+        {
+            "constant": "rateDriverText",
+            "value": "预订细节",
+            "label": "Rate Driver"
+        },
+        {
+            "constant": "myTripsHeader",
+            "value": "不",
+            "label": "My Trips"
+        },
+        {
+            "constant": "EarnedToday",
+            "value": "是的",
+            "label": "Today"
+        },
+        {
+            "constant": "EarnedLastSeven",
+            "value": "请输入点",
+            "label": "Last 7 Days"
+        },
+        {
+            "constant": "EarnedHistory",
+            "value": "请先选择车辆类型",
+            "label": "History"
+        },
+        {
+            "constant": "TotalAccepted",
+            "value": "点必须小于或等于",
+            "label": "Accepted"
+        },
+        {
+            "constant": "TotalCompleted",
+            "value": "请输入时间表日期",
+            "label": "Completed"
+        },
+        {
+            "constant": "TotalRejected",
+            "value": "请输入时间表时间",
+            "label": "Rejected"
+        },
+        {
+            "constant": "TotalRequest",
+            "value": "请输入时间表日期",
+            "label": "Request"
+        },
+        {
+            "constant": "EarnedHistoryDate",
+            "value": "每英里",
+            "label": "Date"
+        },
+        {
+            "constant": "EarnedHistoryAmount",
+            "value": "每分钟",
+            "label": "Amount"
+        },
+        {
+            "constant": "EarnedHistoryBalance",
+            "value": "积分平衡",
+            "label": "Balance"
+        },
+        {
+            "constant": "EarnedHistoryType",
+            "value": "输入兑换点",
+            "label": "Type"
+        },
+        {
+            "constant": "EarnedHistoryDescription",
+            "value": "描述",
+            "label": "Description"
+        },
+        {
+            "constant": "fareText",
+            "value": "在去你的路上",
+            "label": "Fare"
+        },
+        {
+            "constant": "mobileMoneyText",
+            "value": "您确定要删除此消息吗",
+            "label": "Mobile Money"
+        },
+        {
+            "constant": "noServiceProvidersText",
+            "value": "分钟",
+            "label": "No Service Providers"
+        },
+        {
+            "constant": "selectPaymentTypeValid",
+            "value": "项目详细信息",
+            "label": "Please Select Payment Method"
+        },
+        {
+            "constant": "selectServiceProviderValid",
+            "value": "添加删除详细信息",
+            "label": "Select Service Provider First"
+        },
+        {
+            "constant": "addServiceValid",
+            "value": "添加项目详细信息",
+            "label": "Add Service First"
+        },
+        {
+            "constant": "maxOptionsValid",
+            "value": "编辑项目详细信息",
+            "label": "Maximum Options Reached"
+        },
+        {
+            "constant": "serviceAddressText",
+            "value": "可选的",
+            "label": "Service Address"
+        },
+        {
+            "constant": "serviceDetailsText",
+            "value": "数量",
+            "label": "Service Details"
+        },
+        {
+            "constant": "serviceByText",
+            "value": "完毕",
+            "label": "Service By"
+        },
+        {
+            "constant": "discountText",
+            "value": "没有字段",
+            "label": "Discount"
+        },
+        {
+            "constant": "newText",
+            "value": "添加项目",
+            "label": "New"
+        },
+        {
+            "constant": "tipText",
+            "value": "请填写所有项目详细信息",
+            "label": "Tip"
+        },
+        {
+            "constant": "noTripsText",
+            "value": "姓名",
+            "label": "No Trips"
+        },
+        {
+            "constant": "setAddressFirstText",
+            "value": "指示",
+            "label": "Set Address To View Payment Details"
+        },
+        {
+            "constant": "scheduleBookingText",
+            "value": "请输入有效号码",
+            "label": "Schedule Booking"
+        },
+        {
+            "constant": "booking",
+            "value": "到达的",
+            "label": "Booking"
+        },
+        {
+            "constant": "noBooking",
+            "value": "寻找车手",
+            "label": "No Booking"
+        },
+        {
+            "constant": "rateServiceProvider",
+            "value": "我正在寻找",
+            "label": "Rate Service Provider"
+        },
+        {
+            "constant": "thankYouBooking",
+            "value": "从各个类别中进行选择",
+            "label": "Thank You Booking"
+        },
+        {
+            "constant": "tipping",
+            "value": "没有子类别",
+            "label": "Tipping isn't available for this payment method."
+        },
+        {
+            "constant": "cancelBookingPermission",
+            "value": "添加ons",
+            "label": "Are you sure you want to Cancel Booking?"
+        },
+        {
+            "constant": "requiredAddonValid",
+            "value": "添加",
+            "label": "addon is required"
+        },
+        {
+            "constant": "selectedAddonsText",
+            "value": "欢迎来到",
+            "label": "Selected Addons"
+        },
+        {
+            "constant": "notAllowedText",
+            "value": "N/A",
+            "label": "N/A"
+        },
+        {
+            "constant": "offOnServiceText",
+            "value": "用户取消登录",
+            "label": "Off on Service"
+        },
+        {
+            "constant": "offOnRideText",
+            "value": "登录失败与错误",
+            "label": "Off on Ride"
+        },
+        {
+            "constant": "pickupMobileNumberLengthValid",
+            "value": "登记",
+            "label": "Please Enter Valid Pickup Number"
+        },
+        {
+            "constant": "dropOffMobileNumberLengthValid",
+            "value": "你确定你要删除？",
+            "label": "Please Enter Valid DropOff Number"
+        }
+    ],
+    "Insert_JSON_arr": [
+        {
+            "constant": "feedbackLabel",
+            "value": "在途中",
+            "label": "Feedback"
+        },
+        {
+            "constant": "completeSharableLink",
+            "value": "Get everything you need with HLC Follow this link: {{link}} and use My code {{code}}.",
+            "label": "Referral Link"
+        },
+        {
+            "constant": "referFriendsHeader",
+            "value": "Refer Friends",
+            "label": "Refer Friends Header"
+        },
+        {
+            "constant": "inviteFriendsDrawer",
+            "value": "Invite Friends",
+            "label": "Invite Friends Drawer"
+        },
+        {
+            "constant": "tapOnLinkText",
+            "value": "点击以下链接分享",
+            "label": "Tap on following link to Share"
+        },
+        {
+            "constant": "useCodeText",
+            "value": "And use this code",
+            "label": "And use this code"
+        },
+        {
+            "constant": "areYouSureYouWantToPay",
+            "value": "Are you sure you want to Pay with selected Card?",
+            "label": "Are you sure you want to Pay with selected Card?"
+        },
+        {
+            "constant": "referPlaceholder",
+            "value": "Refer Code",
+            "label": "Refer Code"
+        },
+        {
+            "constant": "paymentText",
+            "value": "Payment",
+            "label": "Payment"
+        },
+        {
+            "constant": "supportHeader",
+            "value": "旧密码",
+            "label": "Help & Support"
+        },
+        {
+            "constant": "supportDrawer",
+            "value": "Aide et援助",
+            "label": "Help & Support Drawer"
+        },
+        {
+            "constant": "noTransactionHistory",
+            "value": "没有交易历史记录",
+            "label": "No Transaction History"
+        },
+        {
+            "constant": "seeAll",
+            "value": "查看全部",
+            "label": "See All"
+        },
+        {
+            "constant": "notAvailableText",
+            "value": "无法使用",
+            "label": "Not Available"
+        },
+        {
+            "constant": "amount",
+            "value": "数量",
+            "label": "Amount"
+        },
+        {
+            "constant": "descriptionText",
+            "value": "描述",
+            "label": "Description"
+        },
+        {
+            "constant": "inviteYourFriendsText",
+            "value": "邀请你的朋友",
+            "label": "INVITE YOUR FRIENDS"
+        },
+        {
+            "constant": "inviteFriendsText",
+            "value": "邀请朋友",
+            "label": "Invite Friends"
+        },
+        {
+            "constant": "referPlaceholder",
+            "value": "信用记录",
+            "label": "Refer Code"
+        },
+        {
+            "constant": "faqDrawer",
+            "value": "交易历史记录",
+            "label": "FAQ Profile"
+        },
+        {
+            "constant": "faqheader",
+            "value": "交易历史记录",
+            "label": "FAQ Header"
+        },
+        {
+            "constant": "numberOfSeats",
+            "value": "座位数量",
+            "label": "Number Of Seats"
+        },
+        {
+            "constant": "pickupEmergencyDescription",
+            "value": "该应用程序想查看您的联系人以添加紧急联系人",
+            "label": "This app would like to view your contacts to add in emergency contacts"
+        },
+        {
+            "constant": "contactsAccessText",
+            "value": "联系人访问",
+            "label": "Contacts Access"
+        },
+        {
+            "constant": "cameraPermissionTitle",
+            "value": "应用摄像头权限",
+            "label": "App Camera Permission"
+        },
+        {
+            "constant": "cameraPermissionMessage",
+            "value": "应用需要摄像机许可才能更新个人资料图片",
+            "label": "App requires camera permission to update profile picture"
+        },
+        {
+            "constant": "imagePermissionTitle",
+            "value": "需要媒体许可",
+            "label": "Media Permission Required"
+        },
+        {
+            "constant": "imagePermissionMessage",
+            "value": "应用需要读取媒体图像以更新个人资料图片的权限",
+            "label": "App needs permission to read media images to update profile picture"
+        },
+        {
+            "constant": "currentText",
+            "value": "当前的",
+            "label": "Current"
+        },
+        {
+            "constant": "becomeADriver",
+            "value": "成为骑手",
+            "label": "Become A Rider"
+        },
+        {
+            "constant": "becomeAVendor",
+            "value": "成为合作餐厅",
+            "label": "Become A Partner Restaurant"
+        },
+        {
+            "constant": "creditHistory",
+            "value": "信用记录",
+            "label": "Credit History"
+        },
+        {
+            "constant": "transactionHeader",
+            "value": "交易历史记录",
+            "label": "Transaction History"
+        },
+        {
+            "constant": "fundWalletText",
+            "value": "资金钱包",
+            "label": "Fund Wallet"
+        },
+        {
+            "constant": "thankYouRideText",
+            "value": "谢谢你的骑车。",
+            "label": "Thank you for your ride."
+        },
+        {
+            "constant": "maxSelect",
+            "value": "您可以选择",
+            "label": "You can choose up to"
+        },
+        {
+            "constant": "passwordLengthValid",
+            "value": "密码应大于4位数",
+            "label": "The password should be greater than 4 digits"
+        },
+        {
+            "constant": "scheduleARideText",
+            "value": "安排旅程",
+            "label": "Schedule a Ride"
+        },
+        {
+            "constant": "cartItemTaxText",
+            "value": "加上税收",
+            "label": "Plus Taxes"
+        },
+        {
+            "constant": "findingRidersText",
+            "value": "寻找车手",
+            "label": "Finding Riders"
+        },
+        {
+            "constant": "waitingForOrderStatus",
+            "value": "等待驾驶员接受。",
+            "label": "Waiting for Driver to accept."
+        },
+        {
+            "constant": "foundRidersText",
+            "value": "等待骑手接受",
+            "label": "Waiting For Riders to accept"
+        },
+        {
+            "constant": "outOfStockLabel",
+            "value": "目前物品掉了库存",
+            "label": "Currently item is out of stock"
+        },
+        {
+            "constant": "webExpiredMode",
+            "value": "您的计划已过期，请与管理员联系。",
+            "label": "Your Plan is expired,please contact to administrator."
+        },
+        {
+            "constant": "copyright",
+            "value": "版权",
+            "label": "Copyright"
+        },
+        {
+            "constant": "copyrights",
+            "value": "版权所有。",
+            "label": "All Rights Reserved."
+        },
+        {
+            "constant": "vendorFormLabel",
+            "value": "从",
+            "label": "Vendor From On Vendor Registration Page"
+        },
+        {
+            "constant": "venderNameLabel",
+            "value": "业务名称",
+            "label": "Business title on vendor registration page"
+        },
+        {
+            "constant": "searchAddressPlacehoderText",
+            "value": "搜索地址",
+            "label": "Search Address"
+        },
+        {
+            "constant": "areaPlaceholderText",
+            "value": "区域",
+            "label": "Area"
+        },
+        {
+            "constant": "houseNumberPlaceholderText",
+            "value": "房子没有",
+            "label": "House No"
+        },
+        {
+            "constant": "landmarkPlaceholderText",
+            "value": "地标",
+            "label": "Landmark"
+        },
+        {
+            "constant": "proceedBtn",
+            "value": "继续",
+            "label": "Proceed Cart Button Text"
+        },
+        {
+            "constant": "minimumOrderLabel",
+            "value": "购物车的最低订单金额应为{minorderamont}",
+            "label": "Cart minimum order amount should be {minOrderAmont}"
+        },
+        {
+            "constant": "storeClosedLabel",
+            "value": "此供应商目前没有接受订单。",
+            "label": "This Vendor is not taking orders at this moment."
+        },
+        {
+            "constant": "noDeliveryAvailable",
+            "value": "目前尚未提供到此位置的交付",
+            "label": "Currently not offering Delivery to this location"
+        },
+        {
+            "constant": "perPersonText",
+            "value": "avg。每人",
+            "label": "Per Person"
+        },
+        {
+            "constant": "vegonTypeLabel",
+            "value": "素食类型",
+            "label": "Vegan Type"
+        },
+        {
+            "constant": "veg",
+            "value": "蔬菜",
+            "label": "Veg"
+        },
+        {
+            "constant": "nonVeg",
+            "value": "非素食",
+            "label": "Non Veg"
+        },
+        {
+            "constant": "nowDeliveryLabel",
+            "value": "今天",
+            "label": "Today"
+        },
+        {
+            "constant": "scheduledDeliveryLabel",
+            "value": "提前安排",
+            "label": "Schedule in Advance"
+        },
+        {
+            "constant": "scheduledDateLabel",
+            "value": "时间表日期",
+            "label": "Schedule Date"
+        },
+        {
+            "constant": "scheduledtimeLabel",
+            "value": "计划的时间",
+            "label": "Scheduled Time"
+        },
+        {
+            "constant": "scheduleDeliveryHeading",
+            "value": "送货",
+            "label": "Delivery"
+        },
+        {
+            "constant": "futureOrderPlaceMsg",
+            "value": "您已成功安排",
+            "label": "You Order successfully scheduled for"
+        },
+        {
+            "constant": "storesNearMeText",
+            "value": "我附近的商店",
+            "label": "Stores Near Me"
+        },
+        {
+            "constant": "noStoresAvailableText",
+            "value": "没有可用的商店",
+            "label": "No Stores Available"
+        },
+        {
+            "constant": "cartBillLabel",
+            "value": "账单",
+            "label": "Bill"
+        },
+        {
+            "constant": "itemsTotalText",
+            "value": "项目总计",
+            "label": "Item Total"
+        },
+        {
+            "constant": "cartTipAmountLabel",
+            "value": "提示金额",
+            "label": "Tip Amount"
+        },
+        {
+            "constant": "serviceTaxes",
+            "value": "税收和费用",
+            "label": "Tax and Fees"
+        },
+        {
+            "constant": "deliveryFeeText",
+            "value": "送货费",
+            "label": "Delivery Charge"
+        },
+        {
+            "constant": "totalAmuntText",
+            "value": "总薪水",
+            "label": "Total Pay"
+        },
+        {
+            "constant": "cartPlaceOrderBtn",
+            "value": "下订单",
+            "label": "Place Order"
+        },
+        {
+            "constant": "deliveryAddressLabel",
+            "value": "邮寄地址",
+            "label": "Delivery Address"
+        },
+        {
+            "constant": "deliveryTypeLabel",
+            "value": "送货类型",
+            "label": "Delivery Type"
+        },
+        {
+            "constant": "homeDelivery",
+            "value": "送货上门",
+            "label": "Home Delivery"
+        },
+        {
+            "constant": "takeAway",
+            "value": "带走",
+            "label": "Take Away"
+        },
+        {
+            "constant": "followUsText",
+            "value": "跟着我们",
+            "label": "Follow Us"
+        },
+        {
+            "constant": "minOrderText",
+            "value": "最小命令",
+            "label": "min. Order"
+        },
+        {
+            "constant": "orderInstructions",
+            "value": "仅接受100个字符",
+            "label": "Accept only 100 characters"
+        },
+        {
+            "constant": "orderInstructionTitle",
+            "value": "添加任何订单说明（可选）",
+            "label": "Add any order instructions (optional)"
+        },
+        {
+            "constant": "orderInstructionsView",
+            "value": "订购说明",
+            "label": "Order Instructions"
+        }
+    ],
+    "orderLang_arr": [
+        {
+            "constant": "ORDER_ADDED_SUCCESS",
+            "value": "订单成功地放置",
+            "label": "Order placed successfully"
+        },
+        {
+            "constant": "NEW_ORDER_VENDOR",
+            "value": "新订单来自：{name}",
+            "label": "New order from: {name} (For vendor)"
+        },
+        {
+            "constant": "NEW_BOOKING_VENDOR",
+            "value": "新预订来自：{name}",
+            "label": "New booking from: {name} (For vendor)"
+        },
+        {
+            "constant": "ORDER_REQUEST_FROM",
+            "value": "订购请求来自：{name}",
+            "label": "Order Request From: {name} (For driver)"
+        },
+        {
+            "constant": "ORDER_ACCEPTED_CUSTOMER",
+            "value": "您的订单已被接受",
+            "label": "Your order has been accepted"
+        },
+        {
+            "constant": "ORDER_REFUND_CUSTOMER",
+            "value": "您的订单退款已被处理",
+            "label": "Your order refund has been processed"
+        },
+        {
+            "constant": "BOOKING_REFUND_CUSTOMER",
+            "value": "您的预订服务退款已被处理",
+            "label": "Your booking service refund has been processed"
+        },
+        {
+            "constant": "ORDER_DECLINED_CUSTOMER",
+            "value": "您的订单已被拒绝",
+            "label": "Your order has been declined"
+        },
+        {
+            "constant": "ORDER_CUSTOMER_PICKUP",
+            "value": "{name}正在接收您的订单",
+            "label": "{name} is on way to pickup your order"
+        },
+        {
+            "constant": "ORDER_CUSTOMER_ARRIVED",
+            "value": "{name}到达餐厅接您的订单",
+            "label": "{name} arrived at restaurant to pickup your order"
+        },
+        {
+            "constant": "ORDER_CUSTOMER_PICKED",
+            "value": "{name}正在交付您的订单",
+            "label": "{name} is on way to deliver your order"
+        },
+        {
+            "constant": "ORDER_READY_DRIVER",
+            "value": "您的订单已经准备好，请接订单",
+            "label": "Your order has been ready, please pick up order"
+        },
+        {
+            "constant": "ORDER_CUSTOMER_COMPLETED",
+            "value": "{name}成功交付了您的订单",
+            "label": "{name} delivered your order successfully"
+        },
+        {
+            "constant": "BOOKING_REQUEST_FROM",
+            "value": "预订请求来自：{name}",
+            "label": "Booking Request From"
+        },
+        {
+            "constant": "BOOKING_CUSTOMER_COMPLETED",
+            "value": "{name}成功完成了您的预订",
+            "label": "completed your booking successfully"
+        },
+        {
+            "constant": "BOOKING_COMPLETED_SUCCESS",
+            "value": "预订成功完成",
+            "label": "Booking successfully completed"
+        },
+        {
+            "constant": "BOOKING_ACCEPTED_CUSTOMER",
+            "value": "您的预订已被接受，{name}正在路上",
+            "label": "Booking successfully completed"
+        },
+        {
+            "constant": "BOOKING_ASSIGNED_SUCCESS",
+            "value": "预订分配",
+            "label": "Booking Assigned"
+        },
+        {
+            "constant": "BOOKING_ARRIVED_SUCCESS",
+            "value": "服务提供商到达",
+            "label": "Service Provider Arrived"
+        },
+        {
+            "constant": "BOOKING_CUSTOMER_ARRIVED",
+            "value": "服务提供商已到达该地点",
+            "label": "The service provider has arrived at the location"
+        },
+        {
+            "constant": "BOOKING_READY_DRIVER",
+            "value": "您的预订服务已开始",
+            "label": "Your booking service has been started"
+        },
+        {
+            "constant": "BOOKING_START",
+            "value": "服务开始",
+            "label": "Service Started"
+        },
+        {
+            "constant": "RIDE_CUSTOMER_CANCELLED",
+            "value": "您的骑行已被取消",
+            "label": "Your ride has been cancelled"
+        },
+        {
+            "constant": "RIDE_CUSTOMER_AUTO_CANCELLED",
+            "value": "您的骑行已被取消",
+            "label": "Your ride has been cancelled(AUTO)"
+        },
+        {
+            "constant": "BOOKING_CUSTOMER_CANCELLED",
+            "value": "您的预订已被取消。",
+            "label": "Your booking has been cancelled."
+        },
+        {
+            "constant": "BOOKING_DRIVER_CANCELLED",
+            "value": "{name}取消了您的预订",
+            "label": "{name} cancelled your booking"
+        },
+        {
+            "constant": "BOOKING_CANCELLED",
+            "value": "预订取消",
+            "label": "Booking Cancelled"
+        }
+    ],
+    "tripLang_arr": [
+        {
+            "constant": "TRIP_ADDED_SUCCESS",
+            "value": "旅行成功创造了",
+            "label": "Trip created message"
+        },
+        {
+            "constant": "TRIP_REQUEST_FROM",
+            "value": "旅行请求来自：{name}",
+            "label": "Trip request notification to driver"
+        },
+        {
+            "constant": "TRIP_ACCEPTED_CUSTOMER",
+            "value": "您的旅行已被接受，{name}即将到达您的接送位置",
+            "label": "Driver accepted notification to customer"
+        },
+        {
+            "constant": "TRIP_REFUND_CUSTOMER",
+            "value": "您的旅行退款已被处理",
+            "label": "Your trip refund has been processed"
+        },
+        {
+            "constant": "TRIP_DECLINED_CUSTOMER",
+            "value": "您的旅行被拒绝",
+            "label": "Driver declined notification to customer"
+        },
+        {
+            "constant": "TRIP_CUSTOMER_ARRIVED",
+            "value": "{名称}到达您的位置。",
+            "label": "Driver arrived notification to customer"
+        },
+        {
+            "constant": "TRIP_READY_DRIVER",
+            "value": "您正在去目的地",
+            "label": "Trip started notification to customer"
+        },
+        {
+            "constant": "TRIP_CUSTOMER_COMPLETED",
+            "value": "您的旅行已成功完成，感谢您与我们一起骑行。",
+            "label": "Trip completed notification to customer"
+        },
+        {
+            "constant": "RIDE_CANCELLED",
+            "value": "您的骑行已被取消。",
+            "label": "Ride Cancelled notification to customer"
+        },
+        {
+            "constant": "RIDE_DECLINED_CUSTOMER",
+            "value": "您的骑行被拒绝了。",
+            "label": "Ride Cancelled notification to customer"
+        },
+        {
+            "constant": "BOOKING_DECLINED_CUSTOMER",
+            "value": "您的预订服务已被拒绝。",
+            "label": "Booking Declined notification to customer"
+        },
+        {
+            "constant": "BOOKING_DECLINED",
+            "value": "预订拒绝了。",
+            "label": "Booking Cancelled notification to customer"
+        }
+    ]
+}

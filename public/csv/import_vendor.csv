@@ -1,0 +1,3 @@
+name,countryCode,mobileNumber,email,address,password,deliveryType,pricePerPerson,minOrderAmount,taxAmount,orderPreparationTime
+Priyesh,91,7812314003,priyeshcsv3@gmail.com,Delhi,123456,"TAKEAWAY,DELIVERY",200,10,2,30
+Priyesh,91,7812314004,priyeshcsv3@gmail.com,Delhi,123456,"TAKEAWAY,DELIVERY",200,10,2,30

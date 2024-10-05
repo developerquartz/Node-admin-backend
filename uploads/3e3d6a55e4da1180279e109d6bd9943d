@@ -1,0 +1,2 @@
+categories,name,price,compare_price,short_description,description,featured_image,images,sku,status,stock_quantity,stock_status,type,veganType,addons:Name1,addons:OptionName1,addons:OptionPrice1,addons:Name2,addons:OptionName2,addons:OptionPrice2
+"Chicken,Chicken tikka",Chicken Tikka,220,350,Chicken,<p>Chicken Tikka</p>,,,chickentikka02,active,10,instock,simple,veg,Toppings,Paneer,100,Extra,Garlic Souce,10

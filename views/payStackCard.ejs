@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <title>
+        <%= title %>
+    </title>
+    <link rel='stylesheet' href='/css/style.css' />
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body,
+        html {
+            height: 100%;
+            min-height: 100%;
+        }
+
+        body {
+            font-family: 'Roboto',
+                sans-serif;
+            margin: 0;
+            background-color: #e7e7e7;
+        }
+
+        .credit-card {
+            width: 360px;
+            height: 400px;
+            margin: 60px auto 0;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            background-color: #fff;
+            box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, .10);
+        }
+
+        .form-header {
+            height: 60px;
+            padding: 20px 30px 0;
+            border-bottom: 1px solid #e1e8ee;
+        }
+
+        .form-body {
+            height: 340px;
+            padding: 30px 30px 20px;
+        }
+
+        .title {
+            font-size: 18px;
+            margin: 0;
+            color: #5e6977;
+        }
+
+        .card-number,
+        .cvv-input input {
+            font-size: 14px;
+            font-weight: 100;
+            line-height: 14px;
+        }
+
+        .card-number {
+            font-size: 14px;
+            font-weight: 100;
+            line-height: 14px;
+        }
+
+        .card-number,
+        .cvv-details,
+        .cvv-input input {
+            opacity: .7;
+            color: #86939e;
+        }
+
+        .card-number {
+            width: 100%;
+            margin-bottom: 20px;
+            padding-left: 20px;
+            border: 2px solid #e1e8ee;
+            border-radius: 6px;
+        }
+
+        .cvv-input input {
+            float: left;
+            width: 145px;
+            padding-left: 20px;
+            border: 2px solid #e1e8ee;
+            border-radius: 6px;
+            background: #fff;
+        }
+
+        .cvv-details {
+            font-size: 12px;
+            font-weight: 300;
+            line-height: 16px;
+            float: right;
+            margin-bottom: 20px;
+        }
+
+        .proceed-btn {
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+            border-color: transparent;
+            border-radius: 6px;
+        }
+
+        .proceed-btn {
+            margin-top: 40px;
+            margin-bottom: 10px;
+            background: #7dc855;
+        }
+
+        .proceed-btn a {
+            text-decoration: none;
+        }
+
+        .proceed-btn a {
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <form class="credit-card" id="paymentForm" method="post" autocomplete="off">
+        <div class="form-header">
+            <h4 class="title">Credit card detail</h4>
+        </div>
+
+        <div class="form-body">
+            <!-- Email -->
+            <input type="email" class="card-number" id="email-address" placeholder="email" required>
+            <div class="card-verification">
+                <div class="cvv-input">
+                    <input type="number" id="amount" min="1" placeholder="Enter Amount" required>
+                </div>
+            </div>
+
+            <!-- Buttons -->
+            <button type="submit" class="proceed-btn" onclick="payWithPaystack()">Proceed</button>
+        </div>
+    </form>
+    <script>
+        const paymentForm = document.getElementById('paymentForm');
+        paymentForm.addEventListener("submit", payWithPaystack, false);
+        function payWithPaystack(e) {
+            e.preventDefault();
+            let handler = PaystackPop.setup({
+                key: 'pk_test_7dda6cb705cc1a9667a8dd43c6668b6266d2c817', // Replace with your public key
+                email: document.getElementById("email-address").value,
+                amount: document.getElementById("amount").value * 100,
+                currency: 'NGN',
+                channels: ['card', 'bank', 'ussd', 'qr', 'mobile_money', 'bank_transfer'],
+
+                "qr": {
+                    "provider": "visa"
+                },
+                onClose: function () {
+                    alert('Window closed.');
+                },
+                callback: function (response) {
+                    console.log(response.status)
+                    if (response.status == 'success') {
+                        let message = 'Payment complete! Reference: ' + response.reference;
+                        alert(message);
+                    }
+                    else {
+                        let message = 'Transaction failed !!'
+                        alert(message);
+                    }
+                }
+            });
+            handler.openIframe();
+        }
+    </script>
+    <script src="https://js.paystack.co/v1/inline.js"></script>
+</body>
+
+</html>

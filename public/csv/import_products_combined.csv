@@ -1,0 +1,10 @@
+categories,name,sku,type,price,compare_price,short_description,description,featured_image,images,status,manage_stock,stock_quantity,stock_status,brand,Variation:Name1,Variation:Value1,Variation:Name2,Variation:Value2,Variation:sku,Variation:price,Variation:stock_quantity,Variation:manage_stock,Variation:stock_status
+Best,Non veg soup demo,nonVeg_soup02,variable,120,150,demo,<p>sdfsd</p>,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,"https://www.alimentarium.org/en/system/files/thumbnails/image/AL027-01_pomme_de_terre_0.jpg,https://c.ndtvimg.com/p5qg74v8_potato_625x300_01_August_18.jpg",active,FALSE,0,instock,grocery,size,S,color,Red,est1,20,10,TRUE,instock
+,,nonVeg_soup02,,,,,,,,,,,,,,S,,Green,est2,20,10,TRUE,instock
+,,nonVeg_soup02,,,,,,,,,,,,,,L,,Red,est3,20,10,TRUE,instock
+,,nonVeg_soup02,,,,,,,,,,,,,,L,,Green,est4,20,10,TRUE,instock
+,,nonVeg_soup02,,,,,,,,,,,,,,M,,Black,est5,20,0,FALSE,instock
+Best,Veg soup,Veg_soup02,variable,120,150,demo,<p>sdfsd</p>,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,"https://www.alimentarium.org/en/system/files/thumbnails/image/AL027-01_pomme_de_terre_0.jpg,https://c.ndtvimg.com/p5qg74v8_potato_625x300_01_August_18.jpg",inactive,FALSE,0,outofstock,grocery,size,S,color,Red,est6,20,10,TRUE,instock
+,,Veg_soup02,,,,,,,,,,,,,,S,,Black,est7,20,10,TRUE,instock
+,,Veg_soup02,,,,,,,,,,,,,,L,,Red,est8,20,10,TRUE,instock
+,,Veg_soup02,,,,,,,,,,,,,,L,,Green,est9,20,10,TRUE,instock

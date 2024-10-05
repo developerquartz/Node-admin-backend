@@ -1,0 +1,7 @@
+categories,name,price,compare_price,short_description,featured_image,images,sku,status,stock_status,type,veganType,addons:Name1,addons:OptionName1,addons:OptionPrice1,addons:Name2,addons:OptionName2,addons:OptionPrice2
+"Chicken,Chicken soup",Non veg soup3,120,150,demo,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,nonVeg_soup0a,active,instock,simple,veg,Toppings,Paneer,50,Extra,Garlic Souce,12
+,,,,,,,nonVeg_soup0a,,,,,,Cheese,50,,Mayonnaise,20
+,,,,,,,nonVeg_soup0a,,,,,,Red Souce,20,,Paneer,20
+Veg soup,Veg soup4,120,150,demo,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,https://www.isaaa.org/kc/cropbiotechupdate/files/images/1232019105233PM.jpg,Veg_soup02a,inactive,outofstock,simple,nonveg,Toppings2,Paneer2,10,Extra2,Garlic Souce2,10
+,,,,,,,Veg_soup02a,,,,,,Garlic Souce2,20,,Mayonnaise2,20
+,,,,,,,Veg_soup02a,,,,,,Red Souce2,21,,Paneer2,21
