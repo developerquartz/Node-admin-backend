@@ -1,7 +1,7 @@
 {
   "name": "auth-microservice",
   "version": "1.0.0",
-  "description": "Suffescom SAAS",
+  "description": "test SAAS",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -10,11 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gauravsuffes@bitbucket.org/suffescom_mobile/suffescom-lamda-backend.git"
+    "url": "git+https://gauravtest@bitbucket.org/test_mobile/test-lamda-backend.git"
   },
-  "author": "Suffescom.com",
+  "author": "test.com",
   "license": "ISC",
-  "homepage": "https://gauravsuffes@bitbucket.org/suffescom_mobile/suffescom-lamda-backend.git#readme",
+  "homepage": "https://gauravtest@bitbucket.org/test_mobile/test-lamda-backend.git#readme",
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.1.13",
     "agenda": "^4.0.1",

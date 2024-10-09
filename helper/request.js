@@ -51,12 +51,12 @@ let createLeadInHubspot = async (data) => {
         obj.lead_type = 'hlc'
         obj.captcha_render = 'false'
         let query_string = Object.keys(obj).map(key => key + '=' + obj[key]).join('&')
-        let url = md5('https://www.suffescom.com');
+        let url = md5('https://www.test.com');
         var bodyFormData = new FormData();
         bodyFormData.append("params", query_string)
         bodyFormData.append("action", "create-lead")
         bodyFormData.append("apikey", url)
-        let hubspotEndPoint = 'https://api.suffescom.com/app';
+        let hubspotEndPoint = 'https://api.test.com/app';
         let request = await axios({
             method: 'post',
             url: hubspotEndPoint,
